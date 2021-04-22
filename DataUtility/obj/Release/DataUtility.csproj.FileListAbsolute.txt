@@ -1,0 +1,88 @@
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\DataUtility\bin\Release\DataUtility.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\DataUtility\bin\Release\DataUtility.pdb
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\DataUtility\bin\Release\LoggerUtility.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\DataUtility\bin\Release\Serilog.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\DataUtility\bin\Release\Microsoft.Extensions.Configuration.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\DataUtility\bin\Release\Serilog.Sinks.File.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\DataUtility\bin\Release\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\DataUtility\bin\Release\Microsoft.Extensions.Primitives.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\DataUtility\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\DataUtility\bin\Release\LoggerUtility.pdb
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\DataUtility\bin\Release\Serilog.pdb
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\DataUtility\bin\Release\Serilog.xml
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\DataUtility\bin\Release\Microsoft.Extensions.Configuration.xml
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\DataUtility\bin\Release\Serilog.Sinks.File.xml
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\DataUtility\bin\Release\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\DataUtility\bin\Release\Microsoft.Extensions.Primitives.xml
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\DataUtility\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\DataUtility\obj\Release\DataUtility.csprojAssemblyReference.cache
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\DataUtility\obj\Release\DataUtility.csproj.CoreCompileInputs.cache
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\DataUtility\obj\Release\DataUtility.csproj.CopyComplete
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\DataUtility\obj\Release\DataUtility.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\DataUtility\obj\Release\DataUtility.pdb
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\DataUtility\bin\Release\DataUtility.dll
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\DataUtility\bin\Release\DataUtility.pdb
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\DataUtility\bin\Release\LoggerUtility.dll
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\DataUtility\bin\Release\Serilog.dll
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\DataUtility\bin\Release\Microsoft.Extensions.Configuration.dll
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\DataUtility\bin\Release\Serilog.Sinks.File.dll
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\DataUtility\bin\Release\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\DataUtility\bin\Release\Microsoft.Extensions.Primitives.dll
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\DataUtility\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\DataUtility\bin\Release\LoggerUtility.pdb
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\DataUtility\bin\Release\Serilog.pdb
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\DataUtility\bin\Release\Serilog.xml
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\DataUtility\bin\Release\Microsoft.Extensions.Configuration.xml
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\DataUtility\bin\Release\Serilog.Sinks.File.xml
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\DataUtility\bin\Release\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\DataUtility\bin\Release\Microsoft.Extensions.Primitives.xml
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\DataUtility\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\DataUtility\obj\Release\DataUtility.csprojAssemblyReference.cache
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\DataUtility\obj\Release\DataUtility.csproj.CoreCompileInputs.cache
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\DataUtility\obj\Release\DataUtility.csproj.CopyComplete
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\DataUtility\obj\Release\DataUtility.dll
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\DataUtility\obj\Release\DataUtility.pdb
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\DataUtility\bin\Release\DataUtility.dll
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\DataUtility\bin\Release\DataUtility.pdb
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\DataUtility\bin\Release\LoggerUtility.dll
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\DataUtility\bin\Release\Serilog.dll
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\DataUtility\bin\Release\Microsoft.Extensions.Configuration.dll
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\DataUtility\bin\Release\Serilog.Sinks.File.dll
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\DataUtility\bin\Release\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\DataUtility\bin\Release\Microsoft.Extensions.Primitives.dll
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\DataUtility\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\DataUtility\bin\Release\LoggerUtility.pdb
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\DataUtility\bin\Release\Serilog.pdb
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\DataUtility\bin\Release\Serilog.xml
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\DataUtility\bin\Release\Microsoft.Extensions.Configuration.xml
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\DataUtility\bin\Release\Serilog.Sinks.File.xml
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\DataUtility\bin\Release\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\DataUtility\bin\Release\Microsoft.Extensions.Primitives.xml
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\DataUtility\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\DataUtility\obj\Release\DataUtility.csprojAssemblyReference.cache
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\DataUtility\obj\Release\DataUtility.csproj.CoreCompileInputs.cache
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\DataUtility\obj\Release\DataUtility.csproj.CopyComplete
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\DataUtility\obj\Release\DataUtility.dll
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\DataUtility\obj\Release\DataUtility.pdb
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\HWAIClient\DataUtility\bin\Release\DataUtility.dll
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\HWAIClient\DataUtility\bin\Release\DataUtility.pdb
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\HWAIClient\DataUtility\bin\Release\LoggerUtility.dll
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\HWAIClient\DataUtility\bin\Release\Serilog.dll
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\HWAIClient\DataUtility\bin\Release\Microsoft.Extensions.Configuration.dll
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\HWAIClient\DataUtility\bin\Release\Serilog.Sinks.File.dll
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\HWAIClient\DataUtility\bin\Release\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\HWAIClient\DataUtility\bin\Release\Microsoft.Extensions.Primitives.dll
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\HWAIClient\DataUtility\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\HWAIClient\DataUtility\bin\Release\LoggerUtility.pdb
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\HWAIClient\DataUtility\bin\Release\Serilog.pdb
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\HWAIClient\DataUtility\bin\Release\Serilog.xml
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\HWAIClient\DataUtility\bin\Release\Microsoft.Extensions.Configuration.xml
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\HWAIClient\DataUtility\bin\Release\Serilog.Sinks.File.xml
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\HWAIClient\DataUtility\bin\Release\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\HWAIClient\DataUtility\bin\Release\Microsoft.Extensions.Primitives.xml
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\HWAIClient\DataUtility\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\HWAIClient\DataUtility\obj\Release\DataUtility.csprojAssemblyReference.cache
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\HWAIClient\DataUtility\obj\Release\DataUtility.csproj.CoreCompileInputs.cache
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\HWAIClient\DataUtility\obj\Release\DataUtility.csproj.CopyComplete
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\HWAIClient\DataUtility\obj\Release\DataUtility.dll
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\HWAIClient\DataUtility\obj\Release\DataUtility.pdb

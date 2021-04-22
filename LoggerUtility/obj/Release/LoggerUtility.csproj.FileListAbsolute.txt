@@ -1,0 +1,114 @@
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\LoggerUtility\bin\Release\LoggerUtility.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\LoggerUtility\bin\Release\LoggerUtility.pdb
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\LoggerUtility\bin\Release\Microsoft.DotNet.PlatformAbstractions.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\LoggerUtility\bin\Release\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\LoggerUtility\bin\Release\Microsoft.Extensions.Configuration.Binder.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\LoggerUtility\bin\Release\Microsoft.Extensions.Configuration.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\LoggerUtility\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\LoggerUtility\bin\Release\Microsoft.Extensions.DependencyModel.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\LoggerUtility\bin\Release\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\LoggerUtility\bin\Release\Microsoft.Extensions.Options.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\LoggerUtility\bin\Release\Microsoft.Extensions.Primitives.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\LoggerUtility\bin\Release\Newtonsoft.Json.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\LoggerUtility\bin\Release\Serilog.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\LoggerUtility\bin\Release\Serilog.Settings.Configuration.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\LoggerUtility\bin\Release\Serilog.Sinks.File.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\LoggerUtility\bin\Release\Serilog.Sinks.MSSqlServer.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\LoggerUtility\bin\Release\Serilog.Sinks.PeriodicBatching.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\LoggerUtility\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\LoggerUtility\bin\Release\Microsoft.Extensions.Configuration.xml
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\LoggerUtility\bin\Release\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\LoggerUtility\bin\Release\Microsoft.Extensions.Configuration.Binder.xml
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\LoggerUtility\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\LoggerUtility\bin\Release\Microsoft.Extensions.Options.xml
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\LoggerUtility\bin\Release\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\LoggerUtility\bin\Release\Microsoft.Extensions.Primitives.xml
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\LoggerUtility\bin\Release\Newtonsoft.Json.xml
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\LoggerUtility\bin\Release\Serilog.pdb
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\LoggerUtility\bin\Release\Serilog.xml
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\LoggerUtility\bin\Release\Serilog.Settings.Configuration.xml
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\LoggerUtility\bin\Release\Serilog.Sinks.File.xml
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\LoggerUtility\bin\Release\Serilog.Sinks.MSSqlServer.xml
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\LoggerUtility\bin\Release\Serilog.Sinks.PeriodicBatching.xml
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\LoggerUtility\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\LoggerUtility\obj\Release\LoggerUtility.csproj.CoreCompileInputs.cache
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\LoggerUtility\obj\Release\LoggerUtility.csproj.CopyComplete
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\LoggerUtility\obj\Release\LoggerUtility.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\LoggerUtility\obj\Release\LoggerUtility.pdb
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\LoggerUtility\obj\Release\LoggerUtility.csprojAssemblyReference.cache
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\LoggerUtility\bin\Release\LoggerUtility.dll
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\LoggerUtility\bin\Release\LoggerUtility.pdb
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\LoggerUtility\bin\Release\Microsoft.DotNet.PlatformAbstractions.dll
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\LoggerUtility\bin\Release\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\LoggerUtility\bin\Release\Microsoft.Extensions.Configuration.Binder.dll
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\LoggerUtility\bin\Release\Microsoft.Extensions.Configuration.dll
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\LoggerUtility\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\LoggerUtility\bin\Release\Microsoft.Extensions.DependencyModel.dll
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\LoggerUtility\bin\Release\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\LoggerUtility\bin\Release\Microsoft.Extensions.Options.dll
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\LoggerUtility\bin\Release\Microsoft.Extensions.Primitives.dll
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\LoggerUtility\bin\Release\Newtonsoft.Json.dll
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\LoggerUtility\bin\Release\Serilog.dll
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\LoggerUtility\bin\Release\Serilog.Settings.Configuration.dll
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\LoggerUtility\bin\Release\Serilog.Sinks.File.dll
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\LoggerUtility\bin\Release\Serilog.Sinks.MSSqlServer.dll
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\LoggerUtility\bin\Release\Serilog.Sinks.PeriodicBatching.dll
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\LoggerUtility\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\LoggerUtility\bin\Release\Microsoft.Extensions.Configuration.xml
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\LoggerUtility\bin\Release\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\LoggerUtility\bin\Release\Microsoft.Extensions.Configuration.Binder.xml
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\LoggerUtility\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\LoggerUtility\bin\Release\Microsoft.Extensions.Options.xml
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\LoggerUtility\bin\Release\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\LoggerUtility\bin\Release\Microsoft.Extensions.Primitives.xml
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\LoggerUtility\bin\Release\Newtonsoft.Json.xml
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\LoggerUtility\bin\Release\Serilog.pdb
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\LoggerUtility\bin\Release\Serilog.xml
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\LoggerUtility\bin\Release\Serilog.Settings.Configuration.xml
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\LoggerUtility\bin\Release\Serilog.Sinks.File.xml
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\LoggerUtility\bin\Release\Serilog.Sinks.MSSqlServer.xml
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\LoggerUtility\bin\Release\Serilog.Sinks.PeriodicBatching.xml
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\LoggerUtility\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\LoggerUtility\obj\Release\LoggerUtility.csprojAssemblyReference.cache
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\LoggerUtility\obj\Release\LoggerUtility.csproj.CoreCompileInputs.cache
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\LoggerUtility\obj\Release\LoggerUtility.csproj.CopyComplete
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\LoggerUtility\obj\Release\LoggerUtility.dll
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\LoggerUtility\obj\Release\LoggerUtility.pdb
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\LoggerUtility\bin\Release\LoggerUtility.dll
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\LoggerUtility\bin\Release\LoggerUtility.pdb
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\LoggerUtility\bin\Release\Microsoft.DotNet.PlatformAbstractions.dll
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\LoggerUtility\bin\Release\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\LoggerUtility\bin\Release\Microsoft.Extensions.Configuration.Binder.dll
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\LoggerUtility\bin\Release\Microsoft.Extensions.Configuration.dll
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\LoggerUtility\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\LoggerUtility\bin\Release\Microsoft.Extensions.DependencyModel.dll
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\LoggerUtility\bin\Release\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\LoggerUtility\bin\Release\Microsoft.Extensions.Options.dll
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\LoggerUtility\bin\Release\Microsoft.Extensions.Primitives.dll
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\LoggerUtility\bin\Release\Newtonsoft.Json.dll
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\LoggerUtility\bin\Release\Serilog.dll
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\LoggerUtility\bin\Release\Serilog.Settings.Configuration.dll
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\LoggerUtility\bin\Release\Serilog.Sinks.File.dll
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\LoggerUtility\bin\Release\Serilog.Sinks.MSSqlServer.dll
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\LoggerUtility\bin\Release\Serilog.Sinks.PeriodicBatching.dll
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\LoggerUtility\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\LoggerUtility\bin\Release\Microsoft.Extensions.Configuration.xml
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\LoggerUtility\bin\Release\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\LoggerUtility\bin\Release\Microsoft.Extensions.Configuration.Binder.xml
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\LoggerUtility\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\LoggerUtility\bin\Release\Microsoft.Extensions.Options.xml
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\LoggerUtility\bin\Release\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\LoggerUtility\bin\Release\Microsoft.Extensions.Primitives.xml
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\LoggerUtility\bin\Release\Newtonsoft.Json.xml
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\LoggerUtility\bin\Release\Serilog.pdb
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\LoggerUtility\bin\Release\Serilog.xml
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\LoggerUtility\bin\Release\Serilog.Settings.Configuration.xml
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\LoggerUtility\bin\Release\Serilog.Sinks.File.xml
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\LoggerUtility\bin\Release\Serilog.Sinks.MSSqlServer.xml
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\LoggerUtility\bin\Release\Serilog.Sinks.PeriodicBatching.xml
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\LoggerUtility\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\LoggerUtility\obj\Release\LoggerUtility.csprojAssemblyReference.cache
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\LoggerUtility\obj\Release\LoggerUtility.csproj.CoreCompileInputs.cache
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\LoggerUtility\obj\Release\LoggerUtility.csproj.CopyComplete
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\LoggerUtility\obj\Release\LoggerUtility.dll
+E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\LoggerUtility\obj\Release\LoggerUtility.pdb

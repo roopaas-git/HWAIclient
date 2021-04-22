@@ -1,0 +1,217 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="HealthMasterDashboard.master.cs" Inherits="HealthWorks.Pages.HealthMasterDashboard" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>HealthWorksAI - Home</title>
+    <meta name="description" content="" />
+    <link rel="icon" href="../dist/Images/favicon.png" type="image/png">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css"
+        integrity="sha256-h20CPZ0QyXlBuAw7A+KluUYx/3pK+c7lYEpqLTlxjYQ=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="../dist/css/Teg_Login_Custom_Styles.css" />
+    <link href="../dist/css/Chatbot.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <script language="javascript" type="text/javascript">
+        var sessionTimeout = "<%= Session.Timeout %>";
+        setTimeout('RedirectToWelcomePage()', parseInt(sessionTimeout) * 60 * 1000);
+
+        function RedirectToWelcomePage() {
+            var test = document.getElementById('<%= this.Hdn_username.ClientID %>').value;
+            HealthWorks.Pages.LogoutWebService.UpdateStatus(test);
+            window.location = "../Default.aspx";
+        }
+    </script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script type="text/javascript">
+        /**
+        * This javascript file checks for the brower/browser tab action.
+        * It is based on the file menstioned by Daniel Melo.
+        * Reference: http://stackoverflow.com/questions/1921941/close-kill-the-session-when-the-browser-or-tab-is-closed
+        */
+        var validNavigation = false;
+
+        function endSession() {
+            // Browser or broswer tab is closed
+            // Do sth here ...
+            var test = document.getElementById('<%= this.Hdn_username.ClientID %>').value;           
+            HealthWorks.Pages.LogoutWebService.UpdateStatus(test);          
+            alert("Browser is being closed.");            
+        }
+
+        function wireUpEvents() {
+            /*
+            * For a list of events that triggers onbeforeunload on IE
+            * check http://msdn.microsoft.com/en-us/library/ms536907(VS.85).aspx
+            */
+            window.onbeforeunload = function () {    
+               
+                if (!validNavigation) {
+                    endSession();
+                }
+            }
+
+            // Attach the event keypress to exclude the F5 refresh
+            $(document).bind('keypress', function (e) {
+                if (e.keyCode == 116) {
+                    validNavigation = true;
+                }
+            });
+
+            // Attach the event click for all links in the page
+            $("a").bind("click", function () {
+                validNavigation = true;
+            });
+
+            // Attach the event submit for all forms in the page
+            $("form").bind("submit", function () {
+                validNavigation = true;
+            });
+
+            // Attach the event click for all inputs in the page
+            $("input[type=submit]").bind("click", function () {
+                validNavigation = true;
+            });
+            $("input[type=radio]").bind("click", function () {
+                validNavigation = true;
+            });
+
+            $("select").bind("change", function () {
+                validNavigation = true;
+            });
+
+            $("input[type=text]").bind("change", function () {
+                validNavigation = true;
+            });
+
+        }
+
+        // Wire up the events as soon as the DOM tree is ready
+        $(document).ready(function () { 
+            wireUpEvents();
+        });
+    </script>
+    <div id="webchat" />
+    <script src="../dist/js/webchat.min.js"></script>
+    // Or you can replace latest with a specific version
+    <script>
+        var someSession = '<%= Session["FirstName"].ToString() %>';
+        var hf = '/get_started{"name": "' + someSession + '", "client": "healthworksai.analytics-hub", "acc_man":"Aditya", "con_term":"6/26/2020", "con_level":"2019 Platinum", "email":"aditya.kumar@teganalytics.com"}';
+
+        WebChat.default.init({
+            selector: "#webchat",
+            initPayload: hf,
+            interval: 5000, // lag in ms between each message
+            customData: { "language": "en" }, // arbitrary custom data. Stay minimal as this will be added to the socket
+            socketUrl: "https://chatbot.analytics-hub.com:5005/",
+            socketPath: "/socket.io/",
+            title: "HWAI Genie",
+            subtitle: "Quick resource for basic queries",
+            profileAvatar: "../dist/Images/hw_icon.png",
+            params: {
+                storage: "session"
+            }
+        })
+    </script>
+    <form id="form1" runat="server" class="">
+        <asp:HiddenField ID="Hdn_username" runat="server" />
+        <asp:ScriptManager runat="server" ID="scriptManagerId" ScriptMode="Release" AsyncPostBackTimeout="360000">
+            <Services>
+                <asp:ServiceReference Path="~/Pages/LogoutWebService.asmx" />
+            </Services>
+        </asp:ScriptManager>
+        <div class="hw-page dashboard-page">
+            <header class="hw-header fixed-top">
+                <nav class="navbar navbar-expand-md navbar-light bg-white">
+                    <div class="container-fluid">
+                        <div class="hw-header-logo-container">
+                            <a class="navbar-brand hw-header-logo primary" href="Home.aspx">
+                                <img src="../dist/Images/healthworks_ai-logo.png" alt="healthworks logo">
+                            </a>
+                        </div>
+
+                        <div id="hwNavbar" class="hw-header-navbar">
+                            <ul class="navbar-nav d-flex align-items-center">
+                                <li class="nav-item dropdown ml-2">
+                                    <a class="nav-link dropdown-toggle" href="#" role="button" id="ticketNav-dd" data-toggle="dropdown"
+                                        aria-haspopup="true" aria-expanded="false">
+                                        <i class="fas fa-ticket-alt fa-gradient fa-rotate-45"></i>
+                                    </a>
+                                    <div class="hw-header-dropdown-menu dropdown-menu dropdown-menu-md-right"
+                                        aria-labelledby="ticketNav-dd">
+                                        <asp:LinkButton ID="lbCreateNew" runat="server" ClientIDMode="Static" CssClass="dropdown-item" CommandName="CreateTicket.aspx" CommandArgument="CreateTicket" OnClick="lbExternal_Click">
+                                            Create Ticket
+                                        </asp:LinkButton>
+                                        <asp:LinkButton ID="lbStatus" runat="server" ClientIDMode="Static" CssClass="dropdown-item" CommandName="StatusTicket.aspx" CommandArgument="StatusTicket" OnClick="lbExternal_Click">
+                                            Check Status
+                                        </asp:LinkButton>
+                                        <asp:LinkButton ID="lbViewTicket" runat="server" ClientIDMode="Static" CssClass="dropdown-item" CommandName="ViewTicket.aspx" CommandArgument="ViewTicket" OnClick="lbExternal_Click">
+                                            View Ticket
+                                        </asp:LinkButton>
+                                        <asp:LinkButton ID="lbTicketHistory" runat="server" ClientIDMode="Static" CssClass="dropdown-item" CommandName="Reports.aspx" CommandArgument="ViewTicketHistory" OnClick="lbExternal_Click">
+                                            View Ticket History
+                                        </asp:LinkButton>
+                                    </div>
+                                </li>
+
+                                <li class="nav-item dropdown mx-2">
+                                    <a class="nav-link dropdown-toggle" href="#" role="button" id="profileNav-dd" data-toggle="dropdown"
+                                        aria-haspopup="true" aria-expanded="false">
+                                        <asp:Label Text="" runat="server" CssClass="d-inline-flex pr-1" ID="lblUserName" />
+                                        <i class="fas fa-chevron-down dd-arrow"></i>
+                                    </a>
+                                    <div class="hw-header-dropdown-menu dropdown-menu dropdown-menu-md-right"
+                                        aria-labelledby="profileNav-dd">
+                                        <asp:LinkButton ID="lbProfile" runat="server" ClientIDMode="Static" CssClass="dropdown-item" CommandName="Profile.aspx" CommandArgument="Profile" OnClick="lbExternal_Click">
+                                           Edit Profile
+                                        </asp:LinkButton>
+                                        <asp:LinkButton ID="lbChangePassword" runat="server" ClientIDMode="Static" CssClass="dropdown-item" CommandName="ChangePassword.aspx" CommandArgument="ChangePassword" OnClick="lbExternal_Click">
+                                           Change Password
+                                        </asp:LinkButton>
+                                        <asp:LinkButton Text="Logout" runat="server" CssClass="dropdown-item" OnClick="lbLogout_Click" />
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </nav>
+            </header>
+            <div class="hw-pagecontent">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+        </div>
+        <%-- <div class="hw-chat-wrapper">
+            <i class="far fa-comment fa-flip-horizontal hw-chat-icon"></i>
+        </div>--%>
+        <div class="hw-news-roll">
+            <p class="mb-0">
+                <marquee behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();">
+                <asp:HyperLink ID="lblNewsFirst" CssClass="hw-new-roll" runat="server" Target="_blank"></asp:HyperLink> &nbsp;
+                 <asp:HyperLink ID="lblNewsSecond" CssClass="hw-new-roll-text" runat="server" Target="_blank"></asp:HyperLink> &nbsp;
+                 <asp:HyperLink ID="lblNewsThird" CssClass="hw-new-roll-text" runat="server" Target="_blank"></asp:HyperLink> &nbsp;
+                 <asp:HyperLink ID="lblNewsFourth" CssClass="hw-new-roll-text" runat="server" Target="_blank"></asp:HyperLink> &nbsp;
+            </marquee>
+
+            </p>
+        </div>
+        <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+            integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+            crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+            integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+            crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+            integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+            crossorigin="anonymous"></script>
+    </form>
+</body>
+</html>

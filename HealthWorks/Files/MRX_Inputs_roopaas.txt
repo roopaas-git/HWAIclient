@@ -1,0 +1,4 @@
+"Id"	"bid_id"	"mrx_benefit_type"	"mrx_alt_cov_lmt_amt"	"mrx_alt_ded_amount"	"mrx_alt_no_ded_tier"	"ScenarioId"	"ModifiedDate"
+"886"	"H3815_013_0"	"4"	"4020"	""	""	"190"	"15-06-2020 12:00:00 AM"
+"887"	"H0544_005_0"	"4"	"4020"	""	""	"190"	"15-06-2020 12:00:00 AM"
+"889"	"H5087_025_0"	"4"	"4020"	""	"000000"	"190"	"22-06-2020 12:00:00 AM"

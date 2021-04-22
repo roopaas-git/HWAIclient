@@ -1,0 +1,140 @@
+﻿/* Start Custom Modal PopUp*/
+.custom-modal-content .btn {
+    background-color: #F4AB1C;
+    color: #fff;
+    border-radius: 2px;
+    font-size: 14px;
+    margin-top: 40px;
+   
+}
+
+.custom-modal {
+    display: none;
+    position: fixed;
+    z-index: 3;
+    padding-top: 0px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.custom-modal-content .form-group {
+    float: right !important;
+    width: auto !important;
+    margin-bottom: 0;
+    margin-top: -20px;
+}
+
+.custom-modal-content .modal-title {
+    font-weight: 300;
+    font-size: 26px;
+    color: #777;
+    line-height: normal;
+    margin-bottom: 30px;
+    padding-right: 30px;
+}
+
+.custom-modal-content .form-group label {
+    position: static !important;
+    margin-top: -5px;
+}
+
+.custom-modal-header {
+    background-color: #ACADAE;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ACADAE;
+    position: relative;
+    top: 20%;
+    text-align: left;
+    width: 30% !important;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    font-size: 18px;
+    font-weight: 400;
+    color: #FFF;
+    max-height: 50px;
+}
+
+.custom-modal-content {
+    background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    position: relative;
+    top: 20%;
+    text-align: left;
+    width: 30% !important;
+    padding-top: 18px;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-bottom: 0px;
+    border-radius: 2px;
+}
+
+.custom-modal-header1 {
+    background-color: #ACADAE;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ACADAE;
+    position: relative;
+    top: 20%;
+    text-align: left;
+    width: 50% !important;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    font-size: 18px;
+    font-weight: 400;
+    color: #FFF;
+    max-height: 50px;
+}
+
+.custom-modal-content1 {
+    background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    position: relative;
+    top: 20%;
+    text-align: left;
+    width: 50% !important;
+    padding-top: 18px;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-bottom: 18px;
+    border-radius: 2px;
+}
+
+.close2 {
+    float: right;
+    font-weight: 700;
+    line-height: 1;
+    color: #000;
+    cursor: pointer;
+    padding-top: 5px;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+.closeModal1 {
+    float: right;
+    font-weight: 700;
+    line-height: 1;
+    color: #000;
+    cursor: pointer;
+    padding-top: 5px;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    color: #000;
+}
+/* End Custom Modal PopUp*/

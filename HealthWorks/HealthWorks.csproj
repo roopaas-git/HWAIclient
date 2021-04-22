@@ -1,0 +1,620 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{65D99D25-6913-4332-BFC2-4190A5785CFA}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HealthWorks</RootNamespace>
+    <AssemblyName>HealthWorks</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit, Version=19.1.0.0, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e, processorArchitecture=MSIL">
+      <HintPath>..\packages\AjaxControlToolkit.19.1.0\lib\net40\AjaxControlToolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="Autofac, Version=4.9.2.0, Culture=neutral, PublicKeyToken=17863af14b0044da, processorArchitecture=MSIL">
+      <HintPath>..\packages\Autofac.4.9.2\lib\net45\Autofac.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics4.Web.v14.1, Version=14.1.20141.1015, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Content\DLL\Infragistics4.Web.v14.1.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="Telerik.Web.UI, Version=2017.1.228.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Telerik.Web.UI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\DLL\AjaxControlToolkit.dll" />
+    <Content Include="Content\DLL\Infragistics4.Web.v14.1.dll" />
+    <Content Include="Content\DLL\Infragistics4.WebUI.Documents.Core.v14.1.dll" />
+    <Content Include="Content\DLL\Infragistics4.WebUI.Documents.Excel.v14.1.dll" />
+    <Content Include="Content\DLL\Infragistics4.WebUI.Documents.IO.v14.1.dll" />
+    <Content Include="Content\DLL\Infragistics4.WebUI.Documents.Reports.v14.1.dll" />
+    <Content Include="Content\DLL\Infragistics4.WebUI.Documents.Word.v14.1.dll" />
+    <Content Include="Content\DLL\Infragistics4.WebUI.Shared.v14.1.dll" />
+    <Content Include="Content\DLL\Infragistics4.WebUI.UltraWebChart.v14.1.dll" />
+    <Content Include="Content\DLL\Infragistics4.WebUI.WebDataInput.v14.1.dll" />
+    <Content Include="Content\DLL\Infragistics4.WebUI.WebHtmlEditor.v14.1.dll" />
+    <Content Include="Content\DLL\Newtonsoft.Json.dll" />
+    <Content Include="Content\DLL\Telerik.Documents.SpreadsheetStreaming.dll" />
+    <Content Include="Content\DLL\Telerik.Web.Design.dll" />
+    <Content Include="Content\DLL\Telerik.Web.Device.Detection.dll" />
+    <Content Include="Content\DLL\Telerik.Web.Spreadsheet.dll" />
+    <Content Include="Content\DLL\Telerik.Web.UI.dll" />
+    <Content Include="Content\DLL\Telerik.Web.UI.Skins.dll" />
+    <Content Include="Content\DLL\Telerik.Windows.Documents.Core.dll" />
+    <Content Include="Content\DLL\Telerik.Windows.Documents.Fixed.dll" />
+    <Content Include="Content\DLL\Telerik.Windows.Documents.Flow.dll" />
+    <Content Include="Content\DLL\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.dll" />
+    <Content Include="Content\DLL\Telerik.Windows.Documents.Spreadsheet.dll" />
+    <Content Include="Content\DLL\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll" />
+    <Content Include="Content\DLL\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll" />
+    <Content Include="Content\DLL\Telerik.Windows.Zip.dll" />
+    <Content Include="Content\DLL\Telerik.Windows.Zip.Extensions.dll" />
+    <Content Include="Content\Images\circle_red.png" />
+    <Content Include="Content\Images\Completed.png" />
+    <Content Include="Content\Images\Default.png" />
+    <Content Include="Content\Images\Excel_XLSX.png" />
+    <Content Include="Content\Images\loading.png" />
+    <Content Include="Content\Images\ProgqressBar.gif" />
+    <Content Include="Content\Images\ProgressBar.gif" />
+    <Content Include="Content\Images\running_job.gif" />
+    <Content Include="Content\Images\Submit.png" />
+    <Content Include="Content\Images\Xlsx.png" />
+    <Content Include="Content\moment.js" />
+    <Content Include="Content\SASComb.dll" />
+    <Content Include="Content\SASEAM.dll" />
+    <Content Include="Content\SASOMan.dll" />
+    <Content Include="Content\skinimg.png" />
+    <Content Include="Default.aspx" />
+    <Content Include="dist\css\Card.css" />
+    <Content Include="dist\css\Chatbot.css" />
+    <Content Include="dist\css\HeaderStyles.css" />
+    <Content Include="dist\css\Help.css" />
+    <Content Include="dist\css\LoginStyles.css" />
+    <Content Include="dist\css\main.css" />
+    <Content Include="dist\css\modalstyle.css" />
+    <Content Include="dist\css\Simstyle.css" />
+    <Content Include="dist\css\Simteg.css" />
+    <Content Include="dist\css\style.css" />
+    <Content Include="dist\css\style1.css" />
+    <Content Include="dist\css\teg.css" />
+    <Content Include="dist\css\teg1.css" />
+    <Content Include="dist\css\TEG_Custom_Styles.css" />
+    <Content Include="dist\css\Teg_Login_Custom_Styles.css" />
+    <Content Include="dist\HomeImages\analytics-platform.jpg" />
+    <Content Include="dist\HomeImages\analytics-platform.png" />
+    <Content Include="dist\HomeImages\b1.png" />
+    <Content Include="dist\HomeImages\b2.png" />
+    <Content Include="dist\HomeImages\b3.png" />
+    <Content Include="dist\HomeImages\b4.png" />
+    <Content Include="dist\HomeImages\Events.png" />
+    <Content Include="dist\HomeImages\fav.jpg" />
+    <Content Include="dist\HomeImages\fav.png" />
+    <Content Include="dist\HomeImages\Insights.png" />
+    <Content Include="dist\HomeImages\Login.jpg" />
+    <Content Include="dist\HomeImages\Solutions.png" />
+    <Content Include="dist\Images\animated_figure.gif" />
+    <Content Include="dist\Images\black_arrow.png" />
+    <Content Include="dist\Images\dashboard_card_bg.png" />
+    <Content Include="dist\Images\Default.png" />
+    <Content Include="dist\Images\default_FeMale_Pic.png" />
+    <Content Include="dist\Images\default_FeMale_Pic1.jpg" />
+    <Content Include="dist\Images\default_Male_Pic.png" />
+    <Content Include="dist\Images\default_Male_Pic1.jpg" />
+    <Content Include="dist\Images\downarrow.jpg" />
+    <Content Include="dist\Images\download.jpg" />
+    <Content Include="dist\Images\download.png" />
+    <Content Include="dist\Images\favicon.png" />
+    <Content Include="dist\Images\HealthWorksAi.svg" />
+    <Content Include="dist\Images\healthworks_ai-logo-white.png" />
+    <Content Include="dist\Images\healthworks_ai-logo-white_login.png" />
+    <Content Include="dist\Images\healthworks_ai-logo.png" />
+    <Content Include="dist\Images\healthworks_ai-logo_mail.jpg" />
+    <Content Include="dist\Images\home-bg.png" />
+    <Content Include="dist\Images\login-bg-old.png" />
+    <Content Include="dist\Images\login-bg.png" />
+    <Content Include="dist\Images\Minus-purple.png" />
+    <Content Include="dist\Images\newicon.png" />
+    <Content Include="dist\Images\Plus-black.png" />
+    <Content Include="dist\Images\Profile icon.png" />
+    <Content Include="dist\Images\side_bar_bg.png" />
+    <Content Include="dist\Images\white_arrow.png" />
+    <Content Include="dist\img\animated_figure.gif" />
+    <Content Include="dist\img\arrow-sprite.png" />
+    <Content Include="dist\img\chevron-down.svg" />
+    <Content Include="dist\img\healthworks_logo.png" />
+    <Content Include="dist\js\bootstrap\bootstrap.js" />
+    <Content Include="dist\js\jquery-ui\jquery-ui-1.10.4.custom.min.js" />
+    <Content Include="dist\js\jquery.slimscroll.min.js" />
+    <Content Include="dist\js\jquery\jquery-2.1.0.min.js" />
+    <Content Include="dist\js\plugins\bootstrap-colorpicker\bootstrap-colorpicker.min.js" />
+    <Content Include="dist\js\plugins\bootstrap-contextmenu\bootstrap-contextmenu.js" />
+    <Content Include="dist\js\plugins\bootstrap-datepicker\bootstrap-datepicker.js" />
+    <Content Include="dist\js\plugins\bootstrap-editable\address.custom.js" />
+    <Content Include="dist\js\plugins\bootstrap-editable\bootstrap-editable.min.js" />
+    <Content Include="dist\js\plugins\bootstrap-editable\demo-mock.js" />
+    <Content Include="dist\js\plugins\bootstrap-editable\jquery.mockjax.min.js" />
+    <Content Include="dist\js\plugins\bootstrap-multiselect\bootstrap-multiselect.js" />
+    <Content Include="dist\js\plugins\bootstrap-progressbar\bootstrap-progressbar.js" />
+    <Content Include="dist\js\plugins\bootstrap-progressbar\bootstrap-progressbar.min.js" />
+    <Content Include="dist\js\plugins\bootstrap-slider\bootstrap-slider.js" />
+    <Content Include="dist\js\plugins\bootstrap-switch\bootstrap-switch.min.js" />
+    <Content Include="dist\js\plugins\bootstrap-tagsinput\bootstrap-tagsinput.min.js" />
+    <Content Include="dist\js\plugins\bootstrap-touchspin\jquery.bootstrap-touchspin.js" />
+    <Content Include="dist\js\plugins\Bootstrap-tour\css\bootstrap-editable.css" />
+    <Content Include="dist\js\plugins\Bootstrap-tour\css\bootstrap-tour-standalone.css" />
+    <Content Include="dist\js\plugins\Bootstrap-tour\css\bootstrap-tour-standalone.min.css" />
+    <Content Include="dist\js\plugins\Bootstrap-tour\css\bootstrap-tour.css" />
+    <Content Include="dist\js\plugins\Bootstrap-tour\css\bootstrap-tour.min.css" />
+    <Content Include="dist\js\plugins\Bootstrap-tour\js\bootstrap-editable.js" />
+    <Content Include="dist\js\plugins\Bootstrap-tour\js\bootstrap-editable.min.js" />
+    <Content Include="dist\js\plugins\Bootstrap-tour\js\bootstrap-tour-standalone.js" />
+    <Content Include="dist\js\plugins\Bootstrap-tour\js\bootstrap-tour-standalone.min.js" />
+    <Content Include="dist\js\plugins\Bootstrap-tour\js\bootstrap-tour.js" />
+    <Content Include="dist\js\plugins\Bootstrap-tour\js\bootstrap-tour.min.js" />
+    <Content Include="dist\js\plugins\datatable\dataTables.bootstrap.js" />
+    <Content Include="dist\js\plugins\datatable\exts\dataTables.colReorder.min.js" />
+    <Content Include="dist\js\plugins\datatable\exts\dataTables.colVis.bootstrap.js" />
+    <Content Include="dist\js\plugins\datatable\exts\dataTables.tableTools.min.js" />
+    <Content Include="dist\js\plugins\datatable\jquery.dataTables.min.js" />
+    <Content Include="dist\js\plugins\datatable\plugins\sorting\date-uk.js" />
+    <Content Include="dist\js\plugins\datatable\plugins\sorting\file-size.js" />
+    <Content Include="dist\js\plugins\datatable\plugins\type-detection\date-uk.js" />
+    <Content Include="dist\js\plugins\datatable\plugins\type-detection\file-size.js" />
+    <Content Include="dist\js\plugins\daterangepicker\daterangepicker.js" />
+    <Content Include="dist\js\plugins\dropzone\dropzone.min.js" />
+    <Content Include="dist\js\plugins\jqgrid\i18n\grid.locale-en.js" />
+    <Content Include="dist\js\plugins\jqgrid\jquery.jqGrid.fluid.js" />
+    <Content Include="dist\js\plugins\jqgrid\jquery.jqGrid.min.js" />
+    <Content Include="dist\js\plugins\jquery-mapael\jquery.mapael.js" />
+    <Content Include="dist\js\plugins\jquery-maskedinput\jquery.masked-input.min.js" />
+    <Content Include="dist\js\plugins\jquery-mousewheel\jquery.mousewheel.js" />
+    <Content Include="dist\js\plugins\jquery-simplecolorpicker\jquery.simplecolorpicker.js" />
+    <Content Include="dist\js\plugins\jquery-slimscroll\jquery.slimscroll.min.js" />
+    <Content Include="dist\js\plugins\markdown\bootstrap-markdown.js" />
+    <Content Include="dist\js\plugins\markdown\markdown.js" />
+    <Content Include="dist\js\plugins\markdown\to-markdown.js" />
+    <Content Include="dist\js\plugins\modernizr\modernizr.js" />
+    <Content Include="dist\js\plugins\select2\select2.min.js" />
+    <Content Include="dist\js\plugins\stat\colorbrewer.js" />
+    <Content Include="dist\js\plugins\stat\d3.min.js" />
+    <Content Include="dist\js\plugins\stat\flot\jquery.flot.min.js" />
+    <Content Include="dist\js\plugins\stat\flot\jquery.flot.orderBars.js" />
+    <Content Include="dist\js\plugins\stat\flot\jquery.flot.pie.min.js" />
+    <Content Include="dist\js\plugins\stat\flot\jquery.flot.resize.min.js" />
+    <Content Include="dist\js\plugins\stat\flot\jquery.flot.selection.min.js" />
+    <Content Include="dist\js\plugins\stat\flot\jquery.flot.time.min.js" />
+    <Content Include="dist\js\plugins\stat\flot\jquery.flot.tooltip.min.js" />
+    <Content Include="dist\js\plugins\stat\jquery.easypiechart.min.js" />
+    <Content Include="dist\js\plugins\summernote\summernote.min.js" />
+    <Content Include="dist\js\plugins\typeahead\typeahead.js" />
+    <Content Include="dist\js\plugins\typeahead\typeaheadjs.1.5.1.js" />
+    <Content Include="dist\js\plugins\wizard\wizard.min.js" />
+    <Content Include="dist\js\QuickAccessValidations.js" />
+    <Content Include="dist\js\TEG-common1.js" />
+    <Content Include="dist\js\TEG-common2.js" />
+    <Content Include="dist\js\TEG-table.js" />
+    <Content Include="dist\js\TEG-tour.js" />
+    <Content Include="dist\js\Test.js" />
+    <Content Include="Global.asax" />
+    <Content Include="MySkin_Default\ComboBox.MySkin_Default.css" />
+    <Content Include="MySkin_Default\ComboBox\chevron-down.svg" />
+    <Content Include="MySkin_Default\Test.css" />
+    <Content Include="Pages\ActivatePage.aspx" />
+    <Content Include="Pages\ChangePassword.aspx" />
+    <Content Include="Pages\CreateTicket.aspx" />
+    <Content Include="Pages\Dashboard.aspx" />
+    <Content Include="Pages\FullScreenView.aspx" />
+    <Content Include="Pages\Health.Master" />
+    <Content Include="Pages\HealthMaster.Master" />
+    <Content Include="Pages\Home.aspx" />
+    <Content Include="Pages\HealthMasterDashboard.Master" />
+    <Content Include="Documents\Right to Win Analysis Overview.pdf" />
+    <None Include="Properties\PublishProfiles\CustomProfile.pubxml" />
+    <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
+    <None Include="Properties\PublishProfiles\FolderProfile1.pubxml" />
+    <None Include="Scripts\jquery-1.7.1.intellisense.js" />
+    <Content Include="Pages\LogoUpload.aspx" />
+    <Content Include="Pages\LogoutWebService.asmx" />
+    <Content Include="Pages\ManageAlerts.aspx" />
+    <Content Include="Pages\ManagePlanList.aspx" />
+    <Content Include="Pages\ManageQuickAccess.aspx" />
+    <Content Include="Pages\ManageScenarioList.aspx" />
+    <Content Include="Pages\ManageSimulatedOutput.aspx" />
+    <Content Include="Pages\ManageUser.aspx" />
+    <Content Include="Pages\MPFSimulator.aspx" />
+    <Content Include="Pages\PlanFinder.aspx" />
+    <Content Include="Pages\PostAEPFindingsReport.aspx" />
+    <Content Include="Pages\Profile.aspx" />
+    <Content Include="Pages\QuickAccess.aspx" />
+    <Content Include="Pages\Reports.aspx" />
+    <Content Include="Pages\ScenarioList.aspx" />
+    <Content Include="Pages\SimulatorResult.aspx" />
+    <Content Include="Pages\StatusTicket.aspx" />
+    <Content Include="Pages\TPVWhitepaper.aspx" />
+    <Content Include="Pages\TrackPageUsage.aspx" />
+    <Content Include="Pages\UploadFiles.aspx" />
+    <Content Include="Pages\UserLogDashboard.aspx" />
+    <Content Include="Pages\ViewTicket.aspx" />
+    <Content Include="Pages\Whitepaper.aspx" />
+    <Content Include="Scripts\jquery-1.7.1.js" />
+    <Content Include="Scripts\jquery-1.7.1.min.js" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Content\BO\PageTracking.cs" />
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ActivatePage.aspx.cs">
+      <DependentUpon>ActivatePage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\ActivatePage.aspx.designer.cs">
+      <DependentUpon>ActivatePage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ChangePassword.aspx.cs">
+      <DependentUpon>ChangePassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\ChangePassword.aspx.designer.cs">
+      <DependentUpon>ChangePassword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\CreateTicket.aspx.cs">
+      <DependentUpon>CreateTicket.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\CreateTicket.aspx.designer.cs">
+      <DependentUpon>CreateTicket.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Dashboard.aspx.cs">
+      <DependentUpon>Dashboard.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Dashboard.aspx.designer.cs">
+      <DependentUpon>Dashboard.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\FullScreenView.aspx.cs">
+      <DependentUpon>FullScreenView.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\FullScreenView.aspx.designer.cs">
+      <DependentUpon>FullScreenView.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Health.Master.cs">
+      <DependentUpon>Health.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Health.Master.designer.cs">
+      <DependentUpon>Health.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\HealthMaster.Master.cs">
+      <DependentUpon>HealthMaster.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\HealthMaster.Master.designer.cs">
+      <DependentUpon>HealthMaster.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\HealthMasterDashboard.Master.cs">
+      <DependentUpon>HealthMasterDashboard.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\HealthMasterDashboard.Master.designer.cs">
+      <DependentUpon>HealthMasterDashboard.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Home.aspx.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Home.aspx.designer.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\LogoUpload.aspx.cs">
+      <DependentUpon>LogoUpload.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\LogoUpload.aspx.designer.cs">
+      <DependentUpon>LogoUpload.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\LogoutWebService.asmx.cs">
+      <DependentUpon>LogoutWebService.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Pages\ManageAlerts.aspx.cs">
+      <DependentUpon>ManageAlerts.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\ManageAlerts.aspx.designer.cs">
+      <DependentUpon>ManageAlerts.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ManagePlanList.aspx.cs">
+      <DependentUpon>ManagePlanList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\ManagePlanList.aspx.designer.cs">
+      <DependentUpon>ManagePlanList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ManageQuickAccess.aspx.cs">
+      <DependentUpon>ManageQuickAccess.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\ManageQuickAccess.aspx.designer.cs">
+      <DependentUpon>ManageQuickAccess.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ManageScenarioList.aspx.cs">
+      <DependentUpon>ManageScenarioList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\ManageScenarioList.aspx.designer.cs">
+      <DependentUpon>ManageScenarioList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ManageSimulatedOutput.aspx.cs">
+      <DependentUpon>ManageSimulatedOutput.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\ManageSimulatedOutput.aspx.designer.cs">
+      <DependentUpon>ManageSimulatedOutput.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ManageUser.aspx.cs">
+      <DependentUpon>ManageUser.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\ManageUser.aspx.designer.cs">
+      <DependentUpon>ManageUser.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\MPFSimulator.aspx.cs">
+      <DependentUpon>MPFSimulator.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\MPFSimulator.aspx.designer.cs">
+      <DependentUpon>MPFSimulator.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\PlanFinder.aspx.cs">
+      <DependentUpon>PlanFinder.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\PlanFinder.aspx.designer.cs">
+      <DependentUpon>PlanFinder.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\PostAEPFindingsReport.aspx.cs">
+      <DependentUpon>PostAEPFindingsReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\PostAEPFindingsReport.aspx.designer.cs">
+      <DependentUpon>PostAEPFindingsReport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Profile.aspx.cs">
+      <DependentUpon>Profile.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Profile.aspx.designer.cs">
+      <DependentUpon>Profile.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\QuickAccess.aspx.cs">
+      <DependentUpon>QuickAccess.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\QuickAccess.aspx.designer.cs">
+      <DependentUpon>QuickAccess.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Reports.aspx.cs">
+      <DependentUpon>Reports.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Reports.aspx.designer.cs">
+      <DependentUpon>Reports.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ScenarioList.aspx.cs">
+      <DependentUpon>ScenarioList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\ScenarioList.aspx.designer.cs">
+      <DependentUpon>ScenarioList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\SimulatorResult.aspx.cs">
+      <DependentUpon>SimulatorResult.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\SimulatorResult.aspx.designer.cs">
+      <DependentUpon>SimulatorResult.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\StatusTicket.aspx.cs">
+      <DependentUpon>StatusTicket.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\StatusTicket.aspx.designer.cs">
+      <DependentUpon>StatusTicket.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\TPVWhitepaper.aspx.cs">
+      <DependentUpon>TPVWhitepaper.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\TPVWhitepaper.aspx.designer.cs">
+      <DependentUpon>TPVWhitepaper.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\TrackPageUsage.aspx.cs">
+      <DependentUpon>TrackPageUsage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\TrackPageUsage.aspx.designer.cs">
+      <DependentUpon>TrackPageUsage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\UploadFiles.aspx.cs">
+      <DependentUpon>UploadFiles.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\UploadFiles.aspx.designer.cs">
+      <DependentUpon>UploadFiles.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\UserLogDashboard.aspx.cs">
+      <DependentUpon>UserLogDashboard.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\UserLogDashboard.aspx.designer.cs">
+      <DependentUpon>UserLogDashboard.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ViewTicket.aspx.cs">
+      <DependentUpon>ViewTicket.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\ViewTicket.aspx.designer.cs">
+      <DependentUpon>ViewTicket.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Whitepaper.aspx.cs">
+      <DependentUpon>Whitepaper.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Whitepaper.aspx.designer.cs">
+      <DependentUpon>Whitepaper.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="dist\scss\style.scss" />
+    <Content Include="Documents\Campaign Analysis.pdf" />
+    <None Include="packages.config" />
+    <Content Include="TEGConfiguration.json" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+    <Folder Include="Documents\UploadFiles\" />
+    <Folder Include="Files\" />
+    <Folder Include="Logs\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessUtility\BusinessUtility.csproj">
+      <Project>{ecd97b46-c640-4fe3-8978-d986e85b244f}</Project>
+      <Name>BusinessUtility</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CommonUtility\CommonUtility.csproj">
+      <Project>{12bc8f5f-bfe8-408a-a907-4b75dacddbaa}</Project>
+      <Name>CommonUtility</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataUtility\DataUtility.csproj">
+      <Project>{1d3d367c-a03f-4f24-aba9-d4d78a20f341}</Project>
+      <Name>DataUtility</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LoggerUtility\LoggerUtility.csproj">
+      <Project>{62a8a61b-eb34-4742-b544-5e8508b81193}</Project>
+      <Name>LoggerUtility</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TableauUtility\TableauUtility.csproj">
+      <Project>{094c3699-b363-42dc-9cfa-08c3e0ada3e2}</Project>
+      <Name>TableauUtility</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>1690</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:1698/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

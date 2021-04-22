@@ -1,0 +1,908 @@
+D:\Build Check\HealthWorks\HealthWorks\bin\HealthWorks.dll.config
+D:\Build Check\HealthWorks\HealthWorks\bin\HealthWorks.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\HealthWorks.pdb
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\csc.exe
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\csc.exe.config
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\csc.rsp
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\csi.exe
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\csi.exe.config
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\csi.rsp
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\System.AppContext.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\System.Collections.Immutable.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\System.Console.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\System.IO.Compression.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\System.IO.FileSystem.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\System.IO.Pipes.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\System.Reflection.Metadata.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\System.Security.AccessControl.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\System.Security.Claims.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\System.ValueTuple.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\System.Xml.XPath.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\vbc.exe
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\vbc.exe.config
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\vbc.rsp
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\VBCSCompiler.exe
+D:\Build Check\HealthWorks\HealthWorks\bin\roslyn\VBCSCompiler.exe.config
+D:\Build Check\HealthWorks\HealthWorks\bin\AjaxControlToolkit.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\Autofac.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\BusinessUtility.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\CommonUtility.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\DataUtility.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\Infragistics4.Web.v14.1.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\LoggerUtility.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\Newtonsoft.Json.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\TableauUtility.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\Telerik.Web.UI.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\Serilog.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\Microsoft.Extensions.Configuration.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\Serilog.Sinks.File.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\Infragistics4.WebUI.Documents.Reports.v14.1.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\EnvDTE.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\Infragistics4.WebUI.Documents.Excel.v14.1.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\Infragistics4.WebUI.Documents.Word.v14.1.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\Infragistics4.WebUI.Documents.IO.v14.1.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\Telerik.Windows.Documents.Flow.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\Telerik.Windows.Documents.Core.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\Telerik.Windows.Documents.Spreadsheet.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\Telerik.Web.Spreadsheet.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\Microsoft.AnalysisServices.AdomdClient.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\Microsoft.Extensions.Primitives.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\stdole.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\Infragistics4.WebUI.Documents.Core.v14.1.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\Telerik.Windows.Zip.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Build Check\HealthWorks\HealthWorks\bin\BusinessUtility.pdb
+D:\Build Check\HealthWorks\HealthWorks\bin\CommonUtility.pdb
+D:\Build Check\HealthWorks\HealthWorks\bin\DataUtility.pdb
+D:\Build Check\HealthWorks\HealthWorks\bin\LoggerUtility.pdb
+D:\Build Check\HealthWorks\HealthWorks\bin\TableauUtility.pdb
+D:\Build Check\HealthWorks\HealthWorks\bin\Autofac.pdb
+D:\Build Check\HealthWorks\HealthWorks\bin\Autofac.xml
+D:\Build Check\HealthWorks\HealthWorks\bin\Newtonsoft.Json.xml
+D:\Build Check\HealthWorks\HealthWorks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Build Check\HealthWorks\HealthWorks\bin\Serilog.pdb
+D:\Build Check\HealthWorks\HealthWorks\bin\Serilog.xml
+D:\Build Check\HealthWorks\HealthWorks\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Build Check\HealthWorks\HealthWorks\bin\Microsoft.Extensions.Configuration.xml
+D:\Build Check\HealthWorks\HealthWorks\bin\Serilog.Sinks.File.xml
+D:\Build Check\HealthWorks\HealthWorks\bin\Microsoft.Extensions.Primitives.xml
+D:\Build Check\HealthWorks\HealthWorks\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Build Check\HealthWorks\HealthWorks\obj\Debug\HealthWorks.csprojAssemblyReference.cache
+D:\Build Check\HealthWorks\HealthWorks\obj\Debug\HealthWorks.csproj.CoreCompileInputs.cache
+D:\Build Check\HealthWorks\HealthWorks\obj\Debug\HealthWorks.csproj.CopyComplete
+D:\Build Check\HealthWorks\HealthWorks\obj\Debug\HealthWorks.dll
+D:\Build Check\HealthWorks\HealthWorks\obj\Debug\HealthWorks.pdb
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\HealthWorks.dll.config
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\HealthWorks.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\HealthWorks.pdb
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\csc.exe
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\csc.exe.config
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\csc.rsp
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\csi.exe
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\csi.exe.config
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\csi.rsp
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.AppContext.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.Collections.Immutable.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.Console.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.IO.Compression.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.IO.FileSystem.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.IO.Pipes.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.Reflection.Metadata.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.Security.AccessControl.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.Security.Claims.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.ValueTuple.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.Xml.XPath.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\vbc.exe
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\vbc.exe.config
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\vbc.rsp
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\VBCSCompiler.exe
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\VBCSCompiler.exe.config
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\AjaxControlToolkit.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\Autofac.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\BusinessUtility.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\CommonUtility.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\DataUtility.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\Infragistics4.Web.v14.1.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\LoggerUtility.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\Newtonsoft.Json.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\TableauUtility.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\Telerik.Web.UI.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\Serilog.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\Microsoft.Extensions.Configuration.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\Serilog.Sinks.File.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\Infragistics4.WebUI.Documents.Reports.v14.1.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\EnvDTE.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\Infragistics4.WebUI.Documents.Excel.v14.1.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\Infragistics4.WebUI.Documents.Word.v14.1.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\Infragistics4.WebUI.Documents.IO.v14.1.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\Telerik.Windows.Documents.Flow.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\Telerik.Windows.Documents.Core.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\Telerik.Windows.Documents.Spreadsheet.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\Telerik.Web.Spreadsheet.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\Microsoft.AnalysisServices.AdomdClient.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\Microsoft.Extensions.Primitives.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\stdole.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\Infragistics4.WebUI.Documents.Core.v14.1.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\Telerik.Windows.Zip.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\BusinessUtility.pdb
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\CommonUtility.pdb
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\DataUtility.pdb
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\LoggerUtility.pdb
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\TableauUtility.pdb
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\Autofac.pdb
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\Autofac.xml
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\Newtonsoft.Json.xml
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\Serilog.pdb
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\Serilog.xml
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\Microsoft.Extensions.Configuration.xml
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\Serilog.Sinks.File.xml
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\Microsoft.Extensions.Primitives.xml
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\obj\Debug\HealthWorks.csprojAssemblyReference.cache
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\obj\Debug\HealthWorks.csproj.CoreCompileInputs.cache
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\obj\Debug\HealthWorks.csproj.CopyComplete
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\obj\Debug\HealthWorks.dll
+D:\Build Check\Quick Access Changes\HealthWorks\HealthWorks\obj\Debug\HealthWorks.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\HealthWorks.dll.config
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\HealthWorks.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\HealthWorks.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\csc.exe
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\csc.exe.config
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\csc.rsp
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\csi.exe
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\csi.exe.config
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\csi.rsp
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\Microsoft.Managed.Core.targets
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.AppContext.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.Collections.Immutable.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.Console.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.IO.Compression.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.IO.FileSystem.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.IO.Pipes.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.Reflection.Metadata.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.Security.AccessControl.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.Security.Claims.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.Security.Principal.Windows.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.ValueTuple.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.Xml.XmlDocument.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.Xml.XPath.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\vbc.exe
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\vbc.exe.config
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\vbc.rsp
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\VBCSCompiler.exe
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\roslyn\VBCSCompiler.exe.config
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\AjaxControlToolkit.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\Autofac.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\BusinessUtility.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\CommonUtility.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\DataUtility.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\Infragistics4.Web.v14.1.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\LoggerUtility.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\Newtonsoft.Json.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\TableauUtility.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\Telerik.Web.UI.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\Serilog.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\Microsoft.Extensions.Configuration.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\Serilog.Sinks.File.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\Infragistics4.WebUI.Documents.Reports.v14.1.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\EnvDTE.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\Infragistics4.WebUI.Documents.Excel.v14.1.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\Infragistics4.WebUI.Documents.Word.v14.1.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\Infragistics4.WebUI.Documents.IO.v14.1.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\Telerik.Windows.Documents.Flow.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\Telerik.Windows.Documents.Core.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\Telerik.Windows.Documents.Spreadsheet.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\Telerik.Web.Spreadsheet.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\Microsoft.Extensions.Primitives.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\stdole.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\Infragistics4.WebUI.Documents.Core.v14.1.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\Telerik.Windows.Zip.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\BusinessUtility.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\CommonUtility.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\DataUtility.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\LoggerUtility.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\TableauUtility.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\Autofac.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\Autofac.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\Newtonsoft.Json.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\Serilog.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\Serilog.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\Microsoft.Extensions.Configuration.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\Serilog.Sinks.File.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\Microsoft.Extensions.Primitives.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\obj\Debug\HealthWorks.csprojAssemblyReference.cache
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\obj\Debug\HealthWorks.dll.licenses
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\obj\Debug\HealthWorks.csproj.CoreCompileInputs.cache
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\obj\Debug\HealthWorks.csproj.CopyComplete
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\obj\Debug\HealthWorks.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\HealthWorks\obj\Debug\HealthWorks.pdb
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\HealthWorks.dll.config
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\HealthWorks.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\HealthWorks.pdb
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\csc.exe
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\csc.exe.config
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\csc.rsp
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\csi.exe
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\csi.exe.config
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\csi.rsp
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\Microsoft.Managed.Core.targets
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\System.AppContext.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\System.Collections.Immutable.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\System.Console.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\System.IO.Compression.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\System.IO.FileSystem.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\System.IO.Pipes.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\System.Reflection.Metadata.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\System.Security.AccessControl.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\System.Security.Claims.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\System.Security.Principal.Windows.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\System.ValueTuple.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\System.Xml.XmlDocument.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\System.Xml.XPath.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\vbc.exe
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\vbc.exe.config
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\vbc.rsp
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\VBCSCompiler.exe
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\roslyn\VBCSCompiler.exe.config
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\AjaxControlToolkit.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\Autofac.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\BusinessUtility.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\CommonUtility.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\DataUtility.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\Infragistics4.Web.v14.1.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\LoggerUtility.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\Newtonsoft.Json.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\TableauUtility.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\Telerik.Web.UI.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\Serilog.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\Microsoft.Extensions.Configuration.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\Serilog.Sinks.File.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\Infragistics4.WebUI.Documents.Reports.v14.1.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\EnvDTE.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\Infragistics4.WebUI.Documents.Excel.v14.1.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\Infragistics4.WebUI.Documents.Word.v14.1.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\Infragistics4.WebUI.Documents.IO.v14.1.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\Telerik.Windows.Documents.Flow.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\Telerik.Windows.Documents.Core.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\Telerik.Windows.Documents.Spreadsheet.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\Telerik.Web.Spreadsheet.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\Microsoft.Extensions.Primitives.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\stdole.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\Infragistics4.WebUI.Documents.Core.v14.1.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\Telerik.Windows.Zip.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\BusinessUtility.pdb
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\CommonUtility.pdb
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\DataUtility.pdb
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\LoggerUtility.pdb
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\TableauUtility.pdb
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\Autofac.pdb
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\Autofac.xml
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\Newtonsoft.Json.xml
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\Serilog.pdb
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\Serilog.xml
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\Microsoft.Extensions.Configuration.xml
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\Serilog.Sinks.File.xml
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\Microsoft.Extensions.Primitives.xml
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\obj\Debug\HealthWorks.csprojAssemblyReference.cache
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\obj\Debug\HealthWorks.dll.licenses
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\obj\Debug\HealthWorks.csproj.CoreCompileInputs.cache
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\obj\Debug\HealthWorks.csproj.CopyComplete
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\obj\Debug\HealthWorks.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\HealthWorks\obj\Debug\HealthWorks.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\HealthWorks.dll.config
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\HealthWorks.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\HealthWorks.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\csc.exe
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\csc.exe.config
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\csc.rsp
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\csi.exe
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\csi.exe.config
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\csi.rsp
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\Microsoft.Managed.Core.targets
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\System.AppContext.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\System.Collections.Immutable.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\System.Console.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\System.IO.Compression.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\System.IO.FileSystem.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\System.IO.Pipes.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\System.Reflection.Metadata.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\System.Security.AccessControl.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\System.Security.Claims.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\System.Security.Principal.Windows.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\System.ValueTuple.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\System.Xml.XmlDocument.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\System.Xml.XPath.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\vbc.exe
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\vbc.exe.config
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\vbc.rsp
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\VBCSCompiler.exe
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\roslyn\VBCSCompiler.exe.config
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\AjaxControlToolkit.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\Autofac.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\BusinessUtility.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\CommonUtility.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\DataUtility.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\Infragistics4.Web.v14.1.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\LoggerUtility.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\Newtonsoft.Json.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\TableauUtility.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\Telerik.Web.UI.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\Serilog.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\Microsoft.Extensions.Configuration.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\Serilog.Sinks.File.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\Infragistics4.WebUI.Documents.Reports.v14.1.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\EnvDTE.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\Infragistics4.WebUI.Documents.Excel.v14.1.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\Infragistics4.WebUI.Documents.Word.v14.1.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\Infragistics4.WebUI.Documents.IO.v14.1.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\Telerik.Windows.Documents.Flow.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\Telerik.Windows.Documents.Core.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\Telerik.Windows.Documents.Spreadsheet.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\Telerik.Web.Spreadsheet.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\Microsoft.Extensions.Primitives.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\stdole.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\Infragistics4.WebUI.Documents.Core.v14.1.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\Telerik.Windows.Zip.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\BusinessUtility.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\CommonUtility.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\DataUtility.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\LoggerUtility.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\TableauUtility.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\Autofac.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\Autofac.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\Newtonsoft.Json.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\Serilog.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\Serilog.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\Microsoft.Extensions.Configuration.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\Serilog.Sinks.File.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\Microsoft.Extensions.Primitives.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\obj\Debug\HealthWorks.csprojAssemblyReference.cache
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\obj\Debug\HealthWorks.dll.licenses
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\obj\Debug\HealthWorks.csproj.CoreCompileInputs.cache
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\obj\Debug\HealthWorks.csproj.CopyComplete
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\obj\Debug\HealthWorks.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\HealthWorks\obj\Debug\HealthWorks.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\HealthWorks.dll.config
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\HealthWorks.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\HealthWorks.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\csc.exe
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\csc.exe.config
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\csc.rsp
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\csi.exe
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\csi.exe.config
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\csi.rsp
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\Microsoft.Managed.Core.targets
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\System.AppContext.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\System.Collections.Immutable.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\System.Console.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\System.IO.Compression.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\System.IO.FileSystem.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\System.IO.Pipes.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\System.Reflection.Metadata.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\System.Security.AccessControl.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\System.Security.Claims.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\System.Security.Principal.Windows.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\System.ValueTuple.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\System.Xml.XmlDocument.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\System.Xml.XPath.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\vbc.exe
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\vbc.exe.config
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\vbc.rsp
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\VBCSCompiler.exe
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\roslyn\VBCSCompiler.exe.config
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\AjaxControlToolkit.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\Autofac.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\BusinessUtility.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\CommonUtility.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\DataUtility.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\Infragistics4.Web.v14.1.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\LoggerUtility.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\Newtonsoft.Json.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\TableauUtility.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\Telerik.Web.UI.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\Serilog.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\Microsoft.Extensions.Configuration.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\Serilog.Sinks.File.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\Infragistics4.WebUI.Documents.Reports.v14.1.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\EnvDTE.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\Infragistics4.WebUI.Documents.Excel.v14.1.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\Infragistics4.WebUI.Documents.Word.v14.1.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\Infragistics4.WebUI.Documents.IO.v14.1.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\Telerik.Windows.Documents.Flow.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\Telerik.Windows.Documents.Core.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\Telerik.Windows.Documents.Spreadsheet.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\Telerik.Web.Spreadsheet.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\Microsoft.Extensions.Primitives.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\stdole.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\Infragistics4.WebUI.Documents.Core.v14.1.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\Telerik.Windows.Zip.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\BusinessUtility.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\CommonUtility.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\DataUtility.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\LoggerUtility.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\TableauUtility.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\Autofac.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\Autofac.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\Newtonsoft.Json.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\Serilog.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\Serilog.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\Microsoft.Extensions.Configuration.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\Serilog.Sinks.File.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\Microsoft.Extensions.Primitives.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\obj\Debug\HealthWorks.csprojAssemblyReference.cache
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\obj\Debug\HealthWorks.dll.licenses
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\obj\Debug\HealthWorks.csproj.CoreCompileInputs.cache
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\obj\Debug\HealthWorks.csproj.CopyComplete
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\obj\Debug\HealthWorks.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\HealthWorks\obj\Debug\HealthWorks.pdb
+F:\Work\HW\Version3\HealthWorks\bin\HealthWorks.dll.config
+F:\Work\HW\Version3\HealthWorks\bin\HealthWorks.dll
+F:\Work\HW\Version3\HealthWorks\bin\HealthWorks.pdb
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\csc.exe
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\csc.exe.config
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\csc.rsp
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\csi.exe
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\csi.exe.config
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\csi.rsp
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\System.AppContext.dll
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\System.Collections.Immutable.dll
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\System.Console.dll
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\System.IO.Compression.dll
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\System.IO.FileSystem.dll
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\System.IO.Pipes.dll
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\System.Reflection.Metadata.dll
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\System.Security.AccessControl.dll
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\System.Security.Claims.dll
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\System.ValueTuple.dll
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\System.Xml.XPath.dll
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\vbc.exe
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\vbc.exe.config
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\vbc.rsp
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\VBCSCompiler.exe
+F:\Work\HW\Version3\HealthWorks\bin\roslyn\VBCSCompiler.exe.config
+F:\Work\HW\Version3\HealthWorks\bin\AjaxControlToolkit.dll
+F:\Work\HW\Version3\HealthWorks\bin\Autofac.dll
+F:\Work\HW\Version3\HealthWorks\bin\BusinessUtility.dll
+F:\Work\HW\Version3\HealthWorks\bin\CommonUtility.dll
+F:\Work\HW\Version3\HealthWorks\bin\DataUtility.dll
+F:\Work\HW\Version3\HealthWorks\bin\Infragistics4.Web.v14.1.dll
+F:\Work\HW\Version3\HealthWorks\bin\LoggerUtility.dll
+F:\Work\HW\Version3\HealthWorks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Work\HW\Version3\HealthWorks\bin\Newtonsoft.Json.dll
+F:\Work\HW\Version3\HealthWorks\bin\TableauUtility.dll
+F:\Work\HW\Version3\HealthWorks\bin\Telerik.Web.UI.dll
+F:\Work\HW\Version3\HealthWorks\bin\Serilog.dll
+F:\Work\HW\Version3\HealthWorks\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Work\HW\Version3\HealthWorks\bin\Microsoft.Extensions.Configuration.dll
+F:\Work\HW\Version3\HealthWorks\bin\Serilog.Sinks.File.dll
+F:\Work\HW\Version3\HealthWorks\bin\Infragistics4.WebUI.Documents.Reports.v14.1.dll
+F:\Work\HW\Version3\HealthWorks\bin\EnvDTE.dll
+F:\Work\HW\Version3\HealthWorks\bin\Infragistics4.WebUI.Documents.Excel.v14.1.dll
+F:\Work\HW\Version3\HealthWorks\bin\Infragistics4.WebUI.Documents.Word.v14.1.dll
+F:\Work\HW\Version3\HealthWorks\bin\Infragistics4.WebUI.Documents.IO.v14.1.dll
+F:\Work\HW\Version3\HealthWorks\bin\Telerik.Windows.Documents.Flow.dll
+F:\Work\HW\Version3\HealthWorks\bin\Telerik.Windows.Documents.Core.dll
+F:\Work\HW\Version3\HealthWorks\bin\Telerik.Windows.Documents.Spreadsheet.dll
+F:\Work\HW\Version3\HealthWorks\bin\Telerik.Web.Spreadsheet.dll
+F:\Work\HW\Version3\HealthWorks\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+F:\Work\HW\Version3\HealthWorks\bin\Microsoft.Extensions.Primitives.dll
+F:\Work\HW\Version3\HealthWorks\bin\stdole.dll
+F:\Work\HW\Version3\HealthWorks\bin\Infragistics4.WebUI.Documents.Core.v14.1.dll
+F:\Work\HW\Version3\HealthWorks\bin\Telerik.Windows.Zip.dll
+F:\Work\HW\Version3\HealthWorks\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\Work\HW\Version3\HealthWorks\bin\BusinessUtility.pdb
+F:\Work\HW\Version3\HealthWorks\bin\CommonUtility.pdb
+F:\Work\HW\Version3\HealthWorks\bin\DataUtility.pdb
+F:\Work\HW\Version3\HealthWorks\bin\LoggerUtility.pdb
+F:\Work\HW\Version3\HealthWorks\bin\TableauUtility.pdb
+F:\Work\HW\Version3\HealthWorks\bin\Autofac.pdb
+F:\Work\HW\Version3\HealthWorks\bin\Autofac.xml
+F:\Work\HW\Version3\HealthWorks\bin\Newtonsoft.Json.xml
+F:\Work\HW\Version3\HealthWorks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Work\HW\Version3\HealthWorks\bin\Serilog.pdb
+F:\Work\HW\Version3\HealthWorks\bin\Serilog.xml
+F:\Work\HW\Version3\HealthWorks\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\Work\HW\Version3\HealthWorks\bin\Microsoft.Extensions.Configuration.xml
+F:\Work\HW\Version3\HealthWorks\bin\Serilog.Sinks.File.xml
+F:\Work\HW\Version3\HealthWorks\bin\Microsoft.Extensions.Primitives.xml
+F:\Work\HW\Version3\HealthWorks\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\Work\HW\Version3\HealthWorks\obj\Debug\HealthWorks.csprojAssemblyReference.cache
+F:\Work\HW\Version3\HealthWorks\obj\Debug\HealthWorks.dll.licenses
+F:\Work\HW\Version3\HealthWorks\obj\Debug\HealthWorks.csproj.CoreCompileInputs.cache
+F:\Work\HW\Version3\HealthWorks\obj\Debug\HealthWorks.csproj.CopyComplete
+F:\Work\HW\Version3\HealthWorks\obj\Debug\HealthWorks.dll
+F:\Work\HW\Version3\HealthWorks\obj\Debug\HealthWorks.pdb
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\HealthWorks.dll.config
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\HealthWorks.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\HealthWorks.pdb
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\csc.exe
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\csc.exe.config
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\csc.rsp
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\csi.exe
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\csi.exe.config
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\csi.rsp
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\Microsoft.Managed.Core.targets
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\System.AppContext.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\System.Collections.Immutable.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\System.Console.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\System.IO.Compression.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\System.IO.FileSystem.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\System.IO.Pipes.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\System.Reflection.Metadata.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\System.Security.AccessControl.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\System.Security.Claims.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\System.Security.Principal.Windows.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\System.ValueTuple.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\System.Xml.XmlDocument.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\System.Xml.XPath.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\vbc.exe
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\vbc.exe.config
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\vbc.rsp
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\VBCSCompiler.exe
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\roslyn\VBCSCompiler.exe.config
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\AjaxControlToolkit.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\Autofac.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\BusinessUtility.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\CommonUtility.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\DataUtility.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\Infragistics4.Web.v14.1.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\LoggerUtility.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\Newtonsoft.Json.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\TableauUtility.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\Telerik.Web.UI.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\Serilog.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\Microsoft.Extensions.Configuration.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\Serilog.Sinks.File.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\Infragistics4.WebUI.Documents.Reports.v14.1.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\EnvDTE.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\Infragistics4.WebUI.Documents.Excel.v14.1.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\Infragistics4.WebUI.Documents.Word.v14.1.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\Infragistics4.WebUI.Documents.IO.v14.1.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\Telerik.Windows.Documents.Flow.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\Telerik.Windows.Documents.Core.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\Telerik.Windows.Documents.Spreadsheet.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\Telerik.Web.Spreadsheet.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\Microsoft.Extensions.Primitives.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\stdole.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\Infragistics4.WebUI.Documents.Core.v14.1.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\Telerik.Windows.Zip.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\BusinessUtility.pdb
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\CommonUtility.pdb
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\DataUtility.pdb
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\LoggerUtility.pdb
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\TableauUtility.pdb
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\Autofac.pdb
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\Autofac.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\Newtonsoft.Json.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\Serilog.pdb
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\Serilog.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\Microsoft.Extensions.Configuration.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\Serilog.Sinks.File.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\Microsoft.Extensions.Primitives.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\obj\Debug\HealthWorks.csprojAssemblyReference.cache
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\obj\Debug\HealthWorks.dll.licenses
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\obj\Debug\HealthWorks.csproj.CoreCompileInputs.cache
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\obj\Debug\HealthWorks.csproj.CopyComplete
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\obj\Debug\HealthWorks.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\HealthWorks\obj\Debug\HealthWorks.pdb
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\HealthWorks.dll.config
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\HealthWorks.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\HealthWorks.pdb
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\csc.exe
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\csc.exe.config
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\csc.rsp
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\csi.exe
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\csi.exe.config
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\csi.rsp
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\Microsoft.Managed.Core.targets
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\System.AppContext.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\System.Collections.Immutable.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\System.Console.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\System.IO.Compression.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\System.IO.FileSystem.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\System.IO.Pipes.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\System.Reflection.Metadata.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\System.Security.AccessControl.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\System.Security.Claims.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\System.Security.Principal.Windows.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\System.ValueTuple.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\System.Xml.XmlDocument.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\System.Xml.XPath.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\vbc.exe
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\vbc.exe.config
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\vbc.rsp
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\VBCSCompiler.exe
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\roslyn\VBCSCompiler.exe.config
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\AjaxControlToolkit.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\Autofac.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\BusinessUtility.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\CommonUtility.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\DataUtility.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\Infragistics4.Web.v14.1.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\LoggerUtility.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\Newtonsoft.Json.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\TableauUtility.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\Telerik.Web.UI.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\Serilog.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\Microsoft.Extensions.Configuration.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\Serilog.Sinks.File.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\Infragistics4.WebUI.Documents.Reports.v14.1.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\EnvDTE.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\Infragistics4.WebUI.Documents.Excel.v14.1.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\Infragistics4.WebUI.Documents.Word.v14.1.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\Infragistics4.WebUI.Documents.IO.v14.1.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\Telerik.Windows.Documents.Flow.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\Telerik.Windows.Documents.Core.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\Telerik.Windows.Documents.Spreadsheet.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\Telerik.Web.Spreadsheet.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\Microsoft.Extensions.Primitives.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\stdole.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\Infragistics4.WebUI.Documents.Core.v14.1.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\Telerik.Windows.Zip.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\BusinessUtility.pdb
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\CommonUtility.pdb
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\DataUtility.pdb
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\LoggerUtility.pdb
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\TableauUtility.pdb
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\Autofac.pdb
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\Autofac.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\Newtonsoft.Json.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\Serilog.pdb
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\Serilog.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\Microsoft.Extensions.Configuration.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\Serilog.Sinks.File.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\Microsoft.Extensions.Primitives.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\obj\Debug\HealthWorks.csprojAssemblyReference.cache
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\obj\Debug\HealthWorks.csproj.CoreCompileInputs.cache
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\obj\Debug\HealthWorks.csproj.CopyComplete
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\obj\Debug\HealthWorks.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\HealthWorks\obj\Debug\HealthWorks.pdb

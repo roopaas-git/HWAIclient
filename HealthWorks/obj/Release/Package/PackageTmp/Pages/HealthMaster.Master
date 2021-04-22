@@ -1,0 +1,681 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="HealthMaster.master.cs" Inherits="HealthWorks.Pages.HealthMaster" %>
+
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head id="head1" runat="server">
+    <title>HealthWorksAI - Dashboard</title>
+    <link rel="icon" href="../dist/Images/favicon.png" type="image/png" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" />
+    <link href="../dist/css/main.css" rel="stylesheet" />
+    <link href="../dist/CSS/Help.css" rel="stylesheet" type="text/css" />
+    <link href="../dist/css/TEG_Custom_Styles.css" rel="stylesheet" />
+    <link href="../dist/css/style1.css" rel="stylesheet" />
+    <link href="../dist/css/teg1.css" rel="stylesheet" />
+    <link href="../dist/css/Simstyle.css" rel="stylesheet" />
+    <link href="../dist/css/Simteg.css" rel="stylesheet" />
+    <link href="../dist/css/HeaderStyles.css" rel="stylesheet" />
+    <link href="../dist/css/Chatbot.css" rel="stylesheet" />
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+
+    <style type="text/css">
+        .text-center {
+            text-transform: uppercase;
+        }
+
+        a {
+            outline: none !important;
+        }
+
+        .top-bar .logged-user .dropdown-menu1 {
+            left: -50px !important;
+        }
+
+
+        .img-thumbnailp {
+            display: inline-block;
+            max-width: 37px;
+            height: 30px;
+            padding: 2px;
+            line-height: 1.42857143;
+            background-color: transparent;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            -webkit-transition: all .2s ease-in-out;
+            -o-transition: all .2s ease-in-out;
+            transition: all .2s ease-in-out;
+        }
+
+        .comingsoon {
+            display: inline-block;
+            max-width: 67px;
+            padding: 2px;
+            line-height: 1.42857143;
+            background-color: transparent;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            border-color: black;
+            color: #008000;
+            font-size: 11px;
+            /*margin-left: 150px;*/
+        }
+
+        .badge {
+            line-height: 1.5;
+        }
+
+        .disabled {
+            pointer-events: none;
+            opacity: 0.5;
+        }
+
+        .logo h3 {
+            color: #FFF;
+            margin: 0;
+            line-height: 40px;
+            letter-spacing: 1px;
+        }
+
+
+
+        .custom-modal {
+            display: none;
+            position: fixed;
+            z-index: 1;
+            padding-top: 0px;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            overflow: auto;
+            background-color: rgb(0, 0, 0);
+            background-color: rgba(0, 0, 0, 0.7);
+        }
+
+        .custom-modal-content {
+            background-color: #fefefe;
+            margin: auto;
+            padding: 20px;
+            border: 1px solid #888;
+            width: 480px;
+            position: relative;
+            top: 20%;
+            text-align: left;
+        }
+
+            .custom-modal-content .form-group {
+                float: right !important;
+                width: auto !important;
+                margin-bottom: 0;
+                margin-top: -20px;
+            }
+
+            .custom-modal-content .modal-title {
+                font-weight: 300;
+                font-size: 26px;
+                color: #777;
+                line-height: normal;
+                margin-bottom: 30px;
+                padding-right: 30px;
+            }
+
+            .custom-modal-content .form-group label {
+                position: static !important;
+                margin-top: -5px;
+            }
+
+        .textdownload {
+            font-size: 11px !important;
+        }
+    </style>
+
+    <script type="text/javascript">
+        function PostToNewWindow() {
+            originalTarget = document.forms[0].target;
+            document.forms[0].target = '_blank';
+            window.setTimeout("document.forms[0].target=originalTarget;", 300);
+            return true;
+        }
+    </script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script type="text/javascript">       
+        function callwarning() {
+            alert("File does not exist,contact Account Manager.");
+        }
+    </script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body class="sidebar-fixed topnav-fixed dashboard">
+    <script language="javascript" type="text/javascript">
+        var sessionTimeout = "<%= Session.Timeout %>";
+        setTimeout('RedirectToWelcomePage()', parseInt(sessionTimeout) * 60 * 1000);
+
+        function RedirectToWelcomePage() {
+            var test = document.getElementById('<%= this.Hdn_username.ClientID %>').value;
+            HealthWorks.Pages.LogoutWebService.UpdateStatus(test);
+            window.location = "../Default.aspx";
+        }
+    </script>
+    <script type="text/javascript">
+        /**
+        * This javascript file checks for the brower/browser tab action.
+        * It is based on the file menstioned by Daniel Melo.
+        * Reference: http://stackoverflow.com/questions/1921941/close-kill-the-session-when-the-browser-or-tab-is-closed
+        */
+        var validNavigation = false;
+
+        function endSession() {
+            // Browser or broswer tab is closed
+            // Do sth here ...
+            var test = document.getElementById('<%= this.Hdn_username.ClientID %>').value;
+            HealthWorks.Pages.LogoutWebService.UpdateStatus(test);
+            alert("Browser is being closed.");
+        }
+
+        function wireUpEvents() {
+            /*
+            * For a list of events that triggers onbeforeunload on IE
+            * check http://msdn.microsoft.com/en-us/library/ms536907(VS.85).aspx
+            */
+            window.onbeforeunload = function () {
+                alert('HI');
+                if (!validNavigation) {
+                    endSession();
+                }
+            }
+
+            // Attach the event keypress to exclude the F5 refresh
+            $(document).bind('keypress', function (e) {
+                if (e.keyCode == 116) {
+                    validNavigation = true;
+                }
+            });
+
+            // Attach the event click for all links in the page
+            $("a").bind("click", function () {
+                validNavigation = true;
+            });
+
+            // Attach the event submit for all forms in the page
+            $("form").bind("submit", function () {
+                validNavigation = true;
+            });
+
+            // Attach the event click for all inputs in the page
+            $("input[type=submit]").bind("click", function () {
+                validNavigation = true;
+            });
+            $("input[type=radio]").bind("click", function () {
+                validNavigation = true;
+            });
+
+            $("select").bind("change", function () {
+                validNavigation = true;
+            });
+
+            $("input[type=text]").bind("change", function () {
+                validNavigation = true;
+            });
+        }
+
+            // Wire up the events as soon as the DOM tree is ready
+            //$(document).ready(function () {
+            //    wireUpEvents();
+            //});
+    </script>
+    <div id="webchat" />
+    <script src="../dist/js/webchat.min.js"></script>
+    // Or you can replace latest with a specific version
+    <script>
+        var someSession = '<%= Session["FirstName"].ToString() %>';
+        var hf = '/get_started{"name": "' + someSession + '", "client": "healthworksai.analytics-hub", "acc_man":"Aditya", "con_term":"6/26/2020", "con_level":"2019 Platinum", "email":"aditya.kumar@teganalytics.com"}';
+
+        WebChat.default.init({
+            selector: "#webchat",
+            initPayload: hf,
+            interval: 5000, // lag in ms between each message
+            customData: { "language": "en" }, // arbitrary custom data. Stay minimal as this will be added to the socket
+            socketUrl: "https://chatbot.analytics-hub.com:5005/",
+            socketPath: "/socket.io/",
+            title: "HWAI Genie",
+            subtitle: "Quick resource for basic queries",
+            profileAvatar: "../dist/Images/hw_icon.png",
+            params: {
+                storage: "session"
+            }
+        })
+    </script>
+    <form id="form1" runat="server">
+        <asp:HiddenField ID="Hdn_username" runat="server" />
+        <asp:ScriptManager runat="server" ID="scriptManagerId" ScriptMode="Release" AsyncPostBackTimeout="360000">
+            <Services>
+                <asp:ServiceReference Path="~/Pages/LogoutWebService.asmx" />
+            </Services>
+        </asp:ScriptManager>
+        <asp:HiddenField Value="0" ID="hfScrollPosition" ClientIDMode="Static" runat="server"
+            EnableViewState="true" />
+        <asp:HiddenField Value="" ID="hfSetScroll" ClientIDMode="Static" runat="server" EnableViewState="true" />
+        <asp:HiddenField Value="0" ID="hfFocus" ClientIDMode="Static" runat="server" EnableViewState="true" />
+        <div id="wrapper" class="wrapper">
+            <header class="hw-header fixed-top">
+                <nav class="navbar navbar-expand-md navbar-light bg-white">
+                    <div class="container-fluid">
+                        <div class="hw-header-logo-container">
+                            <a class="navbar-brand hw-header-logo primary" href="Home.aspx">
+                                <img src="../dist/Images/healthworks_ai-logo.png" alt="healthworks logo">
+                            </a>
+                        </div>
+
+                        <div id="hwNavbar" class="hw-header-navbar">
+                            <ul class="navbar-nav d-flex align-items-center">
+                                <li class="nav-item dropdown mx-2" id="liFullScreen" runat="server">
+                                    <asp:LinkButton ID="lbFullScreen" runat="server" OnClick="lbFullScreen_Click" class="helppdf nav-link" Visible="false" ToolTip="Help"
+                                        Font-Underline="false" ClientIDMode="Static" OnClientClick="return PostToNewWindow();">
+                                    <svg xmlns="http://www.w3.org/2000/svg" min-width="21" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-help-circle"><circle cx="12" cy="12" r="10"></circle><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path><line x1="12" y1="17" x2="12" y2="17"></line></svg>
+                                    </asp:LinkButton>
+                                </li>
+                                <li class="nav-item dropdown ml-2">
+                                    <a class="nav-link dropdown-toggle" href="#" role="button" id="ticketNav-dd" data-toggle="dropdown"
+                                        aria-haspopup="true" aria-expanded="false">
+                                        <i class="fas fa-ticket-alt fa-gradient fa-rotate-45"></i>
+                                    </a>
+                                    <div class="hw-header-dropdown-menu dropdown-menu dropdown-menu-md-right"
+                                        aria-labelledby="ticketNav-dd">
+                                        <asp:LinkButton ID="lbCreateNew" runat="server" ClientIDMode="Static" CssClass="dropdown-item" CommandName="CreateTicket.aspx" CommandArgument="CreateTicket" OnClick="lbExternal_Click">
+                                            Create Ticket
+                                        </asp:LinkButton>
+                                        <asp:LinkButton ID="lbStatus" runat="server" ClientIDMode="Static" CssClass="dropdown-item" CommandName="StatusTicket.aspx" CommandArgument="StatusTicket" OnClick="lbExternal_Click">
+                                            Check Status
+                                        </asp:LinkButton>
+                                        <asp:LinkButton ID="lbViewTicket" runat="server" ClientIDMode="Static" CssClass="dropdown-item" CommandName="ViewTicket.aspx" CommandArgument="ViewTicket" OnClick="lbExternal_Click">
+                                            View Ticket
+                                        </asp:LinkButton>
+                                        <asp:LinkButton ID="lbTicketHistory" runat="server" ClientIDMode="Static" CssClass="dropdown-item" CommandName="Reports.aspx" CommandArgument="ViewTicketHistory" OnClick="lbExternal_Click">
+                                            View Ticket History
+                                        </asp:LinkButton>
+                                    </div>
+                                </li>
+
+                                <li class="nav-item dropdown mx-2">
+                                    <a class="nav-link dropdown-toggle" href="#" role="button" id="profileNav-dd" data-toggle="dropdown"
+                                        aria-haspopup="true" aria-expanded="false">
+                                        <asp:Label Text="" runat="server" CssClass="d-inline-flex pr-1" ID="lblUserName" />
+                                        <i class="fas fa-chevron-down dd-arrow"></i>
+                                    </a>
+                                    <div class="hw-header-dropdown-menu dropdown-menu dropdown-menu-md-right"
+                                        aria-labelledby="profileNav-dd">
+                                        <asp:LinkButton ID="lbProfile" runat="server" ClientIDMode="Static" CssClass="dropdown-item" CommandName="Profile.aspx" CommandArgument="Profile" OnClick="lbExternal_Click">
+                                           Edit Profile
+                                        </asp:LinkButton>
+                                        <asp:LinkButton ID="lbChangePassword" runat="server" ClientIDMode="Static" CssClass="dropdown-item" CommandName="ChangePassword.aspx" CommandArgument="ChangePassword" OnClick="lbExternal_Click">
+                                           Change Password
+                                        </asp:LinkButton>
+                                        <asp:LinkButton Text="Logout" runat="server" CssClass="dropdown-item" OnClick="lbLogout_Click" />
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </nav>
+            </header>
+            <div id="left-sidebar" class="left-sidebar">
+                <div class="sidebar-scroll" id="Nav_Div">
+                    <nav class="main-nav">
+                        <ul class="main-menu">
+                            <li id="Home" runat="server">
+                                <asp:LinkButton ID="LinkButton1" runat="server" CommandName="Home.aspx" CommandArgument="Home" OnClick="lbExternal_Click" CssClass="biggerHomeText">
+                                <i class="fa fa-home"></i><span class="text">Analytics Platform</span>
+                                </asp:LinkButton>
+                            </li>
+                            <li id="abc">
+                                <a href="#" class="js-sub-menu-toggle"><i class="far fa-lightbulb"></i><span class="text">Market Intelligence</span>
+                                    <i class="toggle-icon fa fa-angle-right"></i></a>
+                                <ul class="sub-menu" runat="server" id="DashBoardUL">
+                                    <li runat="server" id="MarketIntelC1L1Li">
+                                        <asp:LinkButton ID="MarketIntelC1L1" runat="server" CommandArgument="OpportunityAnalysis" OnClick="Dashboard_Click">
+                                        <span class="text">Opportunity  Analysis</span>
+                                        </asp:LinkButton>
+                                    </li>
+                                    <li runat="server" id="MarketIntelC1L2Li">
+                                        <asp:LinkButton ID="MarketIntelC1L2" runat="server" CommandName="1200px" CommandArgument="CompetitorAnalysis" OnClick="Dashboard_Click">
+                                        <span class="text">Competitor Analysis<%--<span class="badge badge-pill badge-warning platinumicon">NEW</span>--%></span>
+                                        </asp:LinkButton>
+                                    </li>
+                                    <li runat="server" id="MarketIntelC1L3Li">
+                                        <asp:LinkButton ID="MarketIntelC1L3" runat="server" CommandArgument="MarketSnapshot" OnClick="Dashboard_Click">
+                                        <span class="text">Market Snapshot</span>
+                                        </asp:LinkButton>
+                                    </li>
+                                    <li runat="server" id="UnlimitedIntelC2L1Li" class="disabled">
+                                        <asp:LinkButton ID="UnlimitedIntelC2L1" runat="server" CommandArgument="HospitalCompare" OnClick="Dashboard_Click">
+                                        <span class="text">Hospital Compare</span>
+                                        </asp:LinkButton>
+                                    </li>
+                                    <li runat="server" id="UnlimitedIntelC2L2Li" class="disabled">
+                                        <asp:LinkButton ID="UnlimitedIntelC2L2" runat="server" CommandArgument="ProviderScorecard" OnClick="Dashboard_Click">
+                                        <span class="text">Provider Scorecard</span>
+                                        </asp:LinkButton>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li id="li_ProductIntelligence">
+                                <a href="#" class="js-sub-menu-toggle"><i class="fa fa-bullseye"></i><span class="text">Product Intelligence</span>
+                                    <i class="toggle-icon fa fa-angle-right"></i></a>
+                                <ul class="sub-menu" runat="server" id="ProductUL">
+                                    <li runat="server" id="MarketIntelC2L1Li">
+                                        <asp:LinkButton ID="MarketIntelC2L1" runat="server" CommandName="3100px" CommandArgument="PlanComparison2021" OnClick="Dashboard_Click" Text="">
+                                        <span class="text">2021 Plan Comparison <span class="badge badge-pill badge-warning platinumicon">NEW</span></span>
+                                        </asp:LinkButton>
+                                    </li>
+                                    <li runat="server" id="MarketIntelC2L7Li">
+                                        <asp:LinkButton ID="MarketIntelC2L7" runat="server" CommandName="3100px" CommandArgument="PlanComparison2020" OnClick="Dashboard_Click">
+                                        <span class="text">2020 Plan Comparison</span>
+                                        </asp:LinkButton>
+                                    </li>
+                                    <li runat="server" id="MarketIntelC2L2Li">
+                                        <asp:LinkButton ID="MarketIntelC2L2" runat="server" CommandName="3100px" CommandArgument="MRXPlanComparison2021" OnClick="Dashboard_Click">
+                                        <span class="text">2021 MRX Plan Comparison <span class="badge badge-pill badge-warning platinumicon">NEW</span></span>
+                                        </asp:LinkButton>
+                                    </li>
+                                    <li runat="server" id="MarketIntelC2L8Li">
+                                        <asp:LinkButton ID="MarketIntelC2L8" runat="server" CommandName="3100px" CommandArgument="MRXPlanComparison2020" OnClick="Dashboard_Click">
+                                        <span class="text">2020 MRX Plan Comparison</span>
+                                        </asp:LinkButton>
+                                    </li>
+                                    <li runat="server" id="MarketIntelC2L3Li">
+                                        <asp:LinkButton ID="MarketIntelC2L3" runat="server" CommandArgument="WinningPlans" OnClick="Dashboard_Click">
+                                        <span class="text">Winning Plans</span>
+                                        </asp:LinkButton>
+                                    </li>
+                                    <li runat="server" id="MarketIntelC2L4Li">
+                                        <asp:LinkButton ID="MarketIntelC2L4" runat="server" CommandName="1400px" CommandArgument="ProductInsights" OnClick="Dashboard_Click">
+                                        <span class="text">Product Insights</span>
+                                        </asp:LinkButton>
+                                    </li>
+                                </ul>
+                            </li>
+
+
+                            <li id="liEnrollmentIntellegence">
+                                <a href="#" class="js-sub-menu-toggle"><i class="fa fa-list-alt"></i><span class="text">Enrollment Intelligence</span>
+                                    <i class="toggle-icon fa fa-angle-right"></i></a>
+                                <ul class="sub-menu" runat="server" id="EnrollmentUl">
+                                    <li runat="server" id="MarketIntelC3L1Li">
+                                        <asp:LinkButton ID="MarketIntelC3L1" runat="server" CommandArgument="EnrollmentTrends" OnClick="Dashboard_Click">
+                                        <span class="text">Enrollment Trends</span>
+                                        </asp:LinkButton>
+                                    </li>
+                                    <li runat="server" id="MarketIntelC3L2Li">
+                                        <asp:LinkButton ID="MarketIntelC3L2" runat="server" CommandArgument="EnrollmentForecastAEP" OnClick="Dashboard_Click">
+                                        <span class="text">Enrollment Forecast AEP <span class="badge badge-pill badge-warning platinumicon">NEW</span></span>
+                                        </asp:LinkButton>
+                                    </li>
+                                    <li runat="server" id="MarketIntelC3L3Li">
+                                        <asp:LinkButton ID="MarketIntelC3L3" runat="server" CommandArgument="SalesandTerminations" OnClick="Dashboard_Click">
+                                        <span class="text">Sales & Termination <span class="badge badge-pill badge-warning platinumicon">DEMO</span></span>
+                                        </asp:LinkButton>
+                                    </li>
+                                </ul>
+                            </li>
+
+                            <li id="liSimulator">
+                                <a href="#" class="js-sub-menu-toggle" id="liSimulator1" runat="server"><i class="fa fa-search-dollar"></i><span class="text">Simulators</span>
+                                    <i class="toggle-icon fa fa-angle-right" id="SimAngle" runat="server"></i></a>
+
+                                <ul class="sub-menu" runat="server" id="SimulatorUL">
+                                    <li runat="server" id="ProductIntelC2L3li">
+                                        <asp:LinkButton ID="ProductIntelC2L3" runat="server" CommandName="ScenarioList.aspx" CommandArgument="OOPCSimulator" OnClick="lbExternal_Click" CssClass="hw-dashboard-link" Text="OOPC Simulator">
+                                             <span class="text">OOPC Simulator</span>
+                                        </asp:LinkButton>
+
+                                    </li>
+                                    <li id="MarketIntelC1L4Li" runat="server">
+                                        <asp:LinkButton ID="MarketIntelC1L4" runat="server" CommandName="MPFSimulator.aspx" CommandArgument="MPFSimulator" OnClick="lbExternal_Click">
+                                        <span class="text">MPF Simulator</span>
+                                        </asp:LinkButton>
+                                    </li>
+
+                                    <li id="MarketingIntelC1L5Li" runat="server">
+                                        <asp:LinkButton ID="MarketingIntelC1L5" runat="server" CommandArgument="MMMSimulator" OnClick="Dashboard_Click">
+                                        <span class="text">MMM Simulator <span class="badge badge-pill badge-warning platinumicon">DEMO</span></span>
+                                        </asp:LinkButton>
+                                    </li>
+                                   <%-- <li runat="server" id="ProductIntelC2L5Li">
+                                        <asp:LinkButton ID="ProductIntelC2L5" runat="server" CommandName="ManageScenarioList.aspx" CommandArgument="BenefitSimulatorScenarioList" OnClick="lbExternal_Click" CssClass="hw-dashboard-link" Text="Benefit Simulator">
+                                             <span class="text">Benefit Simulator <span class="badge badge-pill badge-warning platinumicon">NEW</span></span>
+                                        </asp:LinkButton>
+                                    </li>--%>
+                                </ul>
+                            </li>
+
+                            <li id="id_ProviderIntelligence">
+                                <a href="#" class="js-sub-menu-toggle" id="id_ProviderIntelligence1" runat="server"><i class="fa fa-clinic-medical"></i><span class="text">HealthWorksAI Insights</span>
+                                    <i class="toggle-icon fa fa-angle-right"></i></a>
+                                <ul class="sub-menu" runat="server" id="ProviderUl">
+                                    <li id="UnlimitedIntelC1L5Li" runat="server">
+                                        <asp:LinkButton ID="UnlimitedIntelC1L5" runat="server" CommandName="10100px" CommandArgument="Whitepaper3" OnClick="Whitepaper_Click">
+                                            <span class="text">Cost Structure Breakdown of Trending Benefits <span class="badge badge-pill badge-warning platinumicon">NEW</span>                                           
+                                            </span>
+                                        </asp:LinkButton>
+                                    </li>
+                                    <li id="UnlimitedIntelC1L7Li" runat="server">
+                                        <asp:LinkButton ID="UnlimitedIntelC1L7" runat="server" CommandArgument="Whitepaper2_2021" CommandName="7800px" OnClick="Whitepaper_Click">
+                                            <span class="text">Supplemental, Enhanced and SSBCI Benefit Trends (2021) <span class="badge badge-pill badge-warning platinumicon">NEW</span></span> 
+                                        </asp:LinkButton>
+                                    </li>
+
+                                    <li id="UnlimitedIntelC1L6Li" runat="server">
+                                        <asp:LinkButton ID="UnlimitedIntelC1L6" runat="server" CommandName="PostAEPFindingsReport.aspx" CommandArgument="2021PostAEPFindingsReport" OnClick="lbExternal_Click" CssClass="hw-dashboard-link" Text="" ClientIDMode="Static">
+                                            <span class="text">2021 Post AEP Findings Report <span class="badge badge-pill badge-warning platinumicon">NEW</span></span></asp:LinkButton>
+                                    </li>
+
+                                    <li id="UnlimitedIntelC1L1Li" runat="server">
+                                        <asp:LinkButton ID="UnlimitedIntelC1L1" runat="server" CommandName="https://www.healthworksai.com/2021-aep-findings-report/" CommandArgument="2021AEPFindingsReport" OnClientClick="PostToNewWindow();" OnClick="lbSocio_Click">
+                                        <span class="text">2021 AEP Findings Report</span>
+                                        </asp:LinkButton>
+                                    </li>
+                                    <li id="UnlimitedIntelC1L2Li" runat="server">
+                                        <asp:LinkButton ID="UnlimitedIntelC1L2" runat="server" CommandArgument="Whitepaper2_2020" CommandName="7800px" OnClick="Whitepaper_Click">
+                                            <span class="text">Supplemental, Enhanced and SSBCI Benefit Trends (2020)<%--  <span class="badge badge-pill badge-warning platinumicon">NEW</span>--%></span> 
+                                        </asp:LinkButton>
+                                    </li>
+                                    <li id="UnlimitedIntelC1L3Li" runat="server">
+                                        <asp:LinkButton ID="UnlimitedIntelC1L3" runat="server" CommandArgument="Whitepaper1" CommandName="6200px" OnClick="Whitepaper_Click">
+                                            <span class="text">Emergence of $0 Premium Plans                                             
+                                            </span>
+                                        </asp:LinkButton>
+                                    </li>
+                                    <li id="UnlimitedIntelC1L4Li" runat="server">
+                                        <asp:LinkButton ID="UnlimitedIntelC1L4" runat="server" CommandName="TPVWhitepaper.aspx" CommandArgument="TruePlanValue(TPV)Methodology" OnClick="lbExternal_Click" CssClass="hw-dashboard-link" Text="" ClientIDMode="Static">
+                                            <span class="text">True Plan Value (TPV) Methodology </span></asp:LinkButton>
+                                    </li>
+
+                                </ul>
+                            </li>
+
+                            <li id="id_PerformanceMgmt">
+                                <a href="#" class="js-sub-menu-toggle" id="id_PerformanceMgmt1" runat="server"><i class="fa fa-chart-line"></i><span class="text">Marketing Intelligence</span>
+                                    <i class="toggle-icon fa fa-angle-right"></i></a>
+                                <ul class="sub-menu" runat="server" id="PerformanceUl">
+
+                                    <li runat="server" id="MarketingIntelC1L1Li" class="disabled">
+                                        <asp:LinkButton ID="MarketingIntelC1L1" runat="server" CommandArgument="ExecutiveDashboard" OnClick="Dashboard_Click">
+                                        <span class="text">Executive Dashboard</span>
+                                        </asp:LinkButton>
+                                    </li>
+                                    <li id="MarketingIntelC1L2Li" runat="server" class="disabled">
+                                        <asp:LinkButton ID="MarketingIntelC1L2" runat="server" CommandArgument="MarketingPerformanceOverview" OnClick="Dashboard_Click">
+                                        <span class="text">Marketing Performance Overview</span>
+                                        </asp:LinkButton>
+                                    </li>
+                                    <li id="MarketingIntelC1L3Li" runat="server" class="disabled">
+                                        <asp:LinkButton ID="MarketingIntelC1L3" runat="server" CommandArgument="IntegratedChannelPerformance" OnClick="Dashboard_Click">
+                                        <span class="text">Integrated Channel Performance</span>
+                                        </asp:LinkButton>
+                                    </li>
+                                    <li id="MarketingIntelC1L4Li" runat="server" class="disabled">
+                                        <asp:LinkButton ID="MarketingIntelC1L4" runat="server" CommandArgument="IntegratedFinancialPerformance" OnClick="Dashboard_Click">
+                                        <span class="text">Integrated Financial Performance</span>
+                                        </asp:LinkButton>
+                                    </li>
+                                    <li runat="server" id="MarketingIntelC2L1Li" class="disabled">
+                                        <asp:LinkButton ID="MarketingIntelC2L1" runat="server" CommandArgument="DigitalOverview" OnClick="Dashboard_Click">
+                                        <span class="text">Digital Overview</span>
+                                        </asp:LinkButton>
+                                    </li>
+                                    <li runat="server" id="MarketingIntelC2L2Li" class="disabled">
+                                        <asp:LinkButton ID="MarketingIntelC2L2" runat="server" CommandArgument="Digital-HighValueActivity" OnClick="Dashboard_Click">
+                                        <span class="text">Digital - High Value Activity</span>
+                                        </asp:LinkButton>
+                                    </li>
+                                    <li runat="server" id="MarketingIntelC2L3Li" class="disabled">
+                                        <asp:LinkButton ID="MarketingIntelC2L3" runat="server" CommandArgument="Digital-PathtoPurchase" OnClick="Dashboard_Click">
+                                        <span class="text">Digital - Path to Purchase</span>
+                                        </asp:LinkButton>
+                                    </li>
+                                    <li runat="server" id="MarketingIntelC3L1Li" class="disabled">
+                                        <asp:LinkButton ID="MarketingIntelC3L1" runat="server" CommandArgument="EmailPerformance" OnClick="Dashboard_Click">
+                                        <span class="text">Email Performance</span>
+                                        </asp:LinkButton>
+                                    </li>
+                                    <li runat="server" id="MarketingIntelC3L2Li" class="disabled">
+                                        <asp:LinkButton ID="MarketingIntelC3L2" runat="server" CommandArgument="SocialMediaPerformance" OnClick="Dashboard_Click">
+                                        <span class="text">Social Media Performance</span>
+                                        </asp:LinkButton>
+                                    </li>
+                                    <li runat="server" id="MarketingIntelC3L3Li" class="disabled">
+                                        <asp:LinkButton ID="MarketingIntelC3L3" runat="server" CommandArgument="DirectMailPerformance" OnClick="Dashboard_Click">
+                                        <span class="text">Direct Mail Performance</span>
+                                        </asp:LinkButton>
+                                    </li>
+                                </ul>
+                            </li>
+
+                            <li id="PostAEP" runat="server">
+                                <a href="#" class="js-sub-menu-toggle" id="liPostAEP" runat="server"><i class="fa fa-calendar-week"></i>
+                                    <span class="text">Post-AEP Intelligence</span>
+                                    <i class="toggle-icon fa fa-angle-right" id="postAEPAngle" runat="server"></i></a>
+                                <ul class="sub-menu" runat="server" id="PostUL">
+                                    <li runat="server" id="ProductIntelC3L1Li" class="disabled">
+                                        <asp:LinkButton ID="ProductIntelC3L1" runat="server" CommandName="" CommandArgument="EnrollmentAnalysis" OnClick="Dashboard_Click" CssClass="hw-dashboard-link disabled" Text="Enrollment Analysis">
+                                            <span class="text">Enrollment Analysis</span>
+                                        </asp:LinkButton>
+
+                                    </li>
+                                    <li runat="server" id="ProductIntelC3L2Li" class="disabled">
+                                        <asp:LinkButton ID="ProductIntelC3L2" runat="server" CommandName="" CommandArgument="PostAEPCompetitorAnalysis" OnClick="Dashboard_Click" CssClass="hw-dashboard-link disabled" Text="Competitor Analysis">
+                                        <span class="text">Competitor Analysis</span>
+                                        </asp:LinkButton>
+                                    </li>
+                                    <li runat="server" id="ProductIntelC3L3Li" class="disabled">
+                                        <asp:LinkButton ID="ProductIntelC3L3" runat="server" CommandName="" CommandArgument="RegionAnalysis" OnClick="Dashboard_Click" CssClass="hw-dashboard-link disabled" Text="Region Analysis">
+                                        <span class="text">Region Analysis</span>
+                                        </asp:LinkButton>
+                                    </li>
+                                    <li runat="server" id="ProductIntelC3L4Li" class="disabled">
+                                        <asp:LinkButton ID="ProductIntelC3L4" runat="server" CommandName="" CommandArgument="ProductAnalysis" OnClick="Dashboard_Click" CssClass="hw-dashboard-link disabled" Text="Product Analysis">
+                                            <span class="text">Product Analysis</span>
+                                        </asp:LinkButton>
+                                    </li>
+                                </ul>
+                            </li>
+
+                            <li>
+                                <a href="#" class="js-sub-menu-toggle"><i class="fa fa-cubes"></i><span class="text">Data & Download</span>
+                                    <i class="toggle-icon fa fa-angle-right"></i></a>
+                                <ul class="sub-menu" runat="server" id="PlanAndEnrolment">
+                                    <li id="UnlimitedIntelC3L1Li" runat="server">
+                                        <asp:LinkButton ID="UnlimitedIntelC3L1" runat="server" CommandName="BenefitCompetitiveGrid" CommandArgument="Benefit Competitive Grid" OnClick="lbDownload_Click" CssClass="hw-dashboard-link" Text="Benefit Competitive Grid">
+                                            <span class="text">Benefit Competitive Grid <span class="badge badge-pill badge-warning platinumicon">NEW</span></span>
+                                        </asp:LinkButton>
+                                    </li>
+                                    <li runat="server" id="UnlimitedIntelC3L2Li">
+                                        <asp:LinkButton ID="UnlimitedIntelC3L2" runat="server" CommandName="3100px" CommandArgument="PlanComparisonDownload2021" OnClick="Dashboard_Click">
+                                        <span class="text">2021 Plan Comparison</span>
+                                        <span class="textdownload">(Download) <span class="badge badge-pill badge-warning platinumicon">NEW</span></span>
+                                        </asp:LinkButton>
+                                    </li>
+                                    <li runat="server" id="UnlimitedIntelC3L6Li">
+                                        <asp:LinkButton ID="UnlimitedIntelC3L6" runat="server" CommandName="3100px" CommandArgument="PlanComparisonDownload2020" OnClick="Dashboard_Click">
+                                        <span class="text">2020 Plan Comparison</span>
+                                        <span class="textdownload">(Download)</span>
+                                        </asp:LinkButton>
+                                    </li>
+                                    <li runat="server" id="UnlimitedIntelC3L3Li">
+                                        <asp:LinkButton ID="UnlimitedIntelC3L3" runat="server" CommandName="CompetitorCSV" CommandArgument="CompetitorAnalysisCube" OnClientClick="PostToNewWindow();" OnClick="lbDataCube_Click">
+                                        <span class="text">Competitor Analysis</span>
+                                        </asp:LinkButton>
+                                    </li>
+                                    <li runat="server" id="UnlimitedIntelC3L4Li">
+                                        <asp:LinkButton ID="UnlimitedIntelC3L4" runat="server" CommandName="PopulationHealth" CommandArgument="PopulationHealthCube" OnClientClick="PostToNewWindow();" OnClick="lbDataCube_Click">
+                                        <span class="text">Population Health</span>
+                                        </asp:LinkButton>
+                                    </li>
+                                    <li runat="server" id="UnlimitedIntelC3L5Li">
+                                        <asp:LinkButton ID="UnlimitedIntelC3L5" runat="server" CommandName="Census" CommandArgument="CensusCube" OnClientClick="PostToNewWindow();" OnClick="lbDataCube_Click">
+                                        <span class="text">Census</span>
+                                        </asp:LinkButton>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li id="SupportLi" runat="server"><a href="#" class="js-sub-menu-toggle"><i class="fa fa-ticket-alt"></i><span class="text">Settings</span>
+                                <i class="toggle-icon fa fa-angle-right"></i></a>
+                                <ul class="sub-menu" runat="server" id="UlSupport">
+                                    <li runat="server" id="ManageUser">
+                                        <asp:LinkButton ID="LinkButton24" runat="server" CommandName="ManageUser.aspx" CommandArgument="ManageUser" OnClick="lbInternal_Click">
+                                        <span class="text">Manage User</span>
+                                        </asp:LinkButton>
+                                    </li>
+                                    <li runat="server" id="TrackPage">
+                                        <asp:LinkButton ID="LinkButton6" runat="server" CommandName="TrackPageUsage.aspx" CommandArgument="TrackPageUsage" OnClick="lbInternal_Click">
+                                        <span class="text">Track Page Usage</span>
+                                        </asp:LinkButton>
+                                    </li>
+                                    <li runat="server" id="ManageLogo">
+                                        <asp:LinkButton ID="LinkButton2" runat="server" CommandName="LogoUpload.aspx" CommandArgument="LogoUpload" OnClick="lbInternal_Click">
+                                        <span class="text">Manage Logo</span>
+                                        </asp:LinkButton>
+                                    </li>
+                                    <li runat="server" id="UploadFiles">
+                                        <asp:LinkButton ID="LinkButton3" runat="server" CommandName="UploadFiles.aspx" CommandArgument="UploadFiles" OnClick="lbInternal_Click">
+                                        <span class="text">Upload Files</span>
+                                        </asp:LinkButton>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+                <a href="#" id="btnToggle" class="collapse-menu-icon"><i class="fa fa-chevron-left"></i></a>
+            </div>
+            <div id="main-content-wrapper" class="content-wrapper">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+        </div>
+        <script src="../dist/js/TEG-common1.js" type="text/javascript"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+
+        <script type="text/javascript">
+            $(document).ready(function () {
+                $ScrollPosition = $('#hfScrollPosition').val();
+                $ScrollingDiv = $('#Nav_Div');
+                $ScrollingDiv.scroll(function () {
+                    $('#hfScrollPosition').val($ScrollingDiv.scrollTop());
+                });
+                if ($('#hfSetScroll').val() != "") {
+                    $ScrollingDiv.scrollTop($('#hfSetScroll').val());
+                }
+                wireUpEvents();
+            });
+        </script>
+    </form>
+</body>
+</html>
+

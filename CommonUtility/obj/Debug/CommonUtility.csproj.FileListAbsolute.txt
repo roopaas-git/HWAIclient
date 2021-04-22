@@ -1,0 +1,360 @@
+E:\SUBBU\Work\FrameWork4.8\Latest\HealthWorks\CommonUtility\bin\Debug\CommonUtility.dll
+E:\SUBBU\Work\FrameWork4.8\Latest\HealthWorks\CommonUtility\bin\Debug\CommonUtility.pdb
+E:\SUBBU\Work\FrameWork4.8\Latest\HealthWorks\CommonUtility\bin\Debug\LoggerUtility.dll
+E:\SUBBU\Work\FrameWork4.8\Latest\HealthWorks\CommonUtility\bin\Debug\Newtonsoft.Json.dll
+E:\SUBBU\Work\FrameWork4.8\Latest\HealthWorks\CommonUtility\bin\Debug\Serilog.dll
+E:\SUBBU\Work\FrameWork4.8\Latest\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\SUBBU\Work\FrameWork4.8\Latest\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\SUBBU\Work\FrameWork4.8\Latest\HealthWorks\CommonUtility\bin\Debug\Serilog.Sinks.File.dll
+E:\SUBBU\Work\FrameWork4.8\Latest\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\SUBBU\Work\FrameWork4.8\Latest\HealthWorks\CommonUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\SUBBU\Work\FrameWork4.8\Latest\HealthWorks\CommonUtility\bin\Debug\LoggerUtility.pdb
+E:\SUBBU\Work\FrameWork4.8\Latest\HealthWorks\CommonUtility\bin\Debug\Newtonsoft.Json.xml
+E:\SUBBU\Work\FrameWork4.8\Latest\HealthWorks\CommonUtility\bin\Debug\Serilog.pdb
+E:\SUBBU\Work\FrameWork4.8\Latest\HealthWorks\CommonUtility\bin\Debug\Serilog.xml
+E:\SUBBU\Work\FrameWork4.8\Latest\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\SUBBU\Work\FrameWork4.8\Latest\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\SUBBU\Work\FrameWork4.8\Latest\HealthWorks\CommonUtility\bin\Debug\Serilog.Sinks.File.xml
+E:\SUBBU\Work\FrameWork4.8\Latest\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\SUBBU\Work\FrameWork4.8\Latest\HealthWorks\CommonUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\SUBBU\Work\FrameWork4.8\Latest\HealthWorks\CommonUtility\obj\Debug\CommonUtility.csprojAssemblyReference.cache
+E:\SUBBU\Work\FrameWork4.8\Latest\HealthWorks\CommonUtility\obj\Debug\CommonUtility.csproj.CoreCompileInputs.cache
+E:\SUBBU\Work\FrameWork4.8\Latest\HealthWorks\CommonUtility\obj\Debug\CommonUtility.csproj.CopyComplete
+E:\SUBBU\Work\FrameWork4.8\Latest\HealthWorks\CommonUtility\obj\Debug\CommonUtility.dll
+E:\SUBBU\Work\FrameWork4.8\Latest\HealthWorks\CommonUtility\obj\Debug\CommonUtility.pdb
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\CommonUtility\bin\Debug\CommonUtility.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\CommonUtility\bin\Debug\CommonUtility.pdb
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\CommonUtility\bin\Debug\LoggerUtility.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\CommonUtility\bin\Debug\Newtonsoft.Json.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\CommonUtility\bin\Debug\Serilog.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\CommonUtility\bin\Debug\Serilog.Sinks.File.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\CommonUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\CommonUtility\bin\Debug\LoggerUtility.pdb
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\CommonUtility\bin\Debug\Newtonsoft.Json.xml
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\CommonUtility\bin\Debug\Serilog.pdb
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\CommonUtility\bin\Debug\Serilog.xml
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.xml
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\CommonUtility\bin\Debug\Serilog.Sinks.File.xml
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Primitives.xml
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\CommonUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\CommonUtility\obj\Debug\CommonUtility.csprojAssemblyReference.cache
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\CommonUtility\obj\Debug\CommonUtility.csproj.CoreCompileInputs.cache
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\CommonUtility\obj\Debug\CommonUtility.csproj.CopyComplete
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\CommonUtility\obj\Debug\CommonUtility.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\CommonUtility\obj\Debug\CommonUtility.pdb
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\CommonUtility\bin\Debug\CommonUtility.dll
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\CommonUtility\bin\Debug\CommonUtility.pdb
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\CommonUtility\bin\Debug\LoggerUtility.dll
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\CommonUtility\bin\Debug\Newtonsoft.Json.dll
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\CommonUtility\bin\Debug\Serilog.dll
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\CommonUtility\bin\Debug\Serilog.Sinks.File.dll
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\CommonUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\CommonUtility\bin\Debug\LoggerUtility.pdb
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\CommonUtility\bin\Debug\Newtonsoft.Json.xml
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\CommonUtility\bin\Debug\Serilog.pdb
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\CommonUtility\bin\Debug\Serilog.xml
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\CommonUtility\bin\Debug\Serilog.Sinks.File.xml
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\CommonUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\CommonUtility\obj\Debug\CommonUtility.csprojAssemblyReference.cache
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\CommonUtility\obj\Debug\CommonUtility.csproj.CoreCompileInputs.cache
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\CommonUtility\obj\Debug\CommonUtility.csproj.CopyComplete
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\CommonUtility\obj\Debug\CommonUtility.dll
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\CommonUtility\obj\Debug\CommonUtility.pdb
+F:\menaga\Work\Portal_WIP\Generic Solution\Subbu Generic Solution\HealthWorks\CommonUtility\bin\Debug\CommonUtility.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\Subbu Generic Solution\HealthWorks\CommonUtility\bin\Debug\CommonUtility.pdb
+F:\menaga\Work\Portal_WIP\Generic Solution\Subbu Generic Solution\HealthWorks\CommonUtility\bin\Debug\LoggerUtility.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\Subbu Generic Solution\HealthWorks\CommonUtility\bin\Debug\Newtonsoft.Json.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\Subbu Generic Solution\HealthWorks\CommonUtility\bin\Debug\Serilog.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\Subbu Generic Solution\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\Subbu Generic Solution\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\Subbu Generic Solution\HealthWorks\CommonUtility\bin\Debug\Serilog.Sinks.File.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\Subbu Generic Solution\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\Subbu Generic Solution\HealthWorks\CommonUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\Subbu Generic Solution\HealthWorks\CommonUtility\bin\Debug\LoggerUtility.pdb
+F:\menaga\Work\Portal_WIP\Generic Solution\Subbu Generic Solution\HealthWorks\CommonUtility\bin\Debug\Newtonsoft.Json.xml
+F:\menaga\Work\Portal_WIP\Generic Solution\Subbu Generic Solution\HealthWorks\CommonUtility\bin\Debug\Serilog.pdb
+F:\menaga\Work\Portal_WIP\Generic Solution\Subbu Generic Solution\HealthWorks\CommonUtility\bin\Debug\Serilog.xml
+F:\menaga\Work\Portal_WIP\Generic Solution\Subbu Generic Solution\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\menaga\Work\Portal_WIP\Generic Solution\Subbu Generic Solution\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.xml
+F:\menaga\Work\Portal_WIP\Generic Solution\Subbu Generic Solution\HealthWorks\CommonUtility\bin\Debug\Serilog.Sinks.File.xml
+F:\menaga\Work\Portal_WIP\Generic Solution\Subbu Generic Solution\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Primitives.xml
+F:\menaga\Work\Portal_WIP\Generic Solution\Subbu Generic Solution\HealthWorks\CommonUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\menaga\Work\Portal_WIP\Generic Solution\Subbu Generic Solution\HealthWorks\CommonUtility\obj\Debug\CommonUtility.csprojAssemblyReference.cache
+F:\menaga\Work\Portal_WIP\Generic Solution\Subbu Generic Solution\HealthWorks\CommonUtility\obj\Debug\CommonUtility.csproj.CoreCompileInputs.cache
+F:\menaga\Work\Portal_WIP\Generic Solution\Subbu Generic Solution\HealthWorks\CommonUtility\obj\Debug\CommonUtility.csproj.CopyComplete
+F:\menaga\Work\Portal_WIP\Generic Solution\Subbu Generic Solution\HealthWorks\CommonUtility\obj\Debug\CommonUtility.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\Subbu Generic Solution\HealthWorks\CommonUtility\obj\Debug\CommonUtility.pdb
+D:\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\bin\Debug\CommonUtility.dll
+D:\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\bin\Debug\CommonUtility.pdb
+D:\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\bin\Debug\LoggerUtility.dll
+D:\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\bin\Debug\Newtonsoft.Json.dll
+D:\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\bin\Debug\Serilog.dll
+D:\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\bin\Debug\Serilog.Sinks.File.dll
+D:\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\bin\Debug\LoggerUtility.pdb
+D:\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\bin\Debug\Newtonsoft.Json.xml
+D:\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\bin\Debug\Serilog.pdb
+D:\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\bin\Debug\Serilog.xml
+D:\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\bin\Debug\Serilog.Sinks.File.xml
+D:\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\obj\Debug\CommonUtility.csprojAssemblyReference.cache
+D:\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\obj\Debug\CommonUtility.csproj.CoreCompileInputs.cache
+D:\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\obj\Debug\CommonUtility.csproj.CopyComplete
+D:\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\obj\Debug\CommonUtility.dll
+D:\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\obj\Debug\CommonUtility.pdb
+D:\work\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\bin\Debug\CommonUtility.dll
+D:\work\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\bin\Debug\CommonUtility.pdb
+D:\work\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\bin\Debug\LoggerUtility.dll
+D:\work\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\bin\Debug\Newtonsoft.Json.dll
+D:\work\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\bin\Debug\Serilog.dll
+D:\work\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\work\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\work\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\bin\Debug\Serilog.Sinks.File.dll
+D:\work\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\work\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\work\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\bin\Debug\LoggerUtility.pdb
+D:\work\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\bin\Debug\Newtonsoft.Json.xml
+D:\work\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\bin\Debug\Serilog.pdb
+D:\work\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\bin\Debug\Serilog.xml
+D:\work\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\work\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\work\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\bin\Debug\Serilog.Sinks.File.xml
+D:\work\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\work\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\work\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\obj\Debug\CommonUtility.csprojAssemblyReference.cache
+D:\work\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\obj\Debug\CommonUtility.csproj.CoreCompileInputs.cache
+D:\work\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\obj\Debug\CommonUtility.csproj.CopyComplete
+D:\work\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\obj\Debug\CommonUtility.dll
+D:\work\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\CommonUtility\obj\Debug\CommonUtility.pdb
+D:\Build Check\HealthWorks\CommonUtility\bin\Debug\CommonUtility.dll
+D:\Build Check\HealthWorks\CommonUtility\bin\Debug\CommonUtility.pdb
+D:\Build Check\HealthWorks\CommonUtility\bin\Debug\LoggerUtility.dll
+D:\Build Check\HealthWorks\CommonUtility\bin\Debug\Newtonsoft.Json.dll
+D:\Build Check\HealthWorks\CommonUtility\bin\Debug\Serilog.dll
+D:\Build Check\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Build Check\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Build Check\HealthWorks\CommonUtility\bin\Debug\Serilog.Sinks.File.dll
+D:\Build Check\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Build Check\HealthWorks\CommonUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Build Check\HealthWorks\CommonUtility\bin\Debug\LoggerUtility.pdb
+D:\Build Check\HealthWorks\CommonUtility\bin\Debug\Newtonsoft.Json.xml
+D:\Build Check\HealthWorks\CommonUtility\bin\Debug\Serilog.pdb
+D:\Build Check\HealthWorks\CommonUtility\bin\Debug\Serilog.xml
+D:\Build Check\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Build Check\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Build Check\HealthWorks\CommonUtility\bin\Debug\Serilog.Sinks.File.xml
+D:\Build Check\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Build Check\HealthWorks\CommonUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Build Check\HealthWorks\CommonUtility\obj\Debug\CommonUtility.csprojAssemblyReference.cache
+D:\Build Check\HealthWorks\CommonUtility\obj\Debug\CommonUtility.csproj.CoreCompileInputs.cache
+D:\Build Check\HealthWorks\CommonUtility\obj\Debug\CommonUtility.csproj.CopyComplete
+D:\Build Check\HealthWorks\CommonUtility\obj\Debug\CommonUtility.dll
+D:\Build Check\HealthWorks\CommonUtility\obj\Debug\CommonUtility.pdb
+D:\Build Check\Quick Access Changes\HealthWorks\CommonUtility\bin\Debug\CommonUtility.dll
+D:\Build Check\Quick Access Changes\HealthWorks\CommonUtility\bin\Debug\CommonUtility.pdb
+D:\Build Check\Quick Access Changes\HealthWorks\CommonUtility\bin\Debug\LoggerUtility.dll
+D:\Build Check\Quick Access Changes\HealthWorks\CommonUtility\bin\Debug\Newtonsoft.Json.dll
+D:\Build Check\Quick Access Changes\HealthWorks\CommonUtility\bin\Debug\Serilog.dll
+D:\Build Check\Quick Access Changes\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Build Check\Quick Access Changes\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Build Check\Quick Access Changes\HealthWorks\CommonUtility\bin\Debug\Serilog.Sinks.File.dll
+D:\Build Check\Quick Access Changes\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Build Check\Quick Access Changes\HealthWorks\CommonUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Build Check\Quick Access Changes\HealthWorks\CommonUtility\bin\Debug\LoggerUtility.pdb
+D:\Build Check\Quick Access Changes\HealthWorks\CommonUtility\bin\Debug\Newtonsoft.Json.xml
+D:\Build Check\Quick Access Changes\HealthWorks\CommonUtility\bin\Debug\Serilog.pdb
+D:\Build Check\Quick Access Changes\HealthWorks\CommonUtility\bin\Debug\Serilog.xml
+D:\Build Check\Quick Access Changes\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Build Check\Quick Access Changes\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Build Check\Quick Access Changes\HealthWorks\CommonUtility\bin\Debug\Serilog.Sinks.File.xml
+D:\Build Check\Quick Access Changes\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Build Check\Quick Access Changes\HealthWorks\CommonUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Build Check\Quick Access Changes\HealthWorks\CommonUtility\obj\Debug\CommonUtility.csprojAssemblyReference.cache
+D:\Build Check\Quick Access Changes\HealthWorks\CommonUtility\obj\Debug\CommonUtility.csproj.CoreCompileInputs.cache
+D:\Build Check\Quick Access Changes\HealthWorks\CommonUtility\obj\Debug\CommonUtility.csproj.CopyComplete
+D:\Build Check\Quick Access Changes\HealthWorks\CommonUtility\obj\Debug\CommonUtility.dll
+D:\Build Check\Quick Access Changes\HealthWorks\CommonUtility\obj\Debug\CommonUtility.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\CommonUtility\bin\Debug\CommonUtility.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\CommonUtility\bin\Debug\CommonUtility.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\CommonUtility\bin\Debug\LoggerUtility.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\CommonUtility\bin\Debug\Newtonsoft.Json.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\CommonUtility\bin\Debug\Serilog.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\CommonUtility\bin\Debug\Serilog.Sinks.File.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\CommonUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\CommonUtility\bin\Debug\LoggerUtility.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\CommonUtility\bin\Debug\Newtonsoft.Json.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\CommonUtility\bin\Debug\Serilog.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\CommonUtility\bin\Debug\Serilog.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\CommonUtility\bin\Debug\Serilog.Sinks.File.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\CommonUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\CommonUtility\obj\Debug\CommonUtility.csprojAssemblyReference.cache
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\CommonUtility\obj\Debug\CommonUtility.csproj.CoreCompileInputs.cache
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\CommonUtility\obj\Debug\CommonUtility.csproj.CopyComplete
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\CommonUtility\obj\Debug\CommonUtility.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\CommonUtility\obj\Debug\CommonUtility.pdb
+F:\HealthWorksProduction\HealthWorks\HealthWorks\CommonUtility\bin\Debug\CommonUtility.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\CommonUtility\bin\Debug\CommonUtility.pdb
+F:\HealthWorksProduction\HealthWorks\HealthWorks\CommonUtility\bin\Debug\LoggerUtility.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\CommonUtility\bin\Debug\Newtonsoft.Json.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\CommonUtility\bin\Debug\Serilog.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\CommonUtility\bin\Debug\Serilog.Sinks.File.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\CommonUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\CommonUtility\bin\Debug\LoggerUtility.pdb
+F:\HealthWorksProduction\HealthWorks\HealthWorks\CommonUtility\bin\Debug\Newtonsoft.Json.xml
+F:\HealthWorksProduction\HealthWorks\HealthWorks\CommonUtility\bin\Debug\Serilog.pdb
+F:\HealthWorksProduction\HealthWorks\HealthWorks\CommonUtility\bin\Debug\Serilog.xml
+F:\HealthWorksProduction\HealthWorks\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\HealthWorksProduction\HealthWorks\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.xml
+F:\HealthWorksProduction\HealthWorks\HealthWorks\CommonUtility\bin\Debug\Serilog.Sinks.File.xml
+F:\HealthWorksProduction\HealthWorks\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Primitives.xml
+F:\HealthWorksProduction\HealthWorks\HealthWorks\CommonUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\HealthWorksProduction\HealthWorks\HealthWorks\CommonUtility\obj\Debug\CommonUtility.csprojAssemblyReference.cache
+F:\HealthWorksProduction\HealthWorks\HealthWorks\CommonUtility\obj\Debug\CommonUtility.csproj.CoreCompileInputs.cache
+F:\HealthWorksProduction\HealthWorks\HealthWorks\CommonUtility\obj\Debug\CommonUtility.csproj.CopyComplete
+F:\HealthWorksProduction\HealthWorks\HealthWorks\CommonUtility\obj\Debug\CommonUtility.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\CommonUtility\obj\Debug\CommonUtility.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\CommonUtility\bin\Debug\CommonUtility.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\CommonUtility\bin\Debug\CommonUtility.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\CommonUtility\bin\Debug\LoggerUtility.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\CommonUtility\bin\Debug\Newtonsoft.Json.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\CommonUtility\bin\Debug\Serilog.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\CommonUtility\bin\Debug\Serilog.Sinks.File.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\CommonUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\CommonUtility\bin\Debug\LoggerUtility.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\CommonUtility\bin\Debug\Newtonsoft.Json.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\CommonUtility\bin\Debug\Serilog.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\CommonUtility\bin\Debug\Serilog.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\CommonUtility\bin\Debug\Serilog.Sinks.File.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\CommonUtility\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\CommonUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\CommonUtility\obj\Debug\CommonUtility.csprojAssemblyReference.cache
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\CommonUtility\obj\Debug\CommonUtility.csproj.CoreCompileInputs.cache
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\CommonUtility\obj\Debug\CommonUtility.csproj.CopyComplete
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\CommonUtility\obj\Debug\CommonUtility.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\CommonUtility\obj\Debug\CommonUtility.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\CommonUtility\bin\Debug\CommonUtility.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\CommonUtility\bin\Debug\CommonUtility.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\CommonUtility\bin\Debug\LoggerUtility.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\CommonUtility\bin\Debug\Newtonsoft.Json.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\CommonUtility\bin\Debug\Serilog.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\CommonUtility\bin\Debug\Serilog.Sinks.File.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\CommonUtility\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\CommonUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\CommonUtility\bin\Debug\LoggerUtility.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\CommonUtility\bin\Debug\Newtonsoft.Json.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\CommonUtility\bin\Debug\Serilog.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\CommonUtility\bin\Debug\Serilog.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\CommonUtility\bin\Debug\Serilog.Sinks.File.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\CommonUtility\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\CommonUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\CommonUtility\obj\Debug\CommonUtility.csprojAssemblyReference.cache
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\CommonUtility\obj\Debug\CommonUtility.csproj.CoreCompileInputs.cache
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\CommonUtility\obj\Debug\CommonUtility.csproj.CopyComplete
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\CommonUtility\obj\Debug\CommonUtility.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\CommonUtility\obj\Debug\CommonUtility.pdb
+F:\Work\HW\Version3\CommonUtility\bin\Debug\CommonUtility.dll
+F:\Work\HW\Version3\CommonUtility\bin\Debug\CommonUtility.pdb
+F:\Work\HW\Version3\CommonUtility\bin\Debug\LoggerUtility.dll
+F:\Work\HW\Version3\CommonUtility\bin\Debug\Newtonsoft.Json.dll
+F:\Work\HW\Version3\CommonUtility\bin\Debug\Serilog.dll
+F:\Work\HW\Version3\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Work\HW\Version3\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.dll
+F:\Work\HW\Version3\CommonUtility\bin\Debug\Serilog.Sinks.File.dll
+F:\Work\HW\Version3\CommonUtility\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\Work\HW\Version3\CommonUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Work\HW\Version3\CommonUtility\bin\Debug\LoggerUtility.pdb
+F:\Work\HW\Version3\CommonUtility\bin\Debug\Newtonsoft.Json.xml
+F:\Work\HW\Version3\CommonUtility\bin\Debug\Serilog.pdb
+F:\Work\HW\Version3\CommonUtility\bin\Debug\Serilog.xml
+F:\Work\HW\Version3\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\Work\HW\Version3\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.xml
+F:\Work\HW\Version3\CommonUtility\bin\Debug\Serilog.Sinks.File.xml
+F:\Work\HW\Version3\CommonUtility\bin\Debug\Microsoft.Extensions.Primitives.xml
+F:\Work\HW\Version3\CommonUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Work\HW\Version3\CommonUtility\obj\Debug\CommonUtility.csprojAssemblyReference.cache
+F:\Work\HW\Version3\CommonUtility\obj\Debug\CommonUtility.csproj.CoreCompileInputs.cache
+F:\Work\HW\Version3\CommonUtility\obj\Debug\CommonUtility.csproj.CopyComplete
+F:\Work\HW\Version3\CommonUtility\obj\Debug\CommonUtility.dll
+F:\Work\HW\Version3\CommonUtility\obj\Debug\CommonUtility.pdb
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\CommonUtility\bin\Debug\CommonUtility.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\CommonUtility\bin\Debug\CommonUtility.pdb
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\CommonUtility\bin\Debug\LoggerUtility.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\CommonUtility\bin\Debug\Newtonsoft.Json.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\CommonUtility\bin\Debug\Serilog.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\CommonUtility\bin\Debug\Serilog.Sinks.File.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\CommonUtility\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\CommonUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\CommonUtility\bin\Debug\LoggerUtility.pdb
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\CommonUtility\bin\Debug\Newtonsoft.Json.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\CommonUtility\bin\Debug\Serilog.pdb
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\CommonUtility\bin\Debug\Serilog.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\CommonUtility\bin\Debug\Serilog.Sinks.File.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\CommonUtility\bin\Debug\Microsoft.Extensions.Primitives.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\CommonUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\CommonUtility\obj\Debug\CommonUtility.csprojAssemblyReference.cache
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\CommonUtility\obj\Debug\CommonUtility.csproj.CoreCompileInputs.cache
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\CommonUtility\obj\Debug\CommonUtility.csproj.CopyComplete
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\CommonUtility\obj\Debug\CommonUtility.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\CommonUtility\obj\Debug\CommonUtility.pdb
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\CommonUtility\bin\Debug\CommonUtility.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\CommonUtility\bin\Debug\CommonUtility.pdb
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\CommonUtility\bin\Debug\LoggerUtility.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\CommonUtility\bin\Debug\Newtonsoft.Json.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\CommonUtility\bin\Debug\Serilog.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\CommonUtility\bin\Debug\Serilog.Sinks.File.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\CommonUtility\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\CommonUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\CommonUtility\bin\Debug\LoggerUtility.pdb
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\CommonUtility\bin\Debug\Newtonsoft.Json.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\CommonUtility\bin\Debug\Serilog.pdb
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\CommonUtility\bin\Debug\Serilog.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\CommonUtility\bin\Debug\Serilog.Sinks.File.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\CommonUtility\bin\Debug\Microsoft.Extensions.Primitives.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\CommonUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\CommonUtility\obj\Debug\CommonUtility.csprojAssemblyReference.cache
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\CommonUtility\obj\Debug\CommonUtility.csproj.CoreCompileInputs.cache
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\CommonUtility\obj\Debug\CommonUtility.csproj.CopyComplete
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\CommonUtility\obj\Debug\CommonUtility.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\CommonUtility\obj\Debug\CommonUtility.pdb

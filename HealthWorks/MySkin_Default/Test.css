@@ -1,0 +1,89 @@
+﻿.RadComboBox {
+    text-align: left;
+    display: inline-block;
+    vertical-align: middle;
+    white-space: nowrap;
+    line-height: 25px;
+    height: 25px !important;
+    width:180px;
+    border-radius: 2px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ced4da;
+    background: none;
+    background-color: transparent;
+    background-image: url(" ./ComboBox/chevron-down.svg");
+    background-position:right 5px center;
+    background-repeat: no-repeat;
+    background-size: 16px;
+    font-size:13px !important;
+    font-style:normal !important;
+    border-radius: .25rem !important;
+}
+
+/*RadComboBox .rcbHovered .rcbReadOnly .rcbInputCellLeft {
+    
+}*/
+
+    .RadComboBox table {
+        width: 100%;
+        border-width: 0;
+        border-style: solid;
+        border-collapse: collapse;
+        vertical-align: top;
+        font-size:13px !important;
+    }
+
+    .RadComboBox select {
+        margin-bottom: 0;
+        padding: 0;
+        height: 22px;
+    }
+
+.RadComboBoxDropDown {
+    background-color: #FFF !important;
+    font-size:12px !important;
+}
+
+.RadComboBox table td.rcbInputCell {
+    padding: 0 4px 0 5px;
+    border-width: 0;
+}
+
+.RadComboBox input,
+.RadComboBox input:focus {
+    box-shadow: inherit;
+    outline: none;
+    -webkit-appearance: none;
+}
+
+
+.RadComboBoxDropDown.rcbAutoWidthResizer .rcbScroll {
+    overflow-x: visible !important;
+    overflow-y: scroll !important;
+}
+
+.RadComboBox .rcbInput {
+    padding: 2px 5px 1px 8px !important;
+}
+
+
+.RadComboBox:hover {
+    border-color: #80bdff;
+    outline: 0;
+    box-shadow: 0 0 0 .2rem rgba(128,189,255,.5);
+}
+
+select:-moz-focusring {
+  color:transparent;
+  text-shadow:0 0 0 #000; /* your normal text color here */
+}
+select:-moz-focusring * {
+  color:#495057; /* your normal text color here */
+  text-shadow:none;
+}
+
+.RadComboBox .rcbEmptyMessage {
+    font-style:normal !important;
+    font-size:14px !important;
+}

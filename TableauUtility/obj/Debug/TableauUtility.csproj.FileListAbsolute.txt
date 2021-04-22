@@ -1,0 +1,168 @@
+E:\SUBBU\Work\FrameWork4.8\Latest\HealthWorks\TableauUtility\bin\Debug\TableauUtility.dll
+E:\SUBBU\Work\FrameWork4.8\Latest\HealthWorks\TableauUtility\bin\Debug\TableauUtility.pdb
+E:\SUBBU\Work\FrameWork4.8\Latest\HealthWorks\TableauUtility\obj\Debug\TableauUtility.csprojAssemblyReference.cache
+E:\SUBBU\Work\FrameWork4.8\Latest\HealthWorks\TableauUtility\obj\Debug\TableauUtility.csproj.CoreCompileInputs.cache
+E:\SUBBU\Work\FrameWork4.8\Latest\HealthWorks\TableauUtility\obj\Debug\TableauUtility.dll
+E:\SUBBU\Work\FrameWork4.8\Latest\HealthWorks\TableauUtility\obj\Debug\TableauUtility.pdb
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\TableauUtility\bin\Debug\TableauUtility.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\TableauUtility\bin\Debug\TableauUtility.pdb
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\TableauUtility\obj\Debug\TableauUtility.csprojAssemblyReference.cache
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\TableauUtility\obj\Debug\TableauUtility.csproj.CoreCompileInputs.cache
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\TableauUtility\obj\Debug\TableauUtility.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\HealthWorks\TableauUtility\obj\Debug\TableauUtility.pdb
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\TableauUtility\bin\Debug\TableauUtility.dll
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\TableauUtility\bin\Debug\TableauUtility.pdb
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\TableauUtility\obj\Debug\TableauUtility.csprojAssemblyReference.cache
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\TableauUtility\obj\Debug\TableauUtility.csproj.CoreCompileInputs.cache
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\TableauUtility\obj\Debug\TableauUtility.dll
+E:\SUBBU\Work\HealthWorks Latest Portals\Generic Solution HW\HealthWorks\TableauUtility\obj\Debug\TableauUtility.pdb
+F:\menaga\Work\Portal_WIP\Generic Solution\Subbu Generic Solution\HealthWorks\TableauUtility\bin\Debug\TableauUtility.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\Subbu Generic Solution\HealthWorks\TableauUtility\bin\Debug\TableauUtility.pdb
+F:\menaga\Work\Portal_WIP\Generic Solution\Subbu Generic Solution\HealthWorks\TableauUtility\obj\Debug\TableauUtility.csproj.CoreCompileInputs.cache
+F:\menaga\Work\Portal_WIP\Generic Solution\Subbu Generic Solution\HealthWorks\TableauUtility\obj\Debug\TableauUtility.dll
+F:\menaga\Work\Portal_WIP\Generic Solution\Subbu Generic Solution\HealthWorks\TableauUtility\obj\Debug\TableauUtility.pdb
+F:\menaga\Work\Portal_WIP\Generic Solution\Subbu Generic Solution\HealthWorks\TableauUtility\obj\Debug\TableauUtility.csprojAssemblyReference.cache
+D:\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\TableauUtility\bin\Debug\TableauUtility.dll
+D:\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\TableauUtility\bin\Debug\TableauUtility.pdb
+D:\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\TableauUtility\obj\Debug\TableauUtility.csprojAssemblyReference.cache
+D:\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\TableauUtility\obj\Debug\TableauUtility.csproj.CoreCompileInputs.cache
+D:\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\TableauUtility\obj\Debug\TableauUtility.dll
+D:\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\TableauUtility\obj\Debug\TableauUtility.pdb
+D:\work\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\TableauUtility\bin\Debug\TableauUtility.dll
+D:\work\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\TableauUtility\bin\Debug\TableauUtility.pdb
+D:\work\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\TableauUtility\obj\Debug\TableauUtility.csproj.CoreCompileInputs.cache
+D:\work\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\TableauUtility\obj\Debug\TableauUtility.dll
+D:\work\Menaga Full BackUP\menaga\Work\Single Solution For all\HealthWorks\TableauUtility\obj\Debug\TableauUtility.pdb
+D:\Build Check\HealthWorks\TableauUtility\bin\Debug\TableauUtility.dll
+D:\Build Check\HealthWorks\TableauUtility\bin\Debug\TableauUtility.pdb
+D:\Build Check\HealthWorks\TableauUtility\obj\Debug\TableauUtility.csproj.CoreCompileInputs.cache
+D:\Build Check\HealthWorks\TableauUtility\obj\Debug\TableauUtility.dll
+D:\Build Check\HealthWorks\TableauUtility\obj\Debug\TableauUtility.pdb
+D:\Build Check\HealthWorks\TableauUtility\obj\Debug\TableauUtility.csprojAssemblyReference.cache
+D:\Build Check\Quick Access Changes\HealthWorks\TableauUtility\bin\Debug\TableauUtility.dll
+D:\Build Check\Quick Access Changes\HealthWorks\TableauUtility\bin\Debug\TableauUtility.pdb
+D:\Build Check\Quick Access Changes\HealthWorks\TableauUtility\obj\Debug\TableauUtility.csproj.CoreCompileInputs.cache
+D:\Build Check\Quick Access Changes\HealthWorks\TableauUtility\obj\Debug\TableauUtility.dll
+D:\Build Check\Quick Access Changes\HealthWorks\TableauUtility\obj\Debug\TableauUtility.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\TableauUtility\bin\Debug\TableauUtility.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\TableauUtility\bin\Debug\TableauUtility.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\TableauUtility\obj\Debug\TableauUtility.csprojAssemblyReference.cache
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\TableauUtility\obj\Debug\TableauUtility.csproj.CoreCompileInputs.cache
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\TableauUtility\obj\Debug\TableauUtility.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\HW OOPC 2020\Quick Access Changes\HealthWorks\TableauUtility\obj\Debug\TableauUtility.pdb
+F:\HealthWorksProduction\HealthWorks\HealthWorks\TableauUtility\bin\Debug\TableauUtility.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\TableauUtility\bin\Debug\TableauUtility.pdb
+F:\HealthWorksProduction\HealthWorks\HealthWorks\TableauUtility\obj\Debug\TableauUtility.csproj.CoreCompileInputs.cache
+F:\HealthWorksProduction\HealthWorks\HealthWorks\TableauUtility\obj\Debug\TableauUtility.dll
+F:\HealthWorksProduction\HealthWorks\HealthWorks\TableauUtility\obj\Debug\TableauUtility.pdb
+F:\HealthWorksProduction\HealthWorks\HealthWorks\TableauUtility\obj\Debug\TableauUtility.csprojAssemblyReference.cache
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\TableauUtility\bin\Debug\TableauUtility.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\TableauUtility\bin\Debug\TableauUtility.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\TableauUtility\obj\Debug\TableauUtility.csprojAssemblyReference.cache
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\TableauUtility\obj\Debug\TableauUtility.csproj.CoreCompileInputs.cache
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\TableauUtility\obj\Debug\TableauUtility.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version 2\by Subrat\HealthWorks\TableauUtility\obj\Debug\TableauUtility.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\TableauUtility\bin\Debug\TableauUtility.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\TableauUtility\bin\Debug\TableauUtility.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\TableauUtility\bin\Debug\CommonUtility.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\TableauUtility\bin\Debug\LoggerUtility.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\TableauUtility\bin\Debug\Newtonsoft.Json.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\TableauUtility\bin\Debug\Serilog.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\TableauUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\TableauUtility\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\TableauUtility\bin\Debug\Serilog.Sinks.File.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\TableauUtility\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\TableauUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\TableauUtility\bin\Debug\CommonUtility.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\TableauUtility\bin\Debug\LoggerUtility.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\TableauUtility\bin\Debug\Newtonsoft.Json.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\TableauUtility\bin\Debug\Serilog.pdb
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\TableauUtility\bin\Debug\Serilog.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\TableauUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\TableauUtility\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\TableauUtility\bin\Debug\Serilog.Sinks.File.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\TableauUtility\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\TableauUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\TableauUtility\obj\Debug\TableauUtility.csprojAssemblyReference.cache
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\TableauUtility\obj\Debug\TableauUtility.csproj.CoreCompileInputs.cache
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\TableauUtility\obj\Debug\TableauUtility.csproj.CopyComplete
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\TableauUtility\obj\Debug\TableauUtility.dll
+D:\SUBBU\Work\HealthWorks Generic Solution\Version3\TableauUtility\obj\Debug\TableauUtility.pdb
+F:\Work\HW\Version3\TableauUtility\bin\Debug\TableauUtility.dll
+F:\Work\HW\Version3\TableauUtility\bin\Debug\TableauUtility.pdb
+F:\Work\HW\Version3\TableauUtility\bin\Debug\CommonUtility.dll
+F:\Work\HW\Version3\TableauUtility\bin\Debug\LoggerUtility.dll
+F:\Work\HW\Version3\TableauUtility\bin\Debug\Newtonsoft.Json.dll
+F:\Work\HW\Version3\TableauUtility\bin\Debug\Serilog.dll
+F:\Work\HW\Version3\TableauUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Work\HW\Version3\TableauUtility\bin\Debug\Microsoft.Extensions.Configuration.dll
+F:\Work\HW\Version3\TableauUtility\bin\Debug\Serilog.Sinks.File.dll
+F:\Work\HW\Version3\TableauUtility\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\Work\HW\Version3\TableauUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Work\HW\Version3\TableauUtility\bin\Debug\CommonUtility.pdb
+F:\Work\HW\Version3\TableauUtility\bin\Debug\LoggerUtility.pdb
+F:\Work\HW\Version3\TableauUtility\bin\Debug\Newtonsoft.Json.xml
+F:\Work\HW\Version3\TableauUtility\bin\Debug\Serilog.pdb
+F:\Work\HW\Version3\TableauUtility\bin\Debug\Serilog.xml
+F:\Work\HW\Version3\TableauUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\Work\HW\Version3\TableauUtility\bin\Debug\Microsoft.Extensions.Configuration.xml
+F:\Work\HW\Version3\TableauUtility\bin\Debug\Serilog.Sinks.File.xml
+F:\Work\HW\Version3\TableauUtility\bin\Debug\Microsoft.Extensions.Primitives.xml
+F:\Work\HW\Version3\TableauUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Work\HW\Version3\TableauUtility\obj\Debug\TableauUtility.csprojAssemblyReference.cache
+F:\Work\HW\Version3\TableauUtility\obj\Debug\TableauUtility.csproj.CoreCompileInputs.cache
+F:\Work\HW\Version3\TableauUtility\obj\Debug\TableauUtility.csproj.CopyComplete
+F:\Work\HW\Version3\TableauUtility\obj\Debug\TableauUtility.dll
+F:\Work\HW\Version3\TableauUtility\obj\Debug\TableauUtility.pdb
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\TableauUtility\bin\Debug\TableauUtility.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\TableauUtility\bin\Debug\TableauUtility.pdb
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\TableauUtility\bin\Debug\CommonUtility.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\TableauUtility\bin\Debug\LoggerUtility.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\TableauUtility\bin\Debug\Newtonsoft.Json.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\TableauUtility\bin\Debug\Serilog.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\TableauUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\TableauUtility\bin\Debug\Microsoft.Extensions.Configuration.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\TableauUtility\bin\Debug\Serilog.Sinks.File.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\TableauUtility\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\TableauUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\TableauUtility\bin\Debug\CommonUtility.pdb
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\TableauUtility\bin\Debug\LoggerUtility.pdb
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\TableauUtility\bin\Debug\Newtonsoft.Json.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\TableauUtility\bin\Debug\Serilog.pdb
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\TableauUtility\bin\Debug\Serilog.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\TableauUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\TableauUtility\bin\Debug\Microsoft.Extensions.Configuration.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\TableauUtility\bin\Debug\Serilog.Sinks.File.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\TableauUtility\bin\Debug\Microsoft.Extensions.Primitives.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\TableauUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\TableauUtility\obj\Debug\TableauUtility.csprojAssemblyReference.cache
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\TableauUtility\obj\Debug\TableauUtility.csproj.CoreCompileInputs.cache
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\TableauUtility\obj\Debug\TableauUtility.csproj.CopyComplete
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\TableauUtility\obj\Debug\TableauUtility.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version3\TableauUtility\obj\Debug\TableauUtility.pdb
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\TableauUtility\bin\Debug\TableauUtility.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\TableauUtility\bin\Debug\TableauUtility.pdb
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\TableauUtility\bin\Debug\CommonUtility.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\TableauUtility\bin\Debug\LoggerUtility.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\TableauUtility\bin\Debug\Newtonsoft.Json.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\TableauUtility\bin\Debug\Serilog.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\TableauUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\TableauUtility\bin\Debug\Microsoft.Extensions.Configuration.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\TableauUtility\bin\Debug\Serilog.Sinks.File.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\TableauUtility\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\TableauUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\TableauUtility\bin\Debug\CommonUtility.pdb
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\TableauUtility\bin\Debug\LoggerUtility.pdb
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\TableauUtility\bin\Debug\Newtonsoft.Json.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\TableauUtility\bin\Debug\Serilog.pdb
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\TableauUtility\bin\Debug\Serilog.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\TableauUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\TableauUtility\bin\Debug\Microsoft.Extensions.Configuration.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\TableauUtility\bin\Debug\Serilog.Sinks.File.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\TableauUtility\bin\Debug\Microsoft.Extensions.Primitives.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\TableauUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\TableauUtility\obj\Debug\TableauUtility.csprojAssemblyReference.cache
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\TableauUtility\obj\Debug\TableauUtility.csproj.CoreCompileInputs.cache
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\TableauUtility\obj\Debug\TableauUtility.csproj.CopyComplete
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\TableauUtility\obj\Debug\TableauUtility.dll
+F:\OneDrive\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\Version4\TableauUtility\obj\Debug\TableauUtility.pdb

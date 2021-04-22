@@ -1,0 +1,20 @@
+2019-07-13 19:44:05.973 +05:30 [ERR] Attempted to divide by zero.
+2019-07-13 19:46:32.225 +05:30 [ERR] Thread was being aborted.
+2019-07-13 19:50:13.300 +05:30 [ERR] Thread was being aborted.
+2019-07-13 20:13:04.531 +05:30 [ERR] Thread was being aborted.
+2019-07-13 20:14:10.157 +05:30 [ERR] Thread was being aborted.
+2019-07-15 16:03:53.995 +05:30 [ERR] Attempted to divide by zero.
+2019-07-15 16:08:34.031 +05:30 [ERR] Attempted to divide by zero.
+2019-07-15 16:09:27.095 +05:30 [ERR] Attempted to divide by zero.
+2019-07-15 16:12:51.564 +05:30 [ERR] Attempted to divide by zero.
+2019-07-15 16:48:07.461 +05:30 [ERR] Attempted to divide by zero.
+2019-07-15 16:51:03.545 +05:30 [ERR] Attempted to divide by zero.
+2019-07-15 16:55:02.980 +05:30 [ERR] Attempted to divide by zero.
+2019-07-15 16:58:44.490 +05:30 [ERR] Attempted to divide by zero.
+2019-07-15 16:59:16.130 +05:30 [ERR] Attempted to divide by zero.
+2019-07-15 16:59:52.899 +05:30 [ERR] Attempted to divide by zero.
+2019-07-22 11:24:20.253 +05:30 [ERR] Attempted to divide by zero.
+2019-07-22 11:27:07.084 +05:30 [ERR] Attempted to divide by zero.
+2019-07-23 12:30:50.795 +05:30 [ERR] Thread was being aborted.
+2019-07-23 12:32:53.806 +05:30 [ERR] Thread was being aborted.
+2019-07-23 12:33:29.599 +05:30 [ERR] Thread was being aborted.

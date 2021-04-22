@@ -1,0 +1,55 @@
+﻿/* SUBBU Added*/
+table a {
+    color: #F26B26;
+    padding-left: 5px;
+}
+
+table tr td {
+    font-size: 12px !important;
+    text-align: left !important;
+}
+
+.table tr:first-child th {
+    font-size: 14px !important;
+}
+
+.table tr td span {
+    display: block;
+}
+
+.not-active {
+    pointer-events: none;
+    cursor: not-allowed !important;
+    text-decoration: none;
+    color: gray;
+    opacity: 0.2;
+}
+
+.sub-nav .not-active {
+    cursor: not-allowed !important;
+    opacity:0.8;
+}
+
+.tab-nav .sub-nav .nav-link:hover,
+.tab-nav .sub-nav .nav-link:active,
+.tab-nav .sub-nav .nav-link:focus {
+  background-color: #fff;
+  color: #F26B26;
+}
+
+.link-wrapper a:hover,
+.link-wrapper a:active,
+.link-wrapper a:focus,
+.bottom-controls .control-link:hover,
+.bottom-controls .control-link:active,
+.bottom-controls .control-link:focus {
+  color: #d8520d !important;
+}
+
+.not-active {
+  cursor: not-allowed;
+}
+
+
+
+/* End */

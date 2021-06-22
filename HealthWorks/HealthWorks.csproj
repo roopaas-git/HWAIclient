@@ -284,6 +284,7 @@
     <Content Include="Pages\ManageSimulatedOutput.aspx" />
     <Content Include="Pages\ManageUser.aspx" />
     <Content Include="Pages\MPFSimulator.aspx" />
+    <Content Include="Pages\PdfView.aspx" />
     <Content Include="Pages\PlanFinder.aspx" />
     <Content Include="Pages\PostAEPFindingsReport.aspx" />
     <Content Include="Pages\Profile.aspx" />
@@ -438,6 +439,13 @@
     </Compile>
     <Compile Include="Pages\MPFSimulator.aspx.designer.cs">
       <DependentUpon>MPFSimulator.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\PdfView.aspx.cs">
+      <DependentUpon>PdfView.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\PdfView.aspx.designer.cs">
+      <DependentUpon>PdfView.aspx</DependentUpon>
     </Compile>
     <Compile Include="Pages\PlanFinder.aspx.cs">
       <DependentUpon>PlanFinder.aspx</DependentUpon>

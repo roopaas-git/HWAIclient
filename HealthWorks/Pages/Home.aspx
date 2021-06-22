@@ -95,8 +95,7 @@
                                 <asp:LinkButton ID="ProductIntelC2L3" runat="server" CommandName="ScenarioList.aspx" CommandArgument="OOPCSimulator" OnClick="lbExternal_Click" CssClass="hw-dashboard-link" Text="OOPC Simulator"></asp:LinkButton>
                                 <asp:LinkButton ID="MarketIntelC1L4" runat="server" CommandArgument="MPFSimulator" CommandName="MPFSimulator.aspx" OnClick="lbExternal_Click" CssClass="hw-dashboard-link" Text="MPF Simulator" ClientIDMode="Static" />
                                 <asp:LinkButton ID="MarketingIntelC1L5" runat="server" CommandArgument="MMMSimulator" OnClick="Dashboard_Click" CssClass="hw-dashboard-link" Text="" ClientIDMode="Static">MMM Simulator <span class="badge badge-pill badge-warning platinumicon"> DEMO</span></asp:LinkButton>
-                               <%-- <asp:LinkButton ID="ProductIntelC2L5" runat="server" CommandName="ManageScenarioList.aspx" CommandArgument="BenefitSimulatorScenarioList" OnClick="lbExternal_Click" CssClass="hw-dashboard-link " Text="">Benefit Simulator <span class="badge badge-pill badge-warning platinumicon"> NEW</span></asp:LinkButton>--%>
-
+                                <%-- <asp:LinkButton ID="ProductIntelC2L5" runat="server" CommandName="ManageScenarioList.aspx" CommandArgument="BenefitSimulatorScenarioList" OnClick="lbExternal_Click" CssClass="hw-dashboard-link " Text="">Benefit Simulator <span class="badge badge-pill badge-warning platinumicon"> NEW</span></asp:LinkButton>--%>
                             </div>
                         </div>
                     </div>
@@ -112,13 +111,15 @@
                         </div>
                         <div class="card-body">
                             <div class="hw-dashboard-links-wrapper">
+                                <asp:LinkButton ID="UnlimitedIntelC1L8" runat="server" CommandArgument="MaximizeMarketingROIPdf" OnClick="WhitepaperPDf_Click" CssClass="hw-dashboard-link" Text="Maximize Marketing ROI using Marketing Mix Modeling" ClientIDMode="Static">Maximize Marketing ROI using Marketing Mix Modeling <span class="badge badge-pill badge-warning platinumicon">NEW</span></asp:LinkButton>
+
                                 <asp:LinkButton ID="UnlimitedIntelC1L5" runat="server" CommandArgument="WhitePaper3" CommandName="10100px" OnClick="Whitepaper_Click" CssClass="hw-dashboard-link" ClientIDMode="Static">Cost Structure Breakdown of Trending Benefits <span class="badge badge-pill badge-warning platinumicon">NEW</span></asp:LinkButton>
                                 <asp:LinkButton ID="UnlimitedIntelC1L7" runat="server" CommandArgument="WhitePaper2_2021" CommandName="7800px" OnClick="Whitepaper_Click" CssClass="hw-dashboard-link" ClientIDMode="Static">Supplemental, Enhanced and SSBCI Benefit Trends (2021) <span class="badge badge-pill badge-warning platinumicon">NEW</span></asp:LinkButton>
                                 <asp:LinkButton ID="UnlimitedIntelC1L6" runat="server" CommandArgument="2021PostAEPFindingsReport" CommandName="PostAEPFindingsReport.aspx" OnClick="lbExternal_Click" CssClass="hw-dashboard-link" ClientIDMode="Static">2021 Post AEP Findings Report <span class="badge badge-pill badge-warning platinumicon">NEW</span></asp:LinkButton>
                                 <asp:LinkButton ID="UnlimitedIntelC1L1" runat="server" CommandName="https://www.healthworksai.com/2021-aep-findings-report/" CommandArgument="2021AEPFindingsReport" OnClientClick="PostToNewWindow();" OnClick="lbSocio_Click" CssClass="hw-dashboard-link" Text="2021 AEP Findings Report" />
                                 <asp:LinkButton ID="UnlimitedIntelC1L2" runat="server" CommandArgument="WhitePaper2_2020" CommandName="7800px" OnClick="Whitepaper_Click" CssClass="hw-dashboard-link" Text="Supplemental, Enhanced and SSBCI Benefit Trends" ClientIDMode="Static">Supplemental, Enhanced and SSBCI Benefit Trends (2020)</asp:LinkButton>
                                 <asp:LinkButton ID="UnlimitedIntelC1L3" runat="server" CommandArgument="WhitePaper1" CommandName="6200px" OnClick="Whitepaper_Click" CssClass="hw-dashboard-link" Text="Emergence of $0 Premium Plans" ClientIDMode="Static">Emergence of $0 Premium Plans</asp:LinkButton>
-                                <asp:LinkButton ID="UnlimitedIntelC1L4" runat="server" CommandArgument="TruePlanValue(TPV)Methodology" CommandName="TPVWhitepaper.aspx" OnClick="lbExternal_Click" CssClass="hw-dashboard-link" Text="True Plan Value (TPV) Methodology" ClientIDMode="Static">True Plan Value (TPV) Methodology</asp:LinkButton>
+                                <asp:LinkButton ID="UnlimitedIntelC1L4" runat="server" CommandArgument="TPVPdf" OnClick="WhitepaperPDf_Click" CssClass="hw-dashboard-link" Text="True Plan Value (TPV) Methodology" ClientIDMode="Static">True Plan Value (TPV) Methodology</asp:LinkButton>
                             </div>
                         </div>
                     </div>
@@ -179,7 +180,7 @@
                         <div class="card-body">
                             <div class="hw-dashboard-links-wrapper">
                                 <asp:LinkButton ID="UnlimitedIntelC3L1" runat="server" CommandName="BenefitCompetitiveGrid" CommandArgument="Benefit Competitive Grid" OnClick="lbDownload_Click" CssClass="hw-dashboard-link">Benefit Competitive Grid <span class="badge badge-pill badge-warning platinumicon">NEW</span></asp:LinkButton>
-                                <asp:LinkButton ID="UnlimitedIntelC3L2" runat="server" CommandName="3100px" CommandArgument="PlanComparisonDownload2021" OnClick="Dashboard_Click" CssClass="hw-dashboard-link" >2021 Plan Comparision (Download)<span class="badge badge-pill badge-warning platinumicon">NEW</span></asp:LinkButton>
+                                <asp:LinkButton ID="UnlimitedIntelC3L2" runat="server" CommandName="3100px" CommandArgument="PlanComparisonDownload2021" OnClick="Dashboard_Click" CssClass="hw-dashboard-link">2021 Plan Comparision (Download)<span class="badge badge-pill badge-warning platinumicon">NEW</span></asp:LinkButton>
                                 <asp:LinkButton ID="UnlimitedIntelC3L6" runat="server" CommandName="3100px" CommandArgument="PlanComparisonDownload2020" OnClick="Dashboard_Click" CssClass="hw-dashboard-link" Text="2020 Plan Comparision (Download)" />
                                 <asp:LinkButton ID="UnlimitedIntelC3L3" runat="server" CommandName="CompetitorCSV" CommandArgument="CompetitorAnalysisCube" OnClientClick="PostToNewWindow();" OnClick="lbDataCube_Click" CssClass="hw-dashboard-link" Text="Competitor Analysis" />
                                 <asp:LinkButton ID="UnlimitedIntelC3L4" runat="server" CommandName="PopulationHealth" CommandArgument="PopulationHealthCube" OnClientClick="PostToNewWindow();" OnClick="lbDataCube_Click" CssClass="hw-dashboard-link" Text="Population Health" />

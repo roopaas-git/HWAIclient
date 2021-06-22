@@ -195,6 +195,15 @@ namespace HealthWorks.Pages
         protected global::System.Web.UI.HtmlControls.HtmlGenericControl divProviderIntelligence;
 
         /// <summary>
+        /// UnlimitedIntelC1L8 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.LinkButton UnlimitedIntelC1L8;
+
+        /// <summary>
         /// UnlimitedIntelC1L5 control.
         /// </summary>
         /// <remarks>

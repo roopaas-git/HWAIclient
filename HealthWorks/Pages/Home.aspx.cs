@@ -149,5 +149,16 @@ namespace HealthWorks.Pages
             Response.Redirect(redirectToCube);
         }
 
+        protected void WhitepaperPDf_Click(object sender, EventArgs e)
+        {
+            LinkButton lbExternal = sender as LinkButton;
+            PT.InsertDataIntoDB(lbExternal.CommandArgument, Session["SessionId"].ToString(), Session["UserName"].ToString(), lbExternal.CommandName);
+            Session["PDFURL"] = null;
+            Session["PDFURL"] = lbExternal.CommandArgument;
+            Session["ActiveLink"] = null;
+            Session["ActiveLink"] = lbExternal.ID.ToString() + "Li";
+            Response.Redirect("~/Pages/PdfView.aspx");
+        }
+
     }
 }

@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" />
     <link href="../dist/css/main.css" rel="stylesheet" />
     <link href="../dist/CSS/Help.css" rel="stylesheet" type="text/css" />
-    <link href="../dist/css/TEG_Custom_Styles.css" rel="stylesheet" 
+    <link href="../dist/css/TEG_Custom_Styles.css" rel="stylesheet" />
     <link href="../dist/css/style1.css" rel="stylesheet" />
     <link href="../dist/css/teg1.css" rel="stylesheet" />
     <link href="../dist/css/Simstyle.css" rel="stylesheet" />
@@ -98,16 +98,16 @@
     </asp:ContentPlaceHolder>
 </head>
 <body cz-shortcut-listen="true" class="sidebar-fixed topnav-fixed dashboard">
-     <script language="javascript" type="text/javascript">
-         var sessionTimeout = "<%= Session.Timeout %>";
-         setTimeout('RedirectToWelcomePage()', parseInt(sessionTimeout) * 60 * 1000);
+    <script language="javascript" type="text/javascript">
+        var sessionTimeout = "<%= Session.Timeout %>";
+        setTimeout('RedirectToWelcomePage()', parseInt(sessionTimeout) * 60 * 1000);
 
-         function RedirectToWelcomePage() {
-             var test = document.getElementById('<%= this.Hdn_username.ClientID %>').value;
+        function RedirectToWelcomePage() {
+            var test = document.getElementById('<%= this.Hdn_username.ClientID %>').value;
             HealthWorks.Pages.LogoutWebService.UpdateStatus(test);
             window.location = "../Default.aspx";
         }
-     </script>
+    </script>
     <script type="text/javascript">
         /**
         * This javascript file checks for the brower/browser tab action.
@@ -370,13 +370,13 @@
                                     <i class="toggle-icon fa fa-angle-right" id="SimAngle" runat="server"></i></a>
 
                                 <ul class="sub-menu" runat="server" id="SimulatorUL">
-                                    <li runat="server" id="ProductIntelC2L3li" >
+                                    <li runat="server" id="ProductIntelC2L3li">
                                         <asp:LinkButton ID="ProductIntelC2L3" runat="server" CommandName="ScenarioList.aspx" CommandArgument="OOPCSimulator" OnClick="lbExternal_Click" CssClass="hw-dashboard-link" Text="OOPC Simulator">
                                              <span class="text">OOPC Simulator</span>
                                         </asp:LinkButton>
 
                                     </li>
-                                    <li id="MarketIntelC1L4Li" runat="server" >
+                                    <li id="MarketIntelC1L4Li" runat="server">
                                         <asp:LinkButton ID="MarketIntelC1L4" runat="server" CommandName="MPFSimulator.aspx" CommandArgument="MPFSimulator" OnClick="lbExternal_Click">
                                         <span class="text">MPF Simulator</span>
                                         </asp:LinkButton>
@@ -387,7 +387,7 @@
                                         <span class="text">MMM Simulator <span class="badge badge-pill badge-warning platinumicon">NEW</span></span>
                                         </asp:LinkButton>
                                     </li>
-                                   <%-- <li runat="server" id="ProductIntelC2L5Li">
+                                    <%-- <li runat="server" id="ProductIntelC2L5Li">
                                         <asp:LinkButton ID="ProductIntelC2L5" runat="server" CommandName="ManageScenarioList.aspx" CommandArgument="BenefitSimulatorScenarioList" OnClick="lbExternal_Click" CssClass="hw-dashboard-link" Text="Benefit Simulator">
                                              <span class="text">Benefit Simulator <span class="badge badge-pill badge-warning platinumicon">NEW</span></span>
                                         </asp:LinkButton>
@@ -399,23 +399,29 @@
                                 <a href="#" class="js-sub-menu-toggle" id="id_ProviderIntelligence1" runat="server"><i class="fa fa-clinic-medical"></i><span class="text">HealthWorksAI Insights</span>
                                     <i class="toggle-icon fa fa-angle-right"></i></a>
                                 <ul class="sub-menu" runat="server" id="ProviderUl">
-                                     	<li id="UnlimitedIntelC1L5Li" runat="server">
+                                    <li id="UnlimitedIntelC1L8Li" runat="server">
+                                        <asp:LinkButton ID="UnlimitedIntelC1L8" runat="server" CommandArgument="MaximizeMarketingROIPdf" OnClick="WhitepaperPDf_Click">
+                                            <span class="text">Maximize Marketing ROI using Marketing Mix Modeling <span class="badge badge-pill badge-warning platinumicon">NEW</span>                                             
+                                            </span>
+                                        </asp:LinkButton>
+                                    </li>
+                                    <li id="UnlimitedIntelC1L5Li" runat="server">
                                         <asp:LinkButton ID="UnlimitedIntelC1L5" runat="server" CommandName="10100px" CommandArgument="Whitepaper3" OnClick="Whitepaper_Click">
                                             <span class="text">Cost Structure Breakdown of Trending Benefits <span class="badge badge-pill badge-warning platinumicon">NEW</span>                                           
                                             </span>
                                         </asp:LinkButton>
                                     </li>
-								 <li id="UnlimitedIntelC1L7Li" runat="server">
+                                    <li id="UnlimitedIntelC1L7Li" runat="server">
                                         <asp:LinkButton ID="UnlimitedIntelC1L7" runat="server" CommandArgument="Whitepaper2_2021" CommandName="7800px" OnClick="Whitepaper_Click">
                                             <span class="text">Supplemental, Enhanced and SSBCI Benefit Trends (2021) <span class="badge badge-pill badge-warning platinumicon">NEW</span></span> 
                                         </asp:LinkButton>
                                     </li>
-								
-								 <li id="UnlimitedIntelC1L6Li" runat="server">
+
+                                    <li id="UnlimitedIntelC1L6Li" runat="server">
                                         <asp:LinkButton ID="UnlimitedIntelC1L6" runat="server" CommandName="PostAEPFindingsReport.aspx" CommandArgument="2021PostAEPFindingsReport" OnClick="lbExternal_Click" CssClass="hw-dashboard-link" Text="" ClientIDMode="Static">
                                             <span class="text">2021 Post AEP Findings Report <span class="badge badge-pill badge-warning platinumicon">NEW</span></span></asp:LinkButton>
                                     </li>
-									
+
                                     <li id="UnlimitedIntelC1L1Li" runat="server">
                                         <asp:LinkButton ID="UnlimitedIntelC1L1" runat="server" CommandName="https://www.healthworksai.com/2021-aep-findings-report/" CommandArgument="2021AEPFindingsReport" OnClientClick="PostToNewWindow();" OnClick="lbSocio_Click">
                                         <span class="text">2021 AEP Findings Report</span>
@@ -433,8 +439,11 @@
                                         </asp:LinkButton>
                                     </li>
                                     <li id="UnlimitedIntelC1L4Li" runat="server">
-                                        <asp:LinkButton ID="UnlimitedIntelC1L4" runat="server" CommandName="TPVWhitepaper.aspx" CommandArgument="TruePlanValue(TPV)Methodology" OnClick="lbExternal_Click" CssClass="hw-dashboard-link" Text="" ClientIDMode="Static">
-                                            <span class="text">True Plan Value (TPV) Methodology </span></asp:LinkButton>
+                                        <asp:LinkButton ID="UnlimitedIntelC1L4" runat="server" CommandArgument="TPVPdf" OnClick="WhitepaperPDf_Click">
+                                            <span class="text">True Plan Value (TPV) Methodology                                            
+                                            </span>
+                                        </asp:LinkButton>
+
                                     </li>
 
                                 </ul>

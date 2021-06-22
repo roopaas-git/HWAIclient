@@ -104,9 +104,9 @@
 
          function RedirectToWelcomePage() {
              var test = document.getElementById('<%= this.Hdn_username.ClientID %>').value;
-            HealthWorks.Pages.LogoutWebService.UpdateStatus(test);
-            window.location = "../Default.aspx";
-        }
+             HealthWorks.Pages.LogoutWebService.UpdateStatus(test);
+             window.location = "../Default.aspx";
+         }
      </script>
     <script type="text/javascript">
         /**
@@ -399,6 +399,12 @@
                                 <a href="#" class="js-sub-menu-toggle" id="id_ProviderIntelligence1" runat="server"><i class="fa fa-clinic-medical"></i><span class="text">HealthWorksAI Insights</span>
                                     <i class="toggle-icon fa fa-angle-right"></i></a>
                                 <ul class="sub-menu" runat="server" id="ProviderUl">
+                                    <li id="UnlimitedIntelC1L8Li" runat="server">
+                                        <asp:LinkButton ID="UnlimitedIntelC1L8" runat="server" CommandArgument="MaximizeMarketingROIPdf"  OnClick="WhitepaperPDf_Click">
+                                            <span class="text">Maximize Marketing ROI using Marketing Mix Modeling <span class="badge badge-pill badge-warning platinumicon">NEW</span>                                             
+                                            </span>
+                                        </asp:LinkButton>
+                                    </li>
                                      	<li id="UnlimitedIntelC1L5Li" runat="server">
                                         <asp:LinkButton ID="UnlimitedIntelC1L5" runat="server" CommandName="10100px" CommandArgument="Whitepaper3" OnClick="Whitepaper_Click">
                                             <span class="text">Cost Structure Breakdown of Trending Benefits <span class="badge badge-pill badge-warning platinumicon">NEW</span>                                           
@@ -432,9 +438,12 @@
                                             </span>
                                         </asp:LinkButton>
                                     </li>
-                                    <li id="UnlimitedIntelC1L4Li" runat="server">
-                                        <asp:LinkButton ID="UnlimitedIntelC1L4" runat="server" CommandName="TPVWhitepaper.aspx" CommandArgument="TruePlanValue(TPV)Methodology" OnClick="lbExternal_Click" CssClass="hw-dashboard-link" Text="" ClientIDMode="Static">
-                                            <span class="text">True Plan Value (TPV) Methodology </span></asp:LinkButton>
+                                   <li id="UnlimitedIntelC1L4Li" runat="server">
+									  <asp:LinkButton ID="UnlimitedIntelC1L4" runat="server" CommandArgument="TPVPdf"  OnClick="WhitepaperPDf_Click">
+                                            <span class="text">True Plan Value (TPV) Methodology                                            
+                                            </span>
+                                        </asp:LinkButton>
+                                        
                                     </li>
 
                                 </ul>

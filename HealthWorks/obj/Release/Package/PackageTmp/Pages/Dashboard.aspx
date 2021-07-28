@@ -26,9 +26,18 @@
             }
         });
     </script>
+    <script>
+        function myFunction(x) {
+
+            var dashboard = '<%= Session["dashboardURL"].ToString() %>';
+            var user = '<%= Session["UserName"].ToString() %>';
+            HealthWorks.Pages.LogoutWebService.SendMailonLikeUnlike(user, dashboard, x);
+            alert('Thank you for your feedback.');
+        }
+    </script>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-    
+
     <asp:UpdatePanel ID="UpdatePanel1" runat="server">
         <ContentTemplate>
             <div class="content">
@@ -40,6 +49,9 @@
                     </div>
                 </div>
             </div>
+            <a id="backtotop" title="Like" onclick="myFunction('1')" style="display: block;"><i class="fa fa-thumbs-up"></i></a>
+            <a id="backtotop1" title="Unlike" onclick="myFunction('0')" style="display: block;"><i class="fa fa-thumbs-down"></i></a>
+
         </ContentTemplate>
     </asp:UpdatePanel>
 </asp:Content>

@@ -56,7 +56,8 @@ namespace HealthWorks.Pages
         public void HideHelpLink()
         {
             LinkButton lbFullScreen = (LinkButton)Master.FindControl("lbFullScreen");
-            lbFullScreen.Visible = false;
+            if (lbFullScreen != null)
+                lbFullScreen.Visible = false;
         }
 
         private void Active_DeactiveLinks()

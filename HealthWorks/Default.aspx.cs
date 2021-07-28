@@ -12,6 +12,7 @@ using System.Net;
 using System.Net.Sockets;
 using System.Xml;
 using System.Data;
+using System.Web.UI;
 
 namespace HealthWorks
 {
@@ -158,7 +159,18 @@ namespace HealthWorks
                 emailServices = new EmailServices();
                 userMethods = new UserMethods();
                 UserProperties userProperties = userMethods.GetDetailsByEmail(txtEmail.Text.Trim());
-                emailServices.SendPasswordDetails(userProperties.UserName, userProperties.FirstName, userProperties.PassWord);
+                if (userProperties.FirstName != null)
+                {
+                    emailServices.SendResetPasswordDetails(userProperties.UserName, userProperties.FirstName, userProperties.UserId.ToString());
+                    userDetails = new UserDetails();
+                    userDetails.ResetPasswordStatus(userProperties.UserId.ToString(), 0);
+                    ScriptManager.RegisterClientScriptBlock(this, this.GetType(), "alertMessage", "alert('The link has been sent, please check your email to reset your password.');", true);
+                    txtEmail.Text = "";
+                }
+                else
+                {
+                    ScriptManager.RegisterClientScriptBlock(this, this.GetType(), "alertMessage", "alert('Please enter valid Email Address');", true);
+                }
             }
             catch (Exception ex)
             {

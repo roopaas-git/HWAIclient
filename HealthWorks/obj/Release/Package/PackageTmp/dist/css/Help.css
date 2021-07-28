@@ -32,13 +32,13 @@
     /*border-top-left-radius: 3px;
     border-bottom-left-radius: 3px;*/
 }
-#backtotop i
-{
-    width: 35px;
-    height: 35px;
-    line-height: 35px;
-    text-align: center;
-}
+    #backtotop i {
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+        text-align: center;
+        cursor: pointer;
+    }
 #backtotop span
 {
     font-size: 12px;
@@ -46,5 +46,44 @@
     letter-spacing: 3px;
 }
     #backtotop:hover {
+        background: #a81a59;
+    }
+
+#backtotop1 {
+    position: fixed;
+    width: 71px;
+    height: 35px;
+    right: -35px;
+    top: 100px;
+    z-index: 1000;
+    background: white;
+    color: #5c276e;
+    border: 1px solid #dddddd;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+    display: none;
+    /*box-shadow: 0 0px 2px 0 ;*/
+    /*border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;*/
+}
+
+    #backtotop1 i {
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+        text-align: center;
+        cursor: pointer;
+    }
+
+    #backtotop1 span {
+        font-size: 12px;
+        text-transform: uppercase;
+        letter-spacing: 3px;
+    }
+
+    #backtotop1:hover {
         background: #a81a59;
     }

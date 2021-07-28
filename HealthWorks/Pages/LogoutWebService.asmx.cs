@@ -1,4 +1,5 @@
-﻿using DataUtility;
+﻿using CommonUtility;
+using DataUtility;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -30,6 +31,13 @@ namespace HealthWorks.Pages
             {
 
             }
+
+        }
+        [WebMethod(EnableSession = true)]
+        public void SendMailonLikeUnlike(string username, string dashboard, string like)
+        {
+            EmailServices emailServices = new EmailServices();
+            emailServices.SendMailonLikeUnlike(username, dashboard, like);
 
         }
     }

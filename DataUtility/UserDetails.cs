@@ -134,7 +134,7 @@ namespace DataUtility
             try
             {
                 this.OpenConnection();
-                sqlCommand = new SqlCommand("Insert into Login_Details values(@UserID,@FirstName,@LastName,@UserName,@PassWord,@Mobile,@IsActive,@UserType,@JobTitle,@Department,null,null,0,null)", sqlConnection);
+                sqlCommand = new SqlCommand("Insert into Login_Details values(@UserID,@FirstName,@LastName,@UserName,@PassWord,@Mobile,@IsActive,@UserType,@JobTitle,@Department,null,null,0,null,null,null)", sqlConnection);
                 sqlCommand.CommandType = CommandType.Text;
                 sqlCommand.Parameters.AddWithValue("@UserID", key);
                 sqlCommand.Parameters.AddWithValue("@FirstName", firstName);
@@ -303,6 +303,46 @@ namespace DataUtility
             }
 
             return firstName;
+        }
+
+        public DataTable Get_UserDetails(string activationCode)
+        {
+            try
+            {
+                this.OpenConnection();
+                sqlCommand = new SqlCommand("select Username,PassWord,[ResetPasswordExpireDate],[IsResetPasswordActive] from Login_Details where UserId=@userID", sqlConnection);
+                sqlCommand.Parameters.AddWithValue("@userID", activationCode);
+                SqlDataAdapter sqlDataAdapter = new SqlDataAdapter(sqlCommand);
+                dataTable = new DataTable();
+                sqlDataAdapter.Fill(dataTable);
+            }
+            catch (Exception ex)
+            {
+                customLogger.Error(ex.Message);
+            }
+            finally
+            {
+                this.CloseConnection();
+            }
+
+            return dataTable;
+        }
+
+        public void ResetPasswordStatus(string userId, int IsResetPasswordActive)
+        {
+            this.OpenConnection();
+            if (IsResetPasswordActive == 0)
+            {
+                sqlCommand = new SqlCommand("update Login_Details set [IsResetPasswordActive]=1,[ResetPasswordExpireDate]=getdate() Where UserId = @UserId", sqlConnection);
+            }
+            else
+            {
+                sqlCommand = new SqlCommand("update Login_Details set [IsResetPasswordActive]=0,[ResetPasswordExpireDate]=null Where UserId = @UserId", sqlConnection);
+            }
+            sqlCommand.Parameters.AddWithValue("@UserId", userId);
+            sqlCommand.ExecuteNonQuery();
+            this.CloseConnection();
+
         }
     }
 }

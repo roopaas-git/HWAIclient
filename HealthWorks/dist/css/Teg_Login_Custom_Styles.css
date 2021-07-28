@@ -725,10 +725,16 @@
     padding-right: 40px;
 }
 
+.hw-carousel .carousel-item-caption-desc-img {
+    margin: 0;
+    font-weight: bolder;
+    font-size: 20px;
+    padding-right: 40px;
+}
+
 .hw-carousel .carousel-item-caption .btn {
     position: absolute;
-    bottom: 40px;
-    left: 40px;
+    left: 30%;
     border-radius: 30px;
     font-size: 13px;
     padding: 5px 15px;

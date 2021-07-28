@@ -42,9 +42,9 @@ namespace HealthWorks.Pages
 
         private void LoadHelpPdf()
         {
-            // Session["FileName"] = Constants.HospitalComparePdf;
-           // LinkButton lbFullScreen = (LinkButton)Master.FindControl("lbFullScreen");
-           // lbFullScreen.Visible = false;
+            LinkButton lbFullScreen = (LinkButton)Master.FindControl("lbFullScreen");
+            if (lbFullScreen != null)
+                lbFullScreen.Visible = false;
         }
 
         private void Active_DeactiveLinks()

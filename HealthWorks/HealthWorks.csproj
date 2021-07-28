@@ -290,6 +290,7 @@
     <Content Include="Pages\Profile.aspx" />
     <Content Include="Pages\QuickAccess.aspx" />
     <Content Include="Pages\Reports.aspx" />
+    <Content Include="Pages\ResetPassword.aspx" />
     <Content Include="Pages\ScenarioList.aspx" />
     <Content Include="Pages\SimulatorResult.aspx" />
     <Content Include="Pages\StatusTicket.aspx" />
@@ -299,6 +300,7 @@
     <Content Include="Pages\UserLogDashboard.aspx" />
     <Content Include="Pages\ViewTicket.aspx" />
     <Content Include="Pages\Whitepaper.aspx" />
+    <Content Include="RequestDemo.aspx" />
     <Content Include="Scripts\jquery-1.7.1.js" />
     <Content Include="Scripts\jquery-1.7.1.min.js" />
     <Content Include="Web.config">
@@ -482,6 +484,13 @@
     <Compile Include="Pages\Reports.aspx.designer.cs">
       <DependentUpon>Reports.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Pages\ResetPassword.aspx.cs">
+      <DependentUpon>ResetPassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\ResetPassword.aspx.designer.cs">
+      <DependentUpon>ResetPassword.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Pages\ScenarioList.aspx.cs">
       <DependentUpon>ScenarioList.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -546,6 +555,13 @@
       <DependentUpon>Whitepaper.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RequestDemo.aspx.cs">
+      <DependentUpon>RequestDemo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RequestDemo.aspx.designer.cs">
+      <DependentUpon>RequestDemo.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Content Include="dist\scss\style.scss" />

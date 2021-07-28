@@ -15,6 +15,80 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
         integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous" />
     <link rel="stylesheet" href="dist/css/Teg_Login_Custom_Styles.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <style>
+        .text-danger {
+            color: #fcf301 !important;
+        }
+    </style>
+    <style>
+        .item {
+            background: #333;
+            text-align: center;
+            height: 200px !important;
+        }
+
+        .control-buttons {
+            text-align: center;
+        }
+
+        .transition-timer-carousel-progress-bar {
+            height: 3px;
+            background-color: #ffffff;
+            width: 0%;
+            max-width: 100%;
+            margin: 0px 0px 0px 0px;
+            border: none;
+            z-index: 11;
+            position: relative;
+        }
+
+        .textspan {
+            font-size: 36px !important;
+        }
+
+        .image {
+            font-size: 12px;
+            text-align: center !important;
+        }
+    </style>
+    <script>
+        $(document).ready(function () {
+            var percent = 0, i = 0, bar = $('.transition-timer-carousel-progress-bar'), crsl = $('#homeCarousel');
+            function progressBarCarousel() {
+                bar.css({ width: percent + '%' });
+                percent = percent + 0.15;
+                if (percent > 97) {
+                    percent = 97;
+                    i = i + 1;
+                    if (i == 10) {
+                        percent = 0;
+                        i = 0;
+                        crsl.carousel('next');
+                    }
+                }
+                //if (percent > 97) {
+                //    percent = 97;
+                //    setTimeout(function () {
+                //        percent = 0;
+                //        crsl.carousel('next');
+                //    }, 500);
+                //}
+            }
+            crsl.carousel({
+                interval: false,
+                pause: true
+            }).on('slid.bs.carousel', function () { }); var barInterval = setInterval(progressBarCarousel, 15);
+            crsl.hover(
+                function () {
+                    clearInterval(barInterval);
+                },
+                function () {
+                    barInterval = setInterval(progressBarCarousel, 15);
+
+                })
+        });
+    </script>
 </head>
 <body>
     <form id="form1" runat="server" class="hw-login-form" style="background-color: #5c276e">
@@ -24,7 +98,6 @@
                     <div class="container-fluid">
                         <div class="hw-header-logo-container">
                             <a class="navbar-brand hw-header-logo primary" href="#">
-
                                 <img src="dist/Images/healthworks_ai-logo-white_login.png" alt="healthworks logo">
                             </a>
                         </div>
@@ -35,19 +108,35 @@
                 <div class="hw-body">
                     <div class="login-page-bg"></div>
                     <div id="homeCarousel" class="hw-carousel carousel slide carousel-fade" data-ride="carousel"
-                        data-interval="6000">
+                        data-interval="4000">
                         <div class="carousel-inner">
+                            <hr class="transition-timer-carousel-progress-bar" />
                             <div class="carousel-item active">
                                 <div class="carousel-item-content">
                                     <div class="carousel-item-caption">
-                                        <h2 class="carousel-item-caption-header">Design competitive MA plans using ProductIntel!</h2>
+                                        <%--  <h2 class="carousel-item-caption-header">Design competitive MA plans using ProductIntel!</h2>
                                         <p class="carousel-item-caption-desc">
                                             Comprehensive self-serve analytics around bid development, product portfolio design, performance management and product lifecycle management. 
 											<br />
                                             <br />
                                             Reach out to your account manager to measure & manage your product portfolio!
                                         </p>
-                                        <%--<a href="#" class="btn btn-sm btn-light">Learn more</a>--%>
+                                      <a href="#" class="btn btn-sm btn-light">Learn more</a>--%>
+
+                                        <div class="row">
+                                            <div class="col-sm-8">
+                                                <p class="carousel-item-caption-desc-img">
+                                                    <span class="textspan">Marketing<i>Intel</i>&trade;</span>
+                                                    provides your marketing team with a robust, on-demand centralized solution to increase marketing ROI and gain a higher share of the market.
+                                                </p>
+                                                <a href="RequestDemo.aspx" target="_blank" class="btn btn-sm btn-light">Book a Demo</a>
+                                            </div>
+                                            <div class="col-sm-4" style="text-align:center;">
+                                                <a href="dist/Images/banner1.png" target="_blank">
+                                                    <img src="dist/Images/banner1.jpg" /></a> <span class="image"><i>Click on image to enlarge</i></span>
+                                            </div>
+                                        </div>
+
                                     </div>
                                     <ol class="carousel-indicators">
                                         <li data-target="#homeCarousel" data-slide-to="0" class="active"></li>
@@ -59,7 +148,7 @@
                             <div class="carousel-item">
                                 <div class="carousel-item-content">
                                     <div class="carousel-item-caption">
-                                        <h2 class="carousel-item-caption-header">2021 AEP Findings Report</h2>
+                                        <%--  <h2 class="carousel-item-caption-header">2021 AEP Findings Report</h2>
                                         <p class="carousel-item-caption-desc">
                                             More plans, lower premiums, and increased Supplemental Benefits are the key Medicare Advantage trends of 2021.
                                             <br />
@@ -67,7 +156,22 @@
                                             Available <a href="https://www.healthworksai.com/2021-aep-findings-report/" title="HealthworksAI" target="_blank">here</a> or under the HealthWorksAI Insights section of the lobby. 
                                         </p>
 
-                                        <%--<a href="https://whitepaper_healthworksai.analytics-hub.com" title="HealthworksAI" target="_blank" class="btn btn-sm btn-light">Learn more</a>--%>
+                                      <a href="https://whitepaper_healthworksai.analytics-hub.com" title="HealthworksAI" target="_blank" class="btn btn-sm btn-light">Learn more</a>--%>
+                                        <div class="row">
+                                            <div class="col-sm-8">
+                                                <p class="carousel-item-caption-desc-img">
+                                                    What do you think about the various dashboards?
+                                                    <br />
+
+                                                    Let us know by clicking on <span class="textspan">Like/Unlike</span> button which is now available besides each dashboard in the platform.
+                                                </p>
+                                            </div>
+                                            <div class="col-sm-4" style="text-align:center;">
+                                                <a href="dist/Images/Banner2large.jpg" target="_blank">
+                                                    <img src="dist/Images/banner2.jpg" /></a>
+                                                <span class="image"><i>Click on image to enlarge</i></span>
+                                            </div>
+                                        </div>
                                     </div>
                                     <ol class="carousel-indicators">
                                         <li data-target="#homeCarousel" data-slide-to="0"></li>
@@ -79,15 +183,29 @@
                             <div class="carousel-item">
                                 <div class="carousel-item-content">
                                     <div class="carousel-item-caption">
-                                        <h2 class="carousel-item-caption-header">Supplemental, Enhanced, and SSBCI Benefit Trends</h2>
+                                        <%-- <h2 class="carousel-item-caption-header">Supplemental, Enhanced, and SSBCI Benefit Trends</h2>
                                         <p class="carousel-item-caption-desc">
                                             Explore year-over-year changes in Medicare Advantage benefit design in our newest interactive whitepaper.
                                             <br />
                                             <br />
                                             Available under the HealthWorksAI Insights section of the lobby.
                                         </p>
-                                        <%--<a href="#" target="_blank" class="btn btn-sm btn-light" type="button"
+                                       <a href="#" target="_blank" class="btn btn-sm btn-light" type="button"
                                             data-toggle="modal" data-target="#fpModaldownload">Learn more</a>--%>
+
+                                        <div class="row">
+                                            <div class="col-sm-8">
+                                                <p class="carousel-item-caption-desc-img">
+                                                    <span class="textspan">Product<i>Intel</i>&trade;</span> lets you design competitive MA Plans and simulate enrollment predictions for different plan designs.                                                   
+                                                   
+                                                </p>
+                                                <a href="RequestDemo.aspx" target="_blank" class="btn btn-sm btn-light">Book a Demo</a>
+                                            </div>
+                                            <div class="col-sm-4" style="text-align:center;">
+                                                <a href="dist/Images/banner3.png" target="_blank">
+                                                    <img src="dist/Images/banner3.jpg" /></a> <span class="image"><i>Click on image to enlarge</i></span>
+                                            </div>
+                                        </div>
                                     </div>
                                     <ol class="carousel-indicators">
                                         <li data-target="#homeCarousel" data-slide-to="0"></li>
@@ -97,6 +215,7 @@
                                 </div>
                             </div>
                         </div>
+
                     </div>
                     <div class="hw-login-slider">
                         <div class="hw-login-client-logo">
@@ -129,7 +248,7 @@
                                         ClientIDMode="Static" ValidationGroup="login" />
                                     <div class="text-danger text-center">
                                         <asp:Label Text="Your account or password is incorrect." runat="server" Visible="false" ID="lblErrorMessage" />
-                                        <asp:Label Text="Your last session was closed abnormally. Please click on reset button to reset your session." runat="server" ForeColor="Red" Visible="false" ID="LblLogoutMsg" />
+                                        <asp:Label Text="Your last session was closed abnormally. Please click on reset button to reset your session." runat="server" Visible="false" ID="LblLogoutMsg" />
                                         <asp:HiddenField ID="Hdn_username" runat="server" />
                                     </div>
                                     <div class="text-danger text-center">
@@ -165,7 +284,7 @@
                             <asp:TextBox runat="server" ID="txtEmail" CssClass="form-control" type="email" />
                         </div>
                         <div>
-                            <asp:Button Text="Get Password" runat="server" class="btn btn-primary" ID="btnReset"
+                            <asp:Button Text="Reset Password" runat="server" class="btn btn-primary" ID="btnReset"
                                 OnClick="btnReset_Click" OnClientClick="return ValidateForgotEmail();" />
                         </div>
                     </div>

@@ -207,5 +207,110 @@ namespace CommonUtility
                 customLogger.Error(ex.Message);
             }
         }
+
+
+        public void SendResetPasswordDetails(string emailId, string firstName, string UserId)
+        {
+            try
+            {
+                readURL = ConfigurationManager.AppSettings["siteAddress"].ToString();
+                mailMessage.From = new MailAddress(Constants.fromAddress);
+                mailMessage.To.Add(emailId);
+                mailMessage.Subject = "Reset Password";
+                string body = "";
+                path = readURL + "Pages/ResetPassword.aspx?UserId=" + UserId;
+                body += "Hi " + firstName + ",<br/><br/>Click on below given link to Reset Your Password.<br/><br/>";
+                body += "<a href = '" + path + "' >Click here to reset your password </a> ";
+                body += "<br/><br/>" + "Regards," + "<br/>" + "HealthWorksAI <br/>";
+                mailMessage.Body = body;
+                mailMessage.IsBodyHtml = true;
+                mailMessage.Priority = MailPriority.High;
+                smtpClient.Host = Constants.hostAddress;
+                smtpClient.EnableSsl = true;
+                smtpClient.Port = Constants.portNumber;
+                smtpClient.Credentials = new System.Net.NetworkCredential(Constants.fromAddress, Constants.passWord);
+                smtpClient.Send(mailMessage);
+            }
+            catch (Exception ex)
+            {
+                customLogger.Error(ex.Message);
+            }
+        }
+
+        public void SendMailonLikeUnlike(string user, string dashboard, string like)
+        {
+            try
+            {
+                readURL = ConfigurationManager.AppSettings["siteAddress"].ToString();
+
+                mailMessage.From = new MailAddress(Constants.fromAddress);
+                mailMessage.To.Add(Constants.fromAddress);
+                mailMessage.Subject = "Like/Unlike";
+
+                string body = "Hi Team, ";
+
+                if (like == "1")
+                {
+                    body += "<br /><br /> Below user has marked " + dashboard + " as Liked.<br /><br />";
+                }
+                else
+                {
+                    body += "<br /><br /> Below user has marked " + dashboard + " as Unliked.<br /><br />";
+                }
+
+                body += "User email id - " + user;
+                body += "<br/><br/>Regards,<br/>HealthWorksAI<br/>";
+
+                //mailMessage.AlternateViews.Add(Mail_Body(body));
+                mailMessage.Body = body;
+                mailMessage.IsBodyHtml = true;
+                mailMessage.Priority = MailPriority.High;
+                smtpClient.Host = Constants.hostAddress;
+                smtpClient.EnableSsl = true;
+                smtpClient.Port = Constants.portNumber;
+                smtpClient.Credentials = new System.Net.NetworkCredential(Constants.fromAddress, Constants.passWord);
+                smtpClient.Send(mailMessage);
+            }
+            catch (Exception ex)
+            {
+                customLogger.Error(ex.Message);
+            }
+        }
+
+        public void SendRequestDemoMail(string txtFirstName, string txtCompanyName, string type, string txtEmail)
+        {
+            try
+            {
+
+
+                mailMessage.From = new MailAddress(Constants.fromAddress);
+                mailMessage.To.Add(Constants.fromAddress);
+                // mailMessage.To.Add("Roopa.as@healthworksai.com");
+                mailMessage.Subject = "Request for Demo";
+
+                string body = "Hi Team, ";
+
+                body += "<br /><br /> " + txtFirstName + " has requested for " + type + " demo.<br /><br />";
+
+
+                body += "User email id - " + txtEmail;
+                body += "<br/> User Company - " + txtCompanyName;
+                body += "<br/><br/>Regards,<br/>HealthWorksAI<br/>";
+
+                //mailMessage.AlternateViews.Add(Mail_Body(body));
+                mailMessage.Body = body;
+                mailMessage.IsBodyHtml = true;
+                mailMessage.Priority = MailPriority.High;
+                smtpClient.Host = Constants.hostAddress;
+                smtpClient.EnableSsl = true;
+                smtpClient.Port = Constants.portNumber;
+                smtpClient.Credentials = new System.Net.NetworkCredential(Constants.fromAddress, Constants.passWord);
+                smtpClient.Send(mailMessage);
+            }
+            catch (Exception ex)
+            {
+                customLogger.Error(ex.Message);
+            }
+        }
     }
 }

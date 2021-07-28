@@ -40,9 +40,18 @@ namespace HealthWorks.Pages
         }
         private void LoadHelpPdf()
         {
-            //Session["FileName"] = Constants.CompetitorAnalysisPDF;
-            //LinkButton lbFullScreen = (LinkButton)Master.FindControl("lbFullScreen");
-            //lbFullScreen.Visible = true;
+            Session["FileName"] = null;
+            string dashboardPDF = ConfigurationManager.AppSettings[Session["dashboardURL"].ToString() + "PDF"].ToString();
+            Session["FileName"] = dashboardPDF;
+            LinkButton lbFullScreen = (LinkButton)Master.FindControl("lbFullScreen");
+            if (lbFullScreen != null && Session["FileName"] != null)
+            {
+                lbFullScreen.Visible = true;
+            }
+            else
+            {
+                lbFullScreen.Visible = false;
+            }
         }
         private void Active_DeactiveLinks()
         {

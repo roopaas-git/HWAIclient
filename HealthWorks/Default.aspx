@@ -51,6 +51,9 @@
             font-size: 12px;
             text-align: center !important;
         }
+        .imagesize {
+            padding-right:-20px;
+        }
     </style>
     <script>
         $(document).ready(function () {
@@ -133,7 +136,7 @@
                                             </div>
                                             <div class="col-sm-4" style="text-align:center;">
                                                 <a href="dist/Images/banner1.png" target="_blank">
-                                                    <img src="dist/Images/banner1.jpg" /></a> <span class="image"><i>Click on image to enlarge</i></span>
+                                                    <img src="dist/Images/banner1.jpg" class="imagesize" /></a> <span class="image"><i>Click on image to enlarge</i></span>
                                             </div>
                                         </div>
 

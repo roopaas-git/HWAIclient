@@ -17,6 +17,8 @@ namespace HealthWorks.Pages
 
         protected void Page_Load(object sender, EventArgs e)
         {
+            //Session["UserName"] = "roopa.as@teganalytics.com";
+            //Session["FirstName"] = "roopa.as@teganalytics.com";
             if (Session["UserName"] == null)
             {
                 Response.Redirect("~/Default.aspx");

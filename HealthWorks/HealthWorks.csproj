@@ -264,13 +264,13 @@
     <Content Include="Pages\ActivatePage.aspx" />
     <Content Include="Pages\ChangePassword.aspx" />
     <Content Include="Pages\CreateTicket.aspx" />
+    <Content Include="Pages\Dashboardparams.aspx" />
     <Content Include="Pages\Dashboard.aspx" />
     <Content Include="Pages\FullScreenView.aspx" />
     <Content Include="Pages\Health.Master" />
     <Content Include="Pages\HealthMaster.Master" />
     <Content Include="Pages\Home.aspx" />
     <Content Include="Pages\HealthMasterDashboard.Master" />
-    <Content Include="Documents\Right to Win Analysis Overview.pdf" />
     <None Include="Properties\PublishProfiles\CustomProfile.pubxml" />
     <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
     <None Include="Properties\PublishProfiles\FolderProfile1.pubxml" />
@@ -339,6 +339,13 @@
     </Compile>
     <Compile Include="Pages\CreateTicket.aspx.designer.cs">
       <DependentUpon>CreateTicket.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Dashboardparams.aspx.cs">
+      <DependentUpon>Dashboardparams.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Dashboardparams.aspx.designer.cs">
+      <DependentUpon>Dashboardparams.aspx</DependentUpon>
     </Compile>
     <Compile Include="Pages\Dashboard.aspx.cs">
       <DependentUpon>Dashboard.aspx</DependentUpon>
@@ -565,7 +572,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="dist\scss\style.scss" />
-    <Content Include="Documents\Campaign Analysis.pdf" />
     <None Include="packages.config" />
     <Content Include="TEGConfiguration.json" />
     <None Include="Web.Debug.config">

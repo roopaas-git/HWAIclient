@@ -47,20 +47,22 @@ namespace CommonUtility
                 mailMessage.From = new MailAddress(Constants.fromAddress);
                 mailMessage.To.Add(emailId);
                 mailMessage.Subject = Constants.activationHeader;
-                string supportemail = "mailto:support@healthworksai.com";
+                string email = "mailto:clientsuccess@healthworksai.com";
 
-                //  string body = "Hello " + firstName + ",";
-                string body = "";
-                body += "<br />Welcome to HealthWorksAI! A self-service data visualization platform providing you immediate access to market analytics, powerful simulators, and up-to-date metrics for strategic decision making.";
-                body += "<br /><br />A new account has been created for you upon request. Please click the link below to be connected to the platform and login using the username & temporary password found below.";
-                body += "<br /><br /><a href = '" + path + "'>" + Constants.siteAddress + "</a>";
+                string body = "<br />Hi " + firstName + ",";
+                //string body = "";
+                body += "<br />Welcome to HealthWorksAI! A self-service platform designed specifically for Medicare Advantage practitioners like you to make better business decisions.";
+                body += "<br /><br />On the platform you will have access to all of your subscribed data/analytics/simulators. You can also access recently published whitepapers and webinars. Feel free to click around…..it is hard to break anything &#128512;";
+                body += "<br /><br />You can also request a personalized tour of the platform by sending a mail to <a href='" + email + "'>clientsuccess@healthworksai.com</a>";
+                body += "<br /><br />If you are ready, simply click on the link below to get started.";
+                body += "<br /><a href = '" + path + "'>" + Constants.siteAddress + "</a>";
                 body += "<br />User Name: " + emailId;
                 body += "<br />Temporary Password: " + passWord;
-                body += "<br /><br />We recommend that you change your password after signing in for the first time.";
-                body += "<br /><br />If you require any assistance, please contact your dedicated Account Manager or email our team at <a href='" + supportemail + "'>support@healthworksai.com</a>.";
+                body += "<br /><br />If you are looking for some MA data or output but do not see it on the platform, who knows it may already be part of the product roadmap. Our client success team (<a href='" + email + "'>clientsuccess@healthworksai.com </a>) will be thrilled to hear from you. ";
+                //  body += "<br /><br />If you require any assistance, please contact your dedicated Account Manager or email our team at <a href='" + email + "'>clientsuccess@healthworksai.com</ a>.";
                 body += "<br /><br />Thank you,";
-                body += "<br />HealthWorksAI";
-
+                body += "<br />Team HealthWorksAI";
+                body += "<br />(908)-864-0238";
                 mailMessage.AlternateViews.Add(Mail_Body(body));
                 // mailMessage.Body = body;
                 mailMessage.IsBodyHtml = true;

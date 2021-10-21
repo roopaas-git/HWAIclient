@@ -51,6 +51,11 @@ namespace TableauUtility
             return tableauPath;
         }
 
+        public string GetTableauParamURL(string FinalTabServer, string ticket, string viewPath,string querystring)
+        {
+            tableauPath = FinalTabServer + "/trusted/" + ticket + "/t/" + Constants.tableauSiteName + "/views/" + viewPath + "?"+ querystring + "&:embed=yes&:toolbar=yes";
+            return tableauPath;
+        }
         public string GetWhitepaperTableauURL(string FinalTabServer, string ticket, string viewPath)
         {
             tableauPath = FinalTabServer + "/trusted/" + ticket + "/t/" + Constants.tableauWhitepaperSiteName + "/views/" + viewPath + "?:embed=yes&:toolbar=yes";

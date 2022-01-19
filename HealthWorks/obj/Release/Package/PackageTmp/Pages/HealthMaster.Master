@@ -367,6 +367,11 @@
                                 <a href="#" class="js-sub-menu-toggle"><i class="fa fa-bullseye"></i><span class="text">Product Intelligence</span>
                                     <i class="toggle-icon fa fa-angle-right"></i></a>
                                 <ul class="sub-menu" runat="server" id="ProductUL">
+                                      <li runat="server" id="ProductIntelC2L2Li">
+                                        <asp:LinkButton ID="ProductIntelC2L2" runat="server" CommandName="http://planfinder.analytics-hub.com/planFinder/" CommandArgument="PlanFinder" OnClientClick="PostToNewWindow();" OnClick="lbPlanFinder_Click" CssClass="hw-dashboard-link" Text="Plan Finder">
+                                            <span class="text">Plan Finder</span>
+                                        </asp:LinkButton>
+                                    </li>
                                     <li runat="server" id="MarketIntelC2L1Li">
                                         <asp:LinkButton ID="MarketIntelC2L1" runat="server" CommandName="3100px" CommandArgument="PlanComparison2021" OnClick="Dashboard_Click" Text="">
                                         <span class="text">2021 Plan Comparison <span class="badge badge-pill badge-warning platinumicon">NEW</span></span>

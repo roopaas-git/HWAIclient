@@ -50,6 +50,8 @@
                         </div>
                         <div class="card-body">
                             <div class="hw-dashboard-links-wrapper">
+                                 <asp:LinkButton ID="ProductIntelC2L2" runat="server" CommandArgument="PlanFinder" CommandName="http://planfinder.analytics-hub.com/planFinder/" OnClientClick="PostToNewWindow();" OnClick="lbPlanFinder_Click" CssClass="hw-dashboard-link" Text="Plan Finder"></asp:LinkButton>
+                                   
                                 <asp:LinkButton ID="MarketIntelC2L1" runat="server" CommandArgument="PlanComparison2021" CommandName="3100px" OnClick="Dashboard_Click" CssClass="hw-dashboard-link">2021 Plan Comparison <span class="badge badge-pill badge-warning platinumicon"> NEW</span></asp:LinkButton>
                                 <asp:LinkButton ID="MarketIntelC2L7" runat="server" CommandArgument="PlanComparison2020" CommandName="3100px" OnClick="Dashboard_Click" CssClass="hw-dashboard-link" Text="2020 Plan Comparison" />
                                 <asp:LinkButton ID="MarketIntelC2L2" runat="server" CommandArgument="MRXPlanComparison2021" CommandName="3100px" OnClick="Dashboard_Click" CssClass="hw-dashboard-link">2021 MRX Plan Comparison <span class="badge badge-pill badge-warning platinumicon"> NEW</span></asp:LinkButton>

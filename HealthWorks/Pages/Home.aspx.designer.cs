@@ -60,6 +60,15 @@ namespace HealthWorks.Pages
         protected global::System.Web.UI.WebControls.LinkButton UnlimitedIntelC2L2;
 
         /// <summary>
+        /// ProductIntelC2L2 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.LinkButton ProductIntelC2L2;
+
+        /// <summary>
         /// MarketIntelC2L1 control.
         /// </summary>
         /// <remarks>

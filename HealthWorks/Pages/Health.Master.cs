@@ -205,5 +205,20 @@ namespace HealthWorks.Pages
             Session["ActiveLink"] = lbExternal.ID.ToString() + "Li";
             Response.Redirect("~/Pages/PdfView.aspx");
         }
+
+        private string Get_UseID()
+        {
+            userDetails = new UserDetails();
+            DataSet lobjDS = userDetails.GetUserId(Session["Username"].ToString()) as DataSet;
+            return lobjDS.Tables[0].Rows[0][0].ToString();
+        }
+        protected void lbPlanFinder_Click(object sender, EventArgs e)
+        {
+            LinkButton lbSocio = sender as LinkButton;
+            PT.InsertDataIntoDB(lbSocio.CommandArgument, Session["SessionId"].ToString(), Session["UserName"].ToString(), lbSocio.CommandArgument);
+            string strUserId = Get_UseID();
+            string redirectToCube = lbSocio.CommandName.ToString() + strUserId;
+            Response.Redirect(redirectToCube);
+        }
     }
 }

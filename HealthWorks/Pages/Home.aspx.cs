@@ -175,5 +175,10 @@ namespace HealthWorks.Pages
             Response.Redirect(redirectToCube);
         }
 
+        protected void Popup_Click(object sender, EventArgs e)
+        {
+            Page.ClientScript.RegisterStartupScript(this.GetType(), "CallMyFunction", "openModal2()", true);
+        }
+
     }
 }

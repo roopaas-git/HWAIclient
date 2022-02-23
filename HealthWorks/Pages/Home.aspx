@@ -14,6 +14,7 @@
             alert("File does not exist,contact Account Manager.");
         }
     </script>
+     <link href="../dist/css/modalstyle.css" rel="stylesheet" />
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <div class="hw-pagecontent">
@@ -242,4 +243,53 @@
             modal2.style.display = "none";
         }
     </script>--%>
+
+    
+    <div id="myModal2" class="custom-modal">
+        <!-- Modal content -->
+        <div class="custom-modal-header"style="padding-bottom:25px; padding-top:0px">
+            <span></span>
+            <span class="far fa-times-circle close2" ></span>
+        </div>
+        <div class="custom-modal-content">
+            <div class="row">
+                <div class="col-12">
+                    <span>Simulations on 2022 plans will be made available from March 16.
+                  
+                    </span>
+                </div>
+            </div>
+            <div class="row">
+                </br>
+            </div>
+            <div class="row">
+                </br>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+        // Get the modal
+        var modal2 = document.getElementById('myModal2');
+
+        var divv = document.getElementById('#toptab');
+
+        // Get the button that opens the modal
+        var btn = document.getElementsByClassName("jsShare");
+
+        // Get the <span> element that closes the modal
+        var span2 = document.getElementsByClassName("close2")[0];
+
+        // Get the <span> element that closes the modal
+        var cancel = document.getElementsByClassName("cancelBtn")[0];
+
+        // When the user clicks the button, open the modal
+        function openModal2() {
+            modal2.style.display = "block";
+
+        }
+        // When the user clicks on <span> (x), close the modal
+        span2.onclick = function () {
+            modal2.style.display = "none";
+        }
+    </script>
 </asp:Content>

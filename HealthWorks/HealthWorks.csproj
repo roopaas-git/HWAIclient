@@ -49,6 +49,15 @@
     <Reference Include="Autofac, Version=4.9.2.0, Culture=neutral, PublicKeyToken=17863af14b0044da, processorArchitecture=MSIL">
       <HintPath>..\packages\Autofac.4.9.2\lib\net45\Autofac.dll</HintPath>
     </Reference>
+    <Reference Include="ClosedXML, Version=0.95.4.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ClosedXML.0.95.4\lib\net46\ClosedXML.dll</HintPath>
+    </Reference>
+    <Reference Include="DocumentFormat.OpenXml, Version=2.7.2.0, Culture=neutral, PublicKeyToken=8fb06cb64d019a17, processorArchitecture=MSIL">
+      <HintPath>..\packages\DocumentFormat.OpenXml.2.7.2\lib\net46\DocumentFormat.OpenXml.dll</HintPath>
+    </Reference>
+    <Reference Include="ExcelNumberFormat, Version=1.0.10.0, Culture=neutral, PublicKeyToken=23c6f5d73be07eca, processorArchitecture=MSIL">
+      <HintPath>..\packages\ExcelNumberFormat.1.0.10\lib\net20\ExcelNumberFormat.dll</HintPath>
+    </Reference>
     <Reference Include="Infragistics4.Web.v14.1, Version=14.1.20141.1015, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>Content\DLL\Infragistics4.Web.v14.1.dll</HintPath>
@@ -57,6 +66,15 @@
     <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\packages\Newtonsoft.Json.12.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
     </Reference>
+    <Reference Include="System.IO.FileSystem.Primitives, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.FileSystem.Primitives.4.0.1\lib\net46\System.IO.FileSystem.Primitives.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.IO.Packaging, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.Packaging.4.0.0\lib\net46\System.IO.Packaging.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http" />
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
     <Reference Include="System.Web.ApplicationServices" />
@@ -77,6 +95,7 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>bin\Telerik.Web.UI.dll</HintPath>
     </Reference>
+    <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
@@ -266,6 +285,9 @@
     <Content Include="Pages\CreateTicket.aspx" />
     <Content Include="Pages\Dashboardparams.aspx" />
     <Content Include="Pages\Dashboard.aspx" />
+    <Content Include="Pages\EnrollmentPlanList.aspx" />
+    <Content Include="Pages\EnrollmentQuickAccessSimulation.aspx" />
+    <Content Include="Pages\EnrollmentScenarioList.aspx" />
     <Content Include="Pages\FullScreenView.aspx" />
     <Content Include="Pages\Health.Master" />
     <Content Include="Pages\HealthMaster.Master" />
@@ -288,6 +310,7 @@
     <Content Include="Pages\PlanFinder.aspx" />
     <Content Include="Pages\PostAEPFindingsReport.aspx" />
     <Content Include="Pages\Profile.aspx" />
+    <Content Include="Pages\ProviderNetworkData.aspx" />
     <Content Include="Pages\QuickAccess.aspx" />
     <Content Include="Pages\Reports.aspx" />
     <Content Include="Pages\ResetPassword.aspx" />
@@ -353,6 +376,27 @@
     </Compile>
     <Compile Include="Pages\Dashboard.aspx.designer.cs">
       <DependentUpon>Dashboard.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\EnrollmentPlanList.aspx.cs">
+      <DependentUpon>EnrollmentPlanList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\EnrollmentPlanList.aspx.designer.cs">
+      <DependentUpon>EnrollmentPlanList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\EnrollmentQuickAccessSimulation.aspx.cs">
+      <DependentUpon>EnrollmentQuickAccessSimulation.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\EnrollmentQuickAccessSimulation.aspx.designer.cs">
+      <DependentUpon>EnrollmentQuickAccessSimulation.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\EnrollmentScenarioList.aspx.cs">
+      <DependentUpon>EnrollmentScenarioList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\EnrollmentScenarioList.aspx.designer.cs">
+      <DependentUpon>EnrollmentScenarioList.aspx</DependentUpon>
     </Compile>
     <Compile Include="Pages\FullScreenView.aspx.cs">
       <DependentUpon>FullScreenView.aspx</DependentUpon>
@@ -476,6 +520,13 @@
     </Compile>
     <Compile Include="Pages\Profile.aspx.designer.cs">
       <DependentUpon>Profile.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ProviderNetworkData.aspx.cs">
+      <DependentUpon>ProviderNetworkData.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\ProviderNetworkData.aspx.designer.cs">
+      <DependentUpon>ProviderNetworkData.aspx</DependentUpon>
     </Compile>
     <Compile Include="Pages\QuickAccess.aspx.cs">
       <DependentUpon>QuickAccess.aspx</DependentUpon>

@@ -108,3 +108,25 @@ E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HWAI\HWAIClient\DataUtility\ob
 E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HWAI\HWAIClient\DataUtility\obj\Release\DataUtility.csproj.CopyComplete
 E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HWAI\HWAIClient\DataUtility\obj\Release\DataUtility.dll
 E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HWAI\HWAIClient\DataUtility\obj\Release\DataUtility.pdb
+E:\2022\HW\BayCare\DataUtility\bin\Release\DataUtility.dll
+E:\2022\HW\BayCare\DataUtility\bin\Release\DataUtility.pdb
+E:\2022\HW\BayCare\DataUtility\bin\Release\LoggerUtility.dll
+E:\2022\HW\BayCare\DataUtility\bin\Release\Serilog.dll
+E:\2022\HW\BayCare\DataUtility\bin\Release\Microsoft.Extensions.Configuration.dll
+E:\2022\HW\BayCare\DataUtility\bin\Release\Serilog.Sinks.File.dll
+E:\2022\HW\BayCare\DataUtility\bin\Release\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\2022\HW\BayCare\DataUtility\bin\Release\Microsoft.Extensions.Primitives.dll
+E:\2022\HW\BayCare\DataUtility\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+E:\2022\HW\BayCare\DataUtility\bin\Release\LoggerUtility.pdb
+E:\2022\HW\BayCare\DataUtility\bin\Release\Serilog.pdb
+E:\2022\HW\BayCare\DataUtility\bin\Release\Serilog.xml
+E:\2022\HW\BayCare\DataUtility\bin\Release\Microsoft.Extensions.Configuration.xml
+E:\2022\HW\BayCare\DataUtility\bin\Release\Serilog.Sinks.File.xml
+E:\2022\HW\BayCare\DataUtility\bin\Release\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\2022\HW\BayCare\DataUtility\bin\Release\Microsoft.Extensions.Primitives.xml
+E:\2022\HW\BayCare\DataUtility\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+E:\2022\HW\BayCare\DataUtility\obj\Release\DataUtility.csprojAssemblyReference.cache
+E:\2022\HW\BayCare\DataUtility\obj\Release\DataUtility.csproj.CoreCompileInputs.cache
+E:\2022\HW\BayCare\DataUtility\obj\Release\DataUtility.csproj.CopyComplete
+E:\2022\HW\BayCare\DataUtility\obj\Release\DataUtility.dll
+E:\2022\HW\BayCare\DataUtility\obj\Release\DataUtility.pdb

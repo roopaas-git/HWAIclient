@@ -192,3 +192,29 @@ E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\HWAIClient\TableauUtility\o
 E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\HWAIClient\TableauUtility\obj\Debug\TableauUtility.csproj.CopyComplete
 E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\HWAIClient\TableauUtility\obj\Debug\TableauUtility.dll
 E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\HWAIClient\TableauUtility\obj\Debug\TableauUtility.pdb
+E:\2022\HW\BayCare\TableauUtility\bin\Debug\TableauUtility.dll
+E:\2022\HW\BayCare\TableauUtility\bin\Debug\TableauUtility.pdb
+E:\2022\HW\BayCare\TableauUtility\bin\Debug\CommonUtility.dll
+E:\2022\HW\BayCare\TableauUtility\bin\Debug\LoggerUtility.dll
+E:\2022\HW\BayCare\TableauUtility\bin\Debug\Newtonsoft.Json.dll
+E:\2022\HW\BayCare\TableauUtility\bin\Debug\Serilog.dll
+E:\2022\HW\BayCare\TableauUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\2022\HW\BayCare\TableauUtility\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\2022\HW\BayCare\TableauUtility\bin\Debug\Serilog.Sinks.File.dll
+E:\2022\HW\BayCare\TableauUtility\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\2022\HW\BayCare\TableauUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\2022\HW\BayCare\TableauUtility\bin\Debug\CommonUtility.pdb
+E:\2022\HW\BayCare\TableauUtility\bin\Debug\LoggerUtility.pdb
+E:\2022\HW\BayCare\TableauUtility\bin\Debug\Newtonsoft.Json.xml
+E:\2022\HW\BayCare\TableauUtility\bin\Debug\Serilog.pdb
+E:\2022\HW\BayCare\TableauUtility\bin\Debug\Serilog.xml
+E:\2022\HW\BayCare\TableauUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\2022\HW\BayCare\TableauUtility\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\2022\HW\BayCare\TableauUtility\bin\Debug\Serilog.Sinks.File.xml
+E:\2022\HW\BayCare\TableauUtility\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\2022\HW\BayCare\TableauUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\2022\HW\BayCare\TableauUtility\obj\Debug\TableauUtility.csprojAssemblyReference.cache
+E:\2022\HW\BayCare\TableauUtility\obj\Debug\TableauUtility.csproj.CoreCompileInputs.cache
+E:\2022\HW\BayCare\TableauUtility\obj\Debug\TableauUtility.csproj.CopyComplete
+E:\2022\HW\BayCare\TableauUtility\obj\Debug\TableauUtility.dll
+E:\2022\HW\BayCare\TableauUtility\obj\Debug\TableauUtility.pdb

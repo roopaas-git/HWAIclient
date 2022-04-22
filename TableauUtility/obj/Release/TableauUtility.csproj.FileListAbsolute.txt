@@ -88,3 +88,29 @@ E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HWAI\HWAIClient\TableauUtility
 E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HWAI\HWAIClient\TableauUtility\obj\Release\TableauUtility.csproj.CopyComplete
 E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HWAI\HWAIClient\TableauUtility\obj\Release\TableauUtility.dll
 E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HWAI\HWAIClient\TableauUtility\obj\Release\TableauUtility.pdb
+E:\2022\HW\BayCare\TableauUtility\bin\Release\TableauUtility.dll
+E:\2022\HW\BayCare\TableauUtility\bin\Release\TableauUtility.pdb
+E:\2022\HW\BayCare\TableauUtility\bin\Release\CommonUtility.dll
+E:\2022\HW\BayCare\TableauUtility\bin\Release\LoggerUtility.dll
+E:\2022\HW\BayCare\TableauUtility\bin\Release\Newtonsoft.Json.dll
+E:\2022\HW\BayCare\TableauUtility\bin\Release\Serilog.dll
+E:\2022\HW\BayCare\TableauUtility\bin\Release\Microsoft.Extensions.Configuration.dll
+E:\2022\HW\BayCare\TableauUtility\bin\Release\Serilog.Sinks.File.dll
+E:\2022\HW\BayCare\TableauUtility\bin\Release\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\2022\HW\BayCare\TableauUtility\bin\Release\Microsoft.Extensions.Primitives.dll
+E:\2022\HW\BayCare\TableauUtility\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+E:\2022\HW\BayCare\TableauUtility\bin\Release\CommonUtility.pdb
+E:\2022\HW\BayCare\TableauUtility\bin\Release\LoggerUtility.pdb
+E:\2022\HW\BayCare\TableauUtility\bin\Release\Newtonsoft.Json.xml
+E:\2022\HW\BayCare\TableauUtility\bin\Release\Serilog.pdb
+E:\2022\HW\BayCare\TableauUtility\bin\Release\Serilog.xml
+E:\2022\HW\BayCare\TableauUtility\bin\Release\Microsoft.Extensions.Configuration.xml
+E:\2022\HW\BayCare\TableauUtility\bin\Release\Serilog.Sinks.File.xml
+E:\2022\HW\BayCare\TableauUtility\bin\Release\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\2022\HW\BayCare\TableauUtility\bin\Release\Microsoft.Extensions.Primitives.xml
+E:\2022\HW\BayCare\TableauUtility\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+E:\2022\HW\BayCare\TableauUtility\obj\Release\TableauUtility.csprojAssemblyReference.cache
+E:\2022\HW\BayCare\TableauUtility\obj\Release\TableauUtility.csproj.CoreCompileInputs.cache
+E:\2022\HW\BayCare\TableauUtility\obj\Release\TableauUtility.csproj.CopyComplete
+E:\2022\HW\BayCare\TableauUtility\obj\Release\TableauUtility.dll
+E:\2022\HW\BayCare\TableauUtility\obj\Release\TableauUtility.pdb

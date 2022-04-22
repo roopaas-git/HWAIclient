@@ -118,3 +118,27 @@ E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HWAI\HWAIClient\CommonUtility\
 E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HWAI\HWAIClient\CommonUtility\obj\Release\CommonUtility.csproj.CopyComplete
 E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HWAI\HWAIClient\CommonUtility\obj\Release\CommonUtility.dll
 E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HWAI\HWAIClient\CommonUtility\obj\Release\CommonUtility.pdb
+E:\2022\HW\BayCare\CommonUtility\bin\Release\CommonUtility.dll
+E:\2022\HW\BayCare\CommonUtility\bin\Release\CommonUtility.pdb
+E:\2022\HW\BayCare\CommonUtility\bin\Release\LoggerUtility.dll
+E:\2022\HW\BayCare\CommonUtility\bin\Release\Newtonsoft.Json.dll
+E:\2022\HW\BayCare\CommonUtility\bin\Release\Serilog.dll
+E:\2022\HW\BayCare\CommonUtility\bin\Release\Microsoft.Extensions.Configuration.dll
+E:\2022\HW\BayCare\CommonUtility\bin\Release\Serilog.Sinks.File.dll
+E:\2022\HW\BayCare\CommonUtility\bin\Release\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\2022\HW\BayCare\CommonUtility\bin\Release\Microsoft.Extensions.Primitives.dll
+E:\2022\HW\BayCare\CommonUtility\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+E:\2022\HW\BayCare\CommonUtility\bin\Release\LoggerUtility.pdb
+E:\2022\HW\BayCare\CommonUtility\bin\Release\Newtonsoft.Json.xml
+E:\2022\HW\BayCare\CommonUtility\bin\Release\Serilog.pdb
+E:\2022\HW\BayCare\CommonUtility\bin\Release\Serilog.xml
+E:\2022\HW\BayCare\CommonUtility\bin\Release\Microsoft.Extensions.Configuration.xml
+E:\2022\HW\BayCare\CommonUtility\bin\Release\Serilog.Sinks.File.xml
+E:\2022\HW\BayCare\CommonUtility\bin\Release\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\2022\HW\BayCare\CommonUtility\bin\Release\Microsoft.Extensions.Primitives.xml
+E:\2022\HW\BayCare\CommonUtility\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+E:\2022\HW\BayCare\CommonUtility\obj\Release\CommonUtility.csprojAssemblyReference.cache
+E:\2022\HW\BayCare\CommonUtility\obj\Release\CommonUtility.csproj.CoreCompileInputs.cache
+E:\2022\HW\BayCare\CommonUtility\obj\Release\CommonUtility.csproj.CopyComplete
+E:\2022\HW\BayCare\CommonUtility\obj\Release\CommonUtility.dll
+E:\2022\HW\BayCare\CommonUtility\obj\Release\CommonUtility.pdb

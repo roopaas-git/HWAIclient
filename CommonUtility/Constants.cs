@@ -35,6 +35,8 @@ namespace CommonUtility
 
         public static string pythonExeFileLocation = ConfigurationManager.AppSettings["PythonExeFile"].ToString();
         public static string pythonProgramFile = ConfigurationManager.AppSettings["PythonFile"].ToString();
+        public static string pythonAPICall = ConfigurationManager.AppSettings["PythonAPICall"].ToString();
+        public static string PythonProviderDataCSV = ConfigurationManager.AppSettings["PythonProviderDataCSV"].ToString();
 
         public const string platinumDocumentsFolder = "https:/ibxhealthworks.analytics-hub.com";
         public const string goldDocumentsFolder = "https:/teghealthworks.analytics-hub.com";

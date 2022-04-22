@@ -382,3 +382,27 @@ E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\HWAIClient\CommonUtility\ob
 E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\HWAIClient\CommonUtility\obj\Debug\CommonUtility.csproj.CopyComplete
 E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\HWAIClient\CommonUtility\obj\Debug\CommonUtility.dll
 E:\OneDrive - TEG Business Solutions Pvt Ltd\Work\HW\HWAIClient\CommonUtility\obj\Debug\CommonUtility.pdb
+E:\2022\HW\BayCare\CommonUtility\bin\Debug\CommonUtility.dll
+E:\2022\HW\BayCare\CommonUtility\bin\Debug\CommonUtility.pdb
+E:\2022\HW\BayCare\CommonUtility\bin\Debug\LoggerUtility.dll
+E:\2022\HW\BayCare\CommonUtility\bin\Debug\Newtonsoft.Json.dll
+E:\2022\HW\BayCare\CommonUtility\bin\Debug\Serilog.dll
+E:\2022\HW\BayCare\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\2022\HW\BayCare\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\2022\HW\BayCare\CommonUtility\bin\Debug\Serilog.Sinks.File.dll
+E:\2022\HW\BayCare\CommonUtility\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\2022\HW\BayCare\CommonUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\2022\HW\BayCare\CommonUtility\bin\Debug\LoggerUtility.pdb
+E:\2022\HW\BayCare\CommonUtility\bin\Debug\Newtonsoft.Json.xml
+E:\2022\HW\BayCare\CommonUtility\bin\Debug\Serilog.pdb
+E:\2022\HW\BayCare\CommonUtility\bin\Debug\Serilog.xml
+E:\2022\HW\BayCare\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\2022\HW\BayCare\CommonUtility\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\2022\HW\BayCare\CommonUtility\bin\Debug\Serilog.Sinks.File.xml
+E:\2022\HW\BayCare\CommonUtility\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\2022\HW\BayCare\CommonUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\2022\HW\BayCare\CommonUtility\obj\Debug\CommonUtility.csprojAssemblyReference.cache
+E:\2022\HW\BayCare\CommonUtility\obj\Debug\CommonUtility.csproj.CoreCompileInputs.cache
+E:\2022\HW\BayCare\CommonUtility\obj\Debug\CommonUtility.csproj.CopyComplete
+E:\2022\HW\BayCare\CommonUtility\obj\Debug\CommonUtility.dll
+E:\2022\HW\BayCare\CommonUtility\obj\Debug\CommonUtility.pdb
